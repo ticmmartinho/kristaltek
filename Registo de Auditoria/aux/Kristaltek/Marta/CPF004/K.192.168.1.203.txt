@@ -1,0 +1,1650 @@
+0--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+1*************************************************************************  AUDITORIA ***************************************************************************** 
+2****************************************************************************************************************************************************************** 
+3--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+4----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+5DATA #########################################################################################################   
+6----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+7oficina17\desenho
+ 
+8_______________________________________ 
+ 
+9/06/2018 17:26:58 
+ 
+10----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+11INFORMACAO DO SISTEMA ######################################################################################   
+12----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+13Host Name:                 OFICINA17
+14OS Name:                   Microsoft Windows 8.1 Pro
+15OS Version:                6.3.9600 N/A Build 9600
+16OS Manufacturer:           Microsoft Corporation
+17OS Configuration:          Standalone Workstation
+18OS Build Type:             Multiprocessor Free
+19Registered Owner:          Kristaltek
+20Registered Organization:   
+21Product ID:                00259-40843-55151-AAOEM
+22Original Install Date:     18/06/2014, 16:24:57
+23System Boot Time:          14/05/2018, 07:57:20
+24System Manufacturer:       System manufacturer
+25System Model:              System Product Name
+26System Type:               x64-based PC
+27Processor(s):              1 Processor(s) Installed.
+28[01]: Intel64 Family 6 Model 30 Stepping 5 GenuineIntel ~2801 Mhz
+29BIOS Version:              American Megatrends Inc. 0606   , 03/09/2009
+30Windows Directory:         C:\Windows
+31System Directory:          C:\Windows\system32
+32Boot Device:               \Device\HarddiskVolume1
+33System Locale:             pt;Portuguàs (Portugal)
+34Input Locale:              pt;Portuguàs (Portugal)
+35Time Zone:                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+36Total Physical Memory:     8ˇ182 MB
+37Available Physical Memory: 6ˇ215 MB
+38Virtual Memory: Max Size:  9ˇ462 MB
+39Virtual Memory: Available: 7ˇ420 MB
+40Virtual Memory: In Use:    2ˇ042 MB
+41Page File Location(s):     C:\pagefile.sys
+42Domain:                    OFICINA
+43Logon Server:              \\OFICINA17
+44Hotfix(s):                 268 Hotfix(s) Installed.
+45[01]: KB2899189_Microsoft-Windows-CameraCodec-Package
+46[02]: KB2868626
+47[03]: KB2883200
+48[04]: KB2887595
+49[05]: KB2894852
+50[06]: KB2894856
+51[07]: KB2903939
+52[08]: KB2911106
+53[09]: KB2919355
+54[10]: KB2919394
+55[11]: KB2920189
+56[12]: KB2928680
+57[13]: KB2934518
+58[14]: KB2934520
+59[15]: KB2954879
+60[16]: KB2955164
+61[17]: KB2959626
+62[18]: KB2961908
+63[19]: KB2965142
+64[20]: KB2965500
+65[21]: KB2966826
+66[22]: KB2966828
+67[23]: KB2967917
+68[24]: KB2968296
+69[25]: KB2969339
+70[26]: KB2971203
+71[27]: KB2972103
+72[28]: KB2972213
+73[29]: KB2975061
+74[30]: KB2975719
+75[31]: KB2976627
+76[32]: KB2976978
+77[33]: KB2977629
+78[34]: KB2978122
+79[35]: KB2978126
+80[36]: KB2984006
+81[37]: KB2987107
+82[38]: KB2989647
+83[39]: KB2989930
+84[40]: KB2990967
+85[41]: KB2993100
+86[42]: KB2994290
+87[43]: KB2995004
+88[44]: KB2995388
+89[45]: KB2996799
+90[46]: KB2998174
+91[47]: KB3000850
+92[48]: KB3003057
+93[49]: KB3003667
+94[50]: KB3004365
+95[51]: KB3004545
+96[52]: KB3008923
+97[53]: KB3012199
+98[54]: KB3012235
+99[55]: KB3012702
+100[56]: KB3013172
+101[57]: KB3013531
+102[58]: KB3013538
+103[59]: KB3013769
+104[60]: KB3013791
+105[61]: KB3013816
+106[62]: KB3014442
+107[63]: KB3015696
+108[64]: KB3018133
+109[65]: KB3019978
+110[66]: KB3020370
+111[67]: KB3021910
+112[68]: KB3021952
+113[69]: KB3023219
+114[70]: KB3023222
+115[71]: KB3024751
+116[72]: KB3024755
+117[73]: KB3029603
+118[74]: KB3029606
+119[75]: KB3030377
+120[76]: KB3030947
+121[77]: KB3032359
+122[78]: KB3033446
+123[79]: KB3035126
+124[80]: KB3035487
+125[81]: KB3036612
+126[82]: KB3037576
+127[83]: KB3037579
+128[84]: KB3037924
+129[85]: KB3038002
+130[86]: KB3038314
+131[87]: KB3042085
+132[88]: KB3044374
+133[89]: KB3044673
+134[90]: KB3045634
+135[91]: KB3045685
+136[92]: KB3045717
+137[93]: KB3045719
+138[94]: KB3045755
+139[95]: KB3045999
+140[96]: KB3046017
+141[97]: KB3046480
+142[98]: KB3046737
+143[99]: KB3047254
+144[100]: KB3048043
+145[101]: KB3049563
+146[102]: KB3050267
+147[103]: KB3053863
+148[104]: KB3054169
+149[105]: KB3054256
+150[106]: KB3054464
+151[107]: KB3055323
+152[108]: KB3055343
+153[109]: KB3055642
+154[110]: KB3056347
+155[111]: KB3058515
+156[112]: KB3059317
+157[113]: KB3060793
+158[114]: KB3061493
+159[115]: KB3061512
+160[116]: KB3062760
+161[117]: KB3063843
+162[118]: KB3064059
+163[119]: KB3064209
+164[120]: KB3065822
+165[121]: KB3068708
+166[122]: KB3071756
+167[123]: KB3072019
+168[124]: KB3072307
+169[125]: KB3074228
+170[126]: KB3074545
+171[127]: KB3074548
+172[128]: KB3075220
+173[129]: KB3075853
+174[130]: KB3076949
+175[131]: KB3077715
+176[132]: KB3078071
+177[133]: KB3078405
+178[134]: KB3078676
+179[135]: KB3080042
+180[136]: KB3080149
+181[137]: KB3080800
+182[138]: KB3082089
+183[139]: KB3083325
+184[140]: KB3083711
+185[141]: KB3084135
+186[142]: KB3084905
+187[143]: KB3086255
+188[144]: KB3087038
+189[145]: KB3087040
+190[146]: KB3087041
+191[147]: KB3087137
+192[148]: KB3087916
+193[149]: KB3089023
+194[150]: KB3091297
+195[151]: KB3093983
+196[152]: KB3095701
+197[153]: KB3097992
+198[154]: KB3097997
+199[155]: KB3098779
+200[156]: KB3099406
+201[157]: KB3099834
+202[158]: KB3100473
+203[159]: KB3100773
+204[160]: KB3102429
+205[161]: KB3102812
+206[162]: KB3103616
+207[163]: KB3103688
+208[164]: KB3103696
+209[165]: KB3103709
+210[166]: KB3104002
+211[167]: KB3105216
+212[168]: KB3109103
+213[169]: KB3109560
+214[170]: KB3109976
+215[171]: KB3110329
+216[172]: KB3112336
+217[173]: KB3115224
+218[174]: KB3119147
+219[175]: KB3121261
+220[176]: KB3124275
+221[177]: KB3126030
+222[178]: KB3126434
+223[179]: KB3126587
+224[180]: KB3127222
+225[181]: KB3127226
+226[182]: KB3128650
+227[183]: KB3132372
+228[184]: KB3133431
+229[185]: KB3133690
+230[186]: KB3134814
+231[187]: KB3134815
+232[188]: KB3135782
+233[189]: KB3135994
+234[190]: KB3137728
+235[191]: KB3138378
+236[192]: KB3138602
+237[193]: KB3138615
+238[194]: KB3138910
+239[195]: KB3138962
+240[196]: KB3139398
+241[197]: KB3139914
+242[198]: KB3139929
+243[199]: KB3140185
+244[200]: KB3140219
+245[201]: KB3140222
+246[202]: KB3140234
+247[203]: KB3141092
+248[204]: KB3142026
+249[205]: KB3142030
+250[206]: KB3144756
+251[207]: KB3145384
+252[208]: KB3146604
+253[209]: KB3146723
+254[210]: KB3146751
+255[211]: KB3147071
+256[212]: KB3148198
+257[213]: KB3148851
+258[214]: KB3154070
+259[215]: KB3154132
+260[216]: KB3155784
+261[217]: KB3156059
+262[218]: KB3157993
+263[219]: KB3159398
+264[220]: KB3160005
+265[221]: KB3161102
+266[222]: KB3161949
+267[223]: KB3162835
+268[224]: KB3163207
+269[225]: KB3163291
+270[226]: KB3167685
+271[227]: KB3170106
+272[228]: KB3172614
+273[229]: KB3172729
+274[230]: KB3173424
+275[231]: KB3174060
+276[232]: KB3175024
+277[233]: KB3175443
+278[234]: KB3178539
+279[235]: KB3179574
+280[236]: KB3184143
+281[237]: KB3187754
+282[238]: KB3210132
+283[239]: KB3210137
+284[240]: KB3214628
+285[241]: KB4010250
+286[242]: KB4012213
+287[243]: KB4014329
+288Network Card(s):           2 NIC(s) Installed.
+289[01]: Inventec PCI GBE Family Controller
+290Connection Name: Ethernet
+291Status:          Media disconnected
+292[02]: Inventec PCIe GBE Family Controller
+293Connection Name: Ethernet 2
+294DHCP Enabled:    No
+295IP address(es)
+296[01]: 192.168.1.203
+297[02]: fe80::c0f5:1a92:72b1:2814
+298Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+299Virtualization Enabled In Firmware: Yes
+300Second Level Address Translation: Yes
+301Data Execution Prevention Available: Yes
+ 
+302----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+303VERSAO BIOS #################################################################################################   
+304----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+305SMBIOSBIOSVersion=0606   
+
+
+ 
+306----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+307INFORMACAO IP ###############################################################################################   
+308----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+309Windows IP Configuration
+
+310Host Name . . . . . . . . . . . . : Oficina17
+311Primary Dns Suffix  . . . . . . . : 
+312Node Type . . . . . . . . . . . . : Hybrid
+313IP Routing Enabled. . . . . . . . : No
+314WINS Proxy Enabled. . . . . . . . : No
+
+315Ethernet adapter Ethernet 2:
+
+316Connection-specific DNS Suffix  . : 
+317Deion . . . . . . . . . . . : Inventec PCIe GBE Family Controller
+318Physical Address. . . . . . . . . : 90-E6-BA-36-5D-9D
+319DHCP Enabled. . . . . . . . . . . : No
+320Autoconfiguration Enabled . . . . : Yes
+321Link-local IPv6 Address . . . . . : fe80::c0f5:1a92:72b1:2814%4(Preferred) 
+322IPv4 Address. . . . . . . . . . . : 192.168.1.203(Preferred) 
+323Subnet Mask . . . . . . . . . . . : 255.255.255.0
+324Default Gateway . . . . . . . . . : 192.168.1.250
+325DHCPv6 IAID . . . . . . . . . . . : 76605114
+326DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1B-33-68-4B-90-E6-BA-36-54-7E
+327DNS Servers . . . . . . . . . . . : 8.8.8.8
+328.8.4.4
+329NetBIOS over Tcpip. . . . . . . . : Enabled
+
+330Ethernet adapter Ethernet:
+
+331Media State . . . . . . . . . . . : Media disconnected
+332Connection-specific DNS Suffix  . : 
+333Deion . . . . . . . . . . . : Inventec PCI GBE Family Controller
+334Physical Address. . . . . . . . . : 90-E6-BA-36-54-7E
+335DHCP Enabled. . . . . . . . . . . : Yes
+336Autoconfiguration Enabled . . . . : Yes
+
+337Tunnel adapter isatap.{1AA3220E-95A9-478D-BB08-9722C364EE39}:
+
+338Media State . . . . . . . . . . . : Media disconnected
+339Connection-specific DNS Suffix  . : 
+340Deion . . . . . . . . . . . : Placa Microsoft ISATAP #2
+341Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+342DHCP Enabled. . . . . . . . . . . : No
+343Autoconfiguration Enabled . . . . : Yes
+ 
+344----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+345INFORMACAO DISCOS ##########################################################################################   
+346----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+347Caption=C:
+348DriveType=3
+349FreeSpace=182445973504
+350Size=255691059200
+
+
+351Caption=D:
+352DriveType=3
+353FreeSpace=482587230208
+354Size=500104687616
+
+
+355Caption=E:
+356DriveType=2
+357FreeSpace=
+358Size=
+
+
+359Caption=F:
+360DriveType=2
+361FreeSpace=
+362Size=
+
+
+363Caption=G:
+364DriveType=2
+365FreeSpace=
+366Size=
+
+
+367Caption=H:
+368DriveType=5
+369FreeSpace=
+370Size=
+
+
+371Caption=J:
+372DriveType=2
+373FreeSpace=
+374Size=
+
+
+375Caption=K:
+376DriveType=2
+377FreeSpace=
+378Size=
+
+
+379Caption=L:
+380DriveType=2
+381FreeSpace=
+382Size=
+
+
+383Caption=M:
+384DriveType=2
+385FreeSpace=
+386Size=
+
+
+387Caption=N:
+388DriveType=2
+389FreeSpace=
+390Size=
+
+
+391Caption=O:
+392DriveType=2
+393FreeSpace=
+394Size=
+
+
+395Caption=Y:
+396DriveType=4
+397FreeSpace=6731805638656
+398Size=7929882996736
+
+
+ 
+
+
+399Caption=Generic STORAGE DEVICE USB Device
+400DeviceID=\\.\PHYSICALDRIVE8
+401Model=Generic STORAGE DEVICE USB Device
+402Partitions=0
+403Size=
+
+
+404Caption=Generic STORAGE DEVICE USB Device
+405DeviceID=\\.\PHYSICALDRIVE10
+406Model=Generic STORAGE DEVICE USB Device
+407Partitions=0
+408Size=
+
+
+409Caption=Samsung SSD 840 PRO Series
+410DeviceID=\\.\PHYSICALDRIVE0
+411Model=Samsung SSD 840 PRO Series
+412Partitions=2
+413Size=256052966400
+
+
+414Caption=Generic STORAGE DEVICE USB Device
+415DeviceID=\\.\PHYSICALDRIVE7
+416Model=Generic STORAGE DEVICE USB Device
+417Partitions=0
+418Size=
+
+
+419Caption=Lexar SD  USB_3_0 Read USB Device
+420DeviceID=\\.\PHYSICALDRIVE3
+421Model=Lexar SD  USB_3_0 Read USB Device
+422Partitions=0
+423Size=
+
+
+424Caption=Lexar CF  USB_3_0 Read USB Device
+425DeviceID=\\.\PHYSICALDRIVE2
+426Model=Lexar CF  USB_3_0 Read USB Device
+427Partitions=0
+428Size=
+
+
+429Caption=Lexar XD  USB_3_0 Read USB Device
+430DeviceID=\\.\PHYSICALDRIVE6
+431Model=Lexar XD  USB_3_0 Read USB Device
+432Partitions=0
+433Size=
+
+
+434Caption=Generic STORAGE DEVICE USB Device
+435DeviceID=\\.\PHYSICALDRIVE9
+436Model=Generic STORAGE DEVICE USB Device
+437Partitions=0
+438Size=
+
+
+439Caption=Lexar MS  USB_3_0 Read USB Device
+440DeviceID=\\.\PHYSICALDRIVE4
+441Model=Lexar MS  USB_3_0 Read USB Device
+442Partitions=0
+443Size=
+
+
+444Caption=WDC WD5000AAKX-08U6AA0
+445DeviceID=\\.\PHYSICALDRIVE1
+446Model=WDC WD5000AAKX-08U6AA0
+447Partitions=1
+448Size=500105249280
+
+
+449Caption=Lexar MSD USB_3_0 Read USB Device
+450DeviceID=\\.\PHYSICALDRIVE5
+451Model=Lexar MSD USB_3_0 Read USB Device
+452Partitions=0
+453Size=
+
+
+ 
+
+
+454Caption=Generic STORAGE DEVICE USB Device
+
+
+455Caption=Generic STORAGE DEVICE USB Device
+
+
+456Caption=Samsung SSD 840 PRO Series
+
+
+457Caption=Generic STORAGE DEVICE USB Device
+
+
+458Caption=Lexar SD  USB_3_0 Read USB Device
+
+
+459Caption=Lexar CF  USB_3_0 Read USB Device
+
+
+460Caption=Lexar XD  USB_3_0 Read USB Device
+
+
+461Caption=Generic STORAGE DEVICE USB Device
+
+
+462Caption=Lexar MS  USB_3_0 Read USB Device
+
+
+463Caption=WDC WD5000AAKX-08U6AA0
+
+
+464Caption=Lexar MSD USB_3_0 Read USB Device
+
+
+ 
+465----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+466INFORMACAO FABRICO #########################################################################################   
+467----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+468Manufacturer=ASUSTeK Computer INC.
+469Product=P7P55D DELUXE
+470SerialNumber=101720820001640
+471Version=Rev 1.xx
+
+
+ 
+472----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+473INFORMACAO PROCESSADOR ###################################################################################   
+474----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+475Name=Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz
+
+
+ 
+
+
+476MaxClockSpeed=2801
+477Name=Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz
+478NumberOfCores=4
+479Status=OK
+
+
+ 
+480----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+481INFORMACAO UTILIZADOR ATUAL ################################################################################   
+482----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+483USER INFORMATION
+484----------------
+
+485User Name         SID                                           
+486================= ==============================================
+487oficina17\desenho S-1-5-21-1931502779-3739269308-3650505845-1002
+
+
+488GROUP INFORMATION
+489-----------------
+
+490Group Name                                   Type             SID          Attributes                                        
+491============================================ ================ ============ ==================================================
+492Todos                                        Well-known group S-1-1-0      Mandatory group, Enabled by default, Enabled group
+493BUILTIN\Utilizadores                         Alias            S-1-5-32-545 Mandatory group, Enabled by default, Enabled group
+494NT AUTHORITY\INTERACTIVE                     Well-known group S-1-5-4      Mandatory group, Enabled by default, Enabled group
+495IN÷CIO DE SESS«O NA CONSOLA                  Well-known group S-1-2-1      Mandatory group, Enabled by default, Enabled group
+496NT AUTHORITY\Utilizadores Autenticados       Well-known group S-1-5-11     Mandatory group, Enabled by default, Enabled group
+497NT AUTHORITY\Esta organizaá∆o                Well-known group S-1-5-15     Mandatory group, Enabled by default, Enabled group
+498NT AUTHORITY\Conta local                     Well-known group S-1-5-113    Mandatory group, Enabled by default, Enabled group
+499LOCAL                                        Well-known group S-1-2-0      Mandatory group, Enabled by default, Enabled group
+500NT AUTHORITY\Autenticaá∆o NTLM               Well-known group S-1-5-64-10  Mandatory group, Enabled by default, Enabled group
+501Etiqueta Obrigat¢ria\N°vel Obrigat¢rio MÇdio Label            S-1-16-8192                                                    
+
+
+502PRIVILEGES INFORMATION
+503----------------------
+
+504Privilege Name                Deion                                   State   
+505============================= ============================================= ========
+506SeShutdownPrivilege           Encerrar o sistema                            Disabled
+507SeChangeNotifyPrivilege       Ignorar verificaá∆o transversal               Enabled 
+508SeUndockPrivilege             Remover computador da estaá∆o de ancoragem    Disabled
+509SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Disabled
+510SeTimeZonePrivilege           Alterar o fuso hor†rio                        Disabled
+
+ 
+
+511C:\Users\Desenho\Desktop\AUDITORIA>net user desenho  
+512Nome do utilizador                            Desenho
+513Nome completo                                 
+514Coment†rio                                    
+515Coment†rio do utilizador                      
+516C¢digo de pa°s/regi∆o                         000 (Predefiniá∆o do sistema)
+517Conta ativa                                   Sim
+518Conta expira                                  Nunca
+
+519Èltima definiá∆o da palavra-passe             01/09/2016 17:31:45
+520A palavra-passe expira                        Nunca
+521Palavra-passe alter†vel                       01/09/2016 17:31:45
+522Palavra-passe necess†ria                      Sim
+523O utilizador pode alterar a palavra-passe     Sim
+
+524Estaá‰es de trabalho permitidas               Todos
+525 de in°cio de sess∆o                    
+526Perfil de utilizador                          
+527Diret¢rio de raiz                             
+528Èltimo in°cio de sess∆o                       04/06/2018 07:49:16
+
+529Hor†rio de in°cio de sess∆o permitido         Todos
+
+530Associaá‰es a Grupos Locais                   *Utilizadores         
+531Associaá‰es a Grupos globais                  *Nenhum               
+532O comando foi conclu°do com àxito.
+
+ 
+ 
+
+533Aliases para \\OFICINA17
+
+534-------------------------------------------------------------------------------
+535*Administradores
+536*Administradores de Hyper-V
+537*Convidados
+538*IIS_IUSRS
+539*Leitores de Registos de Eventos
+540*Operadores Criptogr†ficos
+541*Operadores de Assistància de Controlo de Acesso
+542*Operadores de configuraá∆o de rede
+543*Operadores de c¢pia de seguranáa
+544*Replicador
+545*Utilizadores
+546*Utilizadores avanáados
+547*Utilizadores COM Distribu°dos
+548*Utilizadores de Gest∆o Remota
+549*Utilizadores do ambiente de trabalho remoto
+550*Utilizadores do monitor de desempenho
+551*Utilizadores do registo de desempenho
+552*WinRMRemoteWMIUsers__
+553O comando foi conclu°do com àxito.
+
+ 
+554Nome de alias     Administradores
+555Coment†rio        Os administradores tàm acesso completo e sem restriá‰es ao computador/dom°nio
+
+556Membros
+
+557-------------------------------------------------------------------------------
+558Administrador
+559Kristaltek
+560O comando foi conclu°do com àxito.
+
+ 
+ 
+561----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+562INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+563----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+564AccountType=512
+565Caption=OFICINA17\Administrador
+566Deion=Conta incorporada para a administraá∆o do computador/dom°nio
+567Disabled=TRUE
+568Domain=OFICINA17
+569FullName=
+570InstallDate=
+571LocalAccount=TRUE
+572Lockout=FALSE
+573Name=Administrador
+574PasswordChangeable=TRUE
+575PasswordExpires=FALSE
+576PasswordRequired=TRUE
+577SID=S-1-5-21-1931502779-3739269308-3650505845-500
+578SIDType=1
+579Status=Degraded
+
+
+580AccountType=512
+581Caption=OFICINA17\Convidado
+582Deion=Conta incorporada para acesso como convidado ao computador/dom°nio
+583Disabled=TRUE
+584Domain=OFICINA17
+585FullName=
+586InstallDate=
+587LocalAccount=TRUE
+588Lockout=FALSE
+589Name=Convidado
+590PasswordChangeable=FALSE
+591PasswordExpires=FALSE
+592PasswordRequired=FALSE
+593SID=S-1-5-21-1931502779-3739269308-3650505845-501
+594SIDType=1
+595Status=Degraded
+
+
+596AccountType=512
+597Caption=OFICINA17\Desenho
+598Deion=
+599Disabled=FALSE
+600Domain=OFICINA17
+601FullName=
+602InstallDate=
+603LocalAccount=TRUE
+604Lockout=FALSE
+605Name=Desenho
+606PasswordChangeable=TRUE
+607PasswordExpires=FALSE
+608PasswordRequired=TRUE
+609SID=S-1-5-21-1931502779-3739269308-3650505845-1002
+610SIDType=1
+611Status=OK
+
+
+612AccountType=512
+613Caption=OFICINA17\Kristaltek
+614Deion=
+615Disabled=FALSE
+616Domain=OFICINA17
+617FullName=ADMIN
+618InstallDate=
+619LocalAccount=TRUE
+620Lockout=FALSE
+621Name=Kristaltek
+622PasswordChangeable=TRUE
+623PasswordExpires=FALSE
+624PasswordRequired=FALSE
+625SID=S-1-5-21-1931502779-3739269308-3650505845-1001
+626SIDType=1
+627Status=OK
+
+
+628AccountType=512
+629Caption=OFICINA17\Tornos
+630Deion=
+631Disabled=FALSE
+632Domain=OFICINA17
+633FullName=Tornos
+634InstallDate=
+635LocalAccount=TRUE
+636Lockout=FALSE
+637Name=Tornos
+638PasswordChangeable=TRUE
+639PasswordExpires=FALSE
+640PasswordRequired=TRUE
+641SID=S-1-5-21-1931502779-3739269308-3650505845-1003
+642SIDType=1
+643Status=OK
+
+
+ 
+644----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+645INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+646----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+647InstallDate=20170913
+648Name=Microsoft Office 2003 Web Components
+649RegCompany=
+650RegOwner=
+651Vendor=Microsoft Corporation
+652Version=12.0.6213.1000
+
+
+653InstallDate=20150204
+654Name=VBA (3821b)
+655RegCompany=
+656RegOwner=Kristaltek
+657Vendor=Microsoft Corporation
+658Version=6.01.00.1234
+
+
+659InstallDate=20140707
+660Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+661RegCompany=
+662RegOwner=
+663Vendor=Microsoft Corporation
+664Version=9.0.30729.4148
+
+
+665InstallDate=20150202
+666Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+667RegCompany=
+668RegOwner=
+669Vendor=Microsoft Corporation
+670Version=10.0.40219
+
+
+671InstallDate=20170514
+672Name=Kaspersky Endpoint Security 10 for Windows
+673RegCompany=
+674RegOwner=Kristaltek
+675Vendor=Kaspersky Lab
+676Version=10.2.5.3201
+
+
+677InstallDate=20150702
+678Name=Microsoft Visual C++ 2005 Redistributable (x64)
+679RegCompany=
+680RegOwner=
+681Vendor=Microsoft Corporation
+682Version=8.0.61000
+
+
+683InstallDate=20170207
+684Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+685RegCompany=
+686RegOwner=
+687Vendor=Microsoft Corporation
+688Version=10.0.40219
+
+
+689InstallDate=20170207
+690Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+691RegCompany=
+692RegOwner=
+693Vendor=Microsoft Corporation
+694Version=12.0.21005
+
+
+695InstallDate=20150204
+696Name=OpenOffice 4.1.1
+697RegCompany=
+698RegOwner=Kristaltek
+699Vendor=Apache Software Foundation
+700Version=4.11.9775
+
+
+701InstallDate=20170207
+702Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+703RegCompany=
+704RegOwner=
+705Vendor=Microsoft Corporation
+706Version=12.0.21005
+
+
+707InstallDate=20150202
+708Name=Bonjour
+709RegCompany=
+710RegOwner=
+711Vendor=Apple Inc.
+712Version=3.0.0.10
+
+
+713InstallDate=20140707
+714Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+715RegCompany=
+716RegOwner=
+717Vendor=Microsoft Corporation
+718Version=8.0.52572
+
+
+719InstallDate=20150202
+720Name=Microsoft Visual Basic for Applications 7.1 (x64)
+721RegCompany=
+722RegOwner=
+723Vendor=Microsoft Corporation
+724Version=7.1.00.00
+
+
+725InstallDate=20140704
+726Name=DraftSight x64
+727RegCompany=
+728RegOwner=Kristaltek
+729Vendor=Dassault Systemes
+730Version=12.1.1077
+
+
+731InstallDate=20150625
+732Name=TradMathCalc-V2
+733RegCompany=
+734RegOwner=
+735Vendor=HiLo Enterprises
+736Version=2.0.0.1
+
+
+737InstallDate=20160518
+738Name=Java 8 Update 91
+739RegCompany=
+740RegOwner=Kristaltek
+741Vendor=Oracle Corporation
+742Version=8.0.910.14
+
+
+743InstallDate=20140618
+744Name=Platform
+745RegCompany=
+746RegOwner=
+747Vendor=VIA Technologies, Inc.
+748Version=1.34
+
+
+749InstallDate=20150204
+750Name=Visual Basic for Applications (R) Core - English
+751RegCompany=
+752RegOwner=
+753Vendor=Microsoft Corporation
+754Version=6.5.10.32
+
+
+755InstallDate=20150202
+756Name=SOLIDWORKS eDrawings 2015 x64 Edition SP01.1
+757RegCompany=
+758RegOwner=Kristaltek
+759Vendor=Dassault Systämes SolidWorks Corp
+760Version=15.1.0044
+
+
+761InstallDate=20140704
+762Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+763RegCompany=
+764RegOwner=
+765Vendor=Microsoft Corporation
+766Version=9.0.30729.6161
+
+
+767InstallDate=20180226
+768Name=Adobe Refresh Manager
+769RegCompany=
+770RegOwner=Kristaltek
+771Vendor=Adobe Systems Incorporated
+772Version=1.8.0
+
+
+773InstallDate=20160106
+774Name=Extended Asian Language font pack for Adobe Reader XI
+775RegCompany=
+776RegOwner=Kristaltek
+777Vendor=Adobe Systems Incorporated
+778Version=11.0.09
+
+
+779InstallDate=20180517
+780Name=Adobe Acrobat Reader DC - Portuguàs
+781RegCompany=
+782RegOwner=Kristaltek
+783Vendor=Adobe Systems Incorporated
+784Version=18.011.20040
+
+
+785InstallDate=20140707
+786Name=Microsoft Visual Studio 2005 Tools for Applications - ENU
+787RegCompany=
+788RegOwner=
+789Vendor=Microsoft Corporation
+790Version=8.0.50727.146
+
+
+791InstallDate=20140704
+792Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+793RegCompany=
+794RegOwner=
+795Vendor=Microsoft Corporation
+796Version=9.0.30729.6161
+
+
+797InstallDate=20150204
+798Name=Dassault Systemes Software VC9 Prerequisites x86-x64
+799RegCompany=
+800RegOwner=
+801Vendor=Dassault Systemes
+802Version=9.1.2
+
+
+803InstallDate=20150202
+804Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+805RegCompany=
+806RegOwner=
+807Vendor=Microsoft Corporation
+808Version=11.0.61030
+
+
+809InstallDate=20160104
+810Name=Centro da Microsoft de Ratos e Teclados
+811RegCompany=
+812RegOwner=
+813Vendor=Microsoft Corporation
+814Version=2.3.188.0
+
+
+815InstallDate=20140707
+816Name=Microsoft Visual C++ 2005 Redistributable (x64)
+817RegCompany=
+818RegOwner=
+819Vendor=Microsoft Corporation
+820Version=8.0.56336
+
+
+821InstallDate=20150204
+822Name=Dassault Systemes Software Prerequisites x86-x64
+823RegCompany=
+824RegOwner=
+825Vendor=Dassault Systemes
+826Version=8.1.3
+
+
+827InstallDate=20150202
+828Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+829RegCompany=
+830RegOwner=
+831Vendor=Microsoft Corporation
+832Version=7.1.0.0
+
+
+833InstallDate=20160105
+834Name=SolutionWare MazaCAM
+835RegCompany=
+836RegOwner=
+837Vendor=SolutionWare Corporation
+838Version=1.0.0
+
+
+839InstallDate=20150202
+840Name=Microsoft Visual C++ 2005 Redistributable (x64)
+841RegCompany=
+842RegOwner=
+843Vendor=Microsoft Corporation
+844Version=8.0.59192
+
+
+845InstallDate=20150702
+846Name=Security Update for CAPICOM (KB931906)
+847RegCompany=
+848RegOwner=Kristaltek
+849Vendor=Microsoft Corporation
+850Version=2.1.0.2
+
+
+851InstallDate=20150202
+852Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+853RegCompany=
+854RegOwner=
+855Vendor=Microsoft Corporation
+856Version=11.0.61030
+
+
+857InstallDate=20150702
+858Name=Microsoft Visual C++ 2005 Redistributable
+859RegCompany=
+860RegOwner=
+861Vendor=Microsoft Corporation
+862Version=8.0.61001
+
+
+863InstallDate=20150202
+864Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+865RegCompany=
+866RegOwner=
+867Vendor=Microsoft Corporation
+868Version=11.0.61030
+
+
+869InstallDate=20150204
+870Name=License Use Management Runtime
+871RegCompany=
+872RegOwner=Kristaltek
+873Vendor=IBM
+874Version=4.6.8.15
+
+
+875InstallDate=20140707
+876Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+877RegCompany=
+878RegOwner=
+879Vendor=Microsoft Corporation
+880Version=9.0.30729.4148
+
+
+881InstallDate=20170614
+882Name=Microsoft Silverlight
+883RegCompany=
+884RegOwner=
+885Vendor=Microsoft Corporation
+886Version=5.1.50907.0
+
+
+887InstallDate=20150204
+888Name=Visual Basic for Applications (R) Core
+889RegCompany=
+890RegOwner=
+891Vendor=Microsoft Corporation
+892Version=6.5.10.53
+
+
+893InstallDate=20150202
+894Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+895RegCompany=
+896RegOwner=
+897Vendor=Microsoft Corporation
+898Version=11.0.61030
+
+
+899InstallDate=20141125
+900Name=Secocut installation
+901RegCompany=
+902RegOwner=
+903Vendor=Seco Tools
+904Version=4.1
+
+
+905InstallDate=20160518
+906Name=Java Auto Updater
+907RegCompany=
+908RegOwner=
+909Vendor=Oracle Corporation
+910Version=2.8.91.14
+
+
+ 
+911----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+912INFORMACAO DE RECURSOS ####################################################################################   
+913----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+914Partilha     Recurso                         Coment†rio
+
+915-------------------------------------------------------------------------------
+916C$           C:\                             Partilha predefinida              
+917D$           D:\                             Partilha predefinida              
+918IPC$                                         IPC remoto                        
+919print$       C:\Windows\system32\spool\drivers
+920Controladores de impressora       
+921ADMIN$       C:\Windows                      Admin remoto                      
+922O comando foi conclu°do com àxito.
+
+
+
+923InstallDate=20170913
+924Name=Microsoft Office 2003 Web Components
+925RegCompany=
+926RegOwner=
+927Vendor=Microsoft Corporation
+928Version=12.0.6213.1000
+
+
+929InstallDate=20150204
+930Name=VBA (3821b)
+931RegCompany=
+932RegOwner=Kristaltek
+933Vendor=Microsoft Corporation
+934Version=6.01.00.1234
+
+
+935InstallDate=20140707
+936Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+937RegCompany=
+938RegOwner=
+939Vendor=Microsoft Corporation
+940Version=9.0.30729.4148
+
+
+941InstallDate=20150202
+942Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+943RegCompany=
+944RegOwner=
+945Vendor=Microsoft Corporation
+946Version=10.0.40219
+
+
+947InstallDate=20170514
+948Name=Kaspersky Endpoint Security 10 for Windows
+949RegCompany=
+950RegOwner=Kristaltek
+951Vendor=Kaspersky Lab
+952Version=10.2.5.3201
+
+
+953InstallDate=20150702
+954Name=Microsoft Visual C++ 2005 Redistributable (x64)
+955RegCompany=
+956RegOwner=
+957Vendor=Microsoft Corporation
+958Version=8.0.61000
+
+
+959InstallDate=20170207
+960Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+961RegCompany=
+962RegOwner=
+963Vendor=Microsoft Corporation
+964Version=10.0.40219
+
+
+965InstallDate=20170207
+966Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+967RegCompany=
+968RegOwner=
+969Vendor=Microsoft Corporation
+970Version=12.0.21005
+
+
+971InstallDate=20150204
+972Name=OpenOffice 4.1.1
+973RegCompany=
+974RegOwner=Kristaltek
+975Vendor=Apache Software Foundation
+976Version=4.11.9775
+
+
+977InstallDate=20170207
+978Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+979RegCompany=
+980RegOwner=
+981Vendor=Microsoft Corporation
+982Version=12.0.21005
+
+
+983InstallDate=20150202
+984Name=Bonjour
+985RegCompany=
+986RegOwner=
+987Vendor=Apple Inc.
+988Version=3.0.0.10
+
+
+989InstallDate=20140707
+990Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+991RegCompany=
+992RegOwner=
+993Vendor=Microsoft Corporation
+994Version=8.0.52572
+
+
+995InstallDate=20150202
+996Name=Microsoft Visual Basic for Applications 7.1 (x64)
+997RegCompany=
+998RegOwner=
+999Vendor=Microsoft Corporation
+1000Version=7.1.00.00
+
+
+1001InstallDate=20140704
+1002Name=DraftSight x64
+1003RegCompany=
+1004RegOwner=Kristaltek
+1005Vendor=Dassault Systemes
+1006Version=12.1.1077
+
+
+1007InstallDate=20150625
+1008Name=TradMathCalc-V2
+1009RegCompany=
+1010RegOwner=
+1011Vendor=HiLo Enterprises
+1012Version=2.0.0.1
+
+
+1013InstallDate=20160518
+1014Name=Java 8 Update 91
+1015RegCompany=
+1016RegOwner=Kristaltek
+1017Vendor=Oracle Corporation
+1018Version=8.0.910.14
+
+
+1019InstallDate=20140618
+1020Name=Platform
+1021RegCompany=
+1022RegOwner=
+1023Vendor=VIA Technologies, Inc.
+1024Version=1.34
+
+
+1025InstallDate=20150204
+1026Name=Visual Basic for Applications (R) Core - English
+1027RegCompany=
+1028RegOwner=
+1029Vendor=Microsoft Corporation
+1030Version=6.5.10.32
+
+
+1031InstallDate=20150202
+1032Name=SOLIDWORKS eDrawings 2015 x64 Edition SP01.1
+1033RegCompany=
+1034RegOwner=Kristaltek
+1035Vendor=Dassault Systämes SolidWorks Corp
+1036Version=15.1.0044
+
+
+1037InstallDate=20140704
+1038Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+1039RegCompany=
+1040RegOwner=
+1041Vendor=Microsoft Corporation
+1042Version=9.0.30729.6161
+
+
+1043InstallDate=20180226
+1044Name=Adobe Refresh Manager
+1045RegCompany=
+1046RegOwner=Kristaltek
+1047Vendor=Adobe Systems Incorporated
+1048Version=1.8.0
+
+
+1049InstallDate=20160106
+1050Name=Extended Asian Language font pack for Adobe Reader XI
+1051RegCompany=
+1052RegOwner=Kristaltek
+1053Vendor=Adobe Systems Incorporated
+1054Version=11.0.09
+
+
+1055InstallDate=20180517
+1056Name=Adobe Acrobat Reader DC - Portuguàs
+1057RegCompany=
+1058RegOwner=Kristaltek
+1059Vendor=Adobe Systems Incorporated
+1060Version=18.011.20040
+
+
+1061InstallDate=20140707
+1062Name=Microsoft Visual Studio 2005 Tools for Applications - ENU
+1063RegCompany=
+1064RegOwner=
+1065Vendor=Microsoft Corporation
+1066Version=8.0.50727.146
+
+
+1067InstallDate=20140704
+1068Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+1069RegCompany=
+1070RegOwner=
+1071Vendor=Microsoft Corporation
+1072Version=9.0.30729.6161
+
+
+1073InstallDate=20150204
+1074Name=Dassault Systemes Software VC9 Prerequisites x86-x64
+1075RegCompany=
+1076RegOwner=
+1077Vendor=Dassault Systemes
+1078Version=9.1.2
+
+
+1079InstallDate=20150202
+1080Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+1081RegCompany=
+1082RegOwner=
+1083Vendor=Microsoft Corporation
+1084Version=11.0.61030
+
+
+1085InstallDate=20160104
+1086Name=Centro da Microsoft de Ratos e Teclados
+1087RegCompany=
+1088RegOwner=
+1089Vendor=Microsoft Corporation
+1090Version=2.3.188.0
+
+
+1091InstallDate=20140707
+1092Name=Microsoft Visual C++ 2005 Redistributable (x64)
+1093RegCompany=
+1094RegOwner=
+1095Vendor=Microsoft Corporation
+1096Version=8.0.56336
+
+
+1097InstallDate=20150204
+1098Name=Dassault Systemes Software Prerequisites x86-x64
+1099RegCompany=
+1100RegOwner=
+1101Vendor=Dassault Systemes
+1102Version=8.1.3
+
+
+1103InstallDate=20150202
+1104Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+1105RegCompany=
+1106RegOwner=
+1107Vendor=Microsoft Corporation
+1108Version=7.1.0.0
+
+
+1109InstallDate=20160105
+1110Name=SolutionWare MazaCAM
+1111RegCompany=
+1112RegOwner=
+1113Vendor=SolutionWare Corporation
+1114Version=1.0.0
+
+
+1115InstallDate=20150202
+1116Name=Microsoft Visual C++ 2005 Redistributable (x64)
+1117RegCompany=
+1118RegOwner=
+1119Vendor=Microsoft Corporation
+1120Version=8.0.59192
+
+
+1121InstallDate=20150702
+1122Name=Security Update for CAPICOM (KB931906)
+1123RegCompany=
+1124RegOwner=Kristaltek
+1125Vendor=Microsoft Corporation
+1126Version=2.1.0.2
+
+
+1127InstallDate=20150202
+1128Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+1129RegCompany=
+1130RegOwner=
+1131Vendor=Microsoft Corporation
+1132Version=11.0.61030
+
+
+1133InstallDate=20150702
+1134Name=Microsoft Visual C++ 2005 Redistributable
+1135RegCompany=
+1136RegOwner=
+1137Vendor=Microsoft Corporation
+1138Version=8.0.61001
+
+
+1139InstallDate=20150202
+1140Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+1141RegCompany=
+1142RegOwner=
+1143Vendor=Microsoft Corporation
+1144Version=11.0.61030
+
+
+1145InstallDate=20150204
+1146Name=License Use Management Runtime
+1147RegCompany=
+1148RegOwner=Kristaltek
+1149Vendor=IBM
+1150Version=4.6.8.15
+
+
+1151InstallDate=20140707
+1152Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+1153RegCompany=
+1154RegOwner=
+1155Vendor=Microsoft Corporation
+1156Version=9.0.30729.4148
+
+
+1157InstallDate=20170614
+1158Name=Microsoft Silverlight
+1159RegCompany=
+1160RegOwner=
+1161Vendor=Microsoft Corporation
+1162Version=5.1.50907.0
+
+
+1163InstallDate=20150204
+1164Name=Visual Basic for Applications (R) Core
+1165RegCompany=
+1166RegOwner=
+1167Vendor=Microsoft Corporation
+1168Version=6.5.10.53
+
+
+1169InstallDate=20150202
+1170Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+1171RegCompany=
+1172RegOwner=
+1173Vendor=Microsoft Corporation
+1174Version=11.0.61030
+
+
+1175InstallDate=20141125
+1176Name=Secocut installation
+1177RegCompany=
+1178RegOwner=
+1179Vendor=Seco Tools
+1180Version=4.1
+
+
+1181InstallDate=20160518
+1182Name=Java Auto Updater
+1183RegCompany=
+1184RegOwner=
+1185Vendor=Oracle Corporation
+1186Version=2.8.91.14
+
+
+ 
+1187----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+1188INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+1189----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+1190Currently stored credentials:
+
+1191Target: WindowsLive:target=virtualapp/didlogical
+1192Type: Generic 
+1193User: 02pellirvagd
+1194Local machine persistence
+    
+1195Target: Domain:target=SRVDADOS
+1196Type: Domain Password
+1197User: OFICINA17\filipe
+    
+1198Target: Domain:target=OFICINA10
+1199Type: Domain Password
+1200User: OFICINA17\admin
+    
+1201Target: Domain:target=NAS-KTKLASER
+1202Type: Domain Password
+1203User: OFICINA17\Luis
+    
+1204Target: Domain:target=nas-kristaltek
+1205Type: Domain Password
+1206User: OFICINA17\filipe
+    
+ 
+1207----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1208INFORMACAO DE CREDENCIAIS WEB #############################################################################
+1209----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1210UserName                     Resource                              Password Properties                                 
+1211--------                     --------                              -------- ----------                                 
+1212mar_kytos@hotmail.com        http://www.blablacar.pt/                       {[hidden, True], [applicationid, 4e3cb6d...
+1213desenho.ktl@kristaltek.com   https://grabcad.com/                           {[hidden, True], [applicationid, 4e3cb6d...
+1214j.tiago.a.coelho@hotmail.com https://login.live.com/                        {[hidden, True], [applicationid, 4e3cb6d...
+1215desenho.ktl@kristaltek.com   https://service.web2cad.co.jp/                 {[hidden, True], [applicationid, 4e3cb6d...
+1216Kristaltek                   https://www.festo.com/                         {[hidden, True], [applicationid, 4e3cb6d...
+1217desenho.ktl                  http://www.lehmann-rotary-tables.com/          {[hidden, True], [applicationid, 4e3cb6d...
+1218j.tiago.a.coelho@hotmail.com https://grabcad.com/                           {[hidden, True], [applicationid, 4e3cb6d...
+1219admin                        http://srvdados/                               {[hidden, True], [applicationid, 4e3cb6d...
+1220kristaltek                   https://tech.thk.com/                          {[hidden, True], [applicationid, 4e3cb6d...
+1221j.tiago.a.coelho@hotmail.com http://www.hsmworks.com/                       {[hidden, True], [applicationid, 4e3cb6d...
+1222ADMIN                        http://192.168.1.253/                          {[hidden, True], [applicationid, 4e3cb6d...
+1223FILIPECTD@GMAIL.COM          https://accounts.google.com/                   {[hidden, True], [applicationid, 4e3cb6d...
+
+
+1224----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1225INFORMACAO SOFTWARE INSTALADO ############################################################################
+1226----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1227DisplayName                                                          DisplayVersion Publisher                  InstallD
+1228ate     
+1229-----------                                                          -------------- ---------                  --------
+1230CIMCO Edit V7                                                        7.55.08        CIMCO A/S                          
+                                                                                                                       
+1231Dassault Systemes Doc English CATIA P3 Version 5-6 Release 2012(B22)                                                   
+1232HD Tune Pro 5.50                                                                    EFD Software               20140618
+1233VIA Gestor de Dispositivo de Plataforma                              1.34           VIA Technologies, Inc.     20140618
+1234Security Update for CAPICOM (KB931906)                               2.1.0.2        Microsoft Corporation              
+1235ME ThreadPal Trial                                                                  Close Tolerance Software   20150209
+1236Microsoft Visual Studio 2005 Tools for Applications - ENU                           Microsoft Corporation              
+1237Mozilla Firefox 30.0 (x86 pt-PT)                                     30.0           Mozilla                            
+1238Mozilla Maintenance Service                                          30.0           Mozilla                            
+1239NVIDIA Stereoscopic 3D Driver                                        7.17.12.6514   NVIDIA Corporation                 
+1240SOLIDWORKS 2015 x64 Edition SP01.1                                   23.1.1.2       SolidWorks Corporation             
+1241Security Update for CAPICOM (KB931906)                               2.1.0.2        Microsoft Corporation      20150702
+1242Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005           12.0.21005     Microsoft Corporation      20170207
+1243Visual Basic for Applications (R) Core                               6.5.10.53      Microsoft Corporation      20150204
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+1244Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148       9.0.30729.4148 Microsoft Corporation      20140707
+1245Platform                                                             1.34           VIA Technologies, Inc.     20140618
+1246Java 8 Update 91                                                     8.0.910.14     Oracle Corporation         20160518
+1247Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030         11.0.61030.0   Microsoft Corporation              
+1248Java Auto Updater                                                    2.8.91.14      Oracle Corporation         20160518
+1249SolutionWare MazaCAM                                                 1.0.0          SolutionWare Corporation   20160105
+1250OpenOffice 4.1.1                                                     4.11.9775      Apache Software Foundation 20150204
+1251Microsoft Visual C++ 2005 Redistributable                            8.0.61001      Microsoft Corporation      20150702
+1252TradMathCalc-V2                                                      2.0.0.1        HiLo Enterprises           20150625
+1253Kaspersky Endpoint Security 10 for Windows                           10.2.5.3201    Kaspersky Lab              20170514
+1254GeoPath                                                              1.0.0          SolutionWare Corporation   20160105
+1255Microsoft Office 2003 Web Components                                 12.0.6213.1000 Microsoft Corporation      20170913
+1256Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161       9.0.30729.6161 Microsoft Corporation      20140704
+1257Visual Basic for Applications (R) Core - English                     6.5.10.32      Microsoft Corporation      20150204
+1258Adobe Refresh Manager                                                1.8.0          Adobe Systems Incorporated 20180226
+1259Adobe Acrobat Reader DC - Portuguàs                                  18.011.20040   Adobe Systems Incorporated 20180517
+1260Extended Asian Language font pack for Adobe Reader XI                11.0.09        Adobe Systems Incorporated 20160106
+1261Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030        11.0.61030     Microsoft Corporation      20150202
+1262VBA (3821b)                                                          6.01.00.1234   Microsoft Corporation      20150204
+1263Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030           11.0.61030     Microsoft Corporation      20150202
+1264Secocut installation                                                 4.1            Seco Tools                 20141125
+1265Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030         11.0.61030.0   Microsoft Corporation              
+1266Microsoft Visual Studio 2005 Tools for Applications - ENU            8.0.50727.146  Microsoft Corporation      20140707
+1267Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219          10.0.40219     Microsoft Corporation      20170207
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+1268Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501         12.0.30501.0   Microsoft Corporation              
+1269Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005        12.0.21005     Microsoft Corporation      20170207
+
+

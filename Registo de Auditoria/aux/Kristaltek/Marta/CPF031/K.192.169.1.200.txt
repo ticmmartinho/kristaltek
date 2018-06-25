@@ -1,0 +1,1648 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ktl0025\desenho
+ 
+_______________________________________ 
+ 
+04/06/2018 16:16:55 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Host Name:                 KTL0025
+OS Name:                   Microsoft Windows 8.1 Pro
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          ADMIN
+Registered Organization:   
+Product ID:                00259-40850-48226-AAOEM
+Original Install Date:     03/02/2015, 19:10:29
+System Boot Time:          04/06/2018, 13:51:59
+System Manufacturer:       ASUS
+System Model:              All Series
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3998 Mhz
+BIOS Version:              American Megatrends Inc. 2308, 04/11/2014
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             pt;Portuguˆs (Portugal)
+Input Locale:              pt;Portuguˆs (Portugal)
+Time Zone:                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+Total Physical Memory:     32ÿ711 MB
+Available Physical Memory: 19ÿ912 MB
+Virtual Memory: Max Size:  37ÿ575 MB
+Virtual Memory: Available: 24ÿ091 MB
+Virtual Memory: In Use:    13ÿ484 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\KTL0025
+Hotfix(s):                 269 Hotfix(s) Installed.
+                           [01]: KB2899189_Microsoft-Windows-CameraCodec-Package
+                           [02]: KB2894852
+                           [03]: KB2894856
+                           [04]: KB2919355
+                           [05]: KB2919442
+                           [06]: KB2920189
+                           [07]: KB2934520
+                           [08]: KB2937220
+                           [09]: KB2938772
+                           [10]: KB2939471
+                           [11]: KB2949621
+                           [12]: KB2954879
+                           [13]: KB2955164
+                           [14]: KB2959626
+                           [15]: KB2965142
+                           [16]: KB2965500
+                           [17]: KB2966826
+                           [18]: KB2966828
+                           [19]: KB2967917
+                           [20]: KB2968296
+                           [21]: KB2971203
+                           [22]: KB2972103
+                           [23]: KB2972213
+                           [24]: KB2975061
+                           [25]: KB2975719
+                           [26]: KB2976627
+                           [27]: KB2976978
+                           [28]: KB2978122
+                           [29]: KB2984006
+                           [30]: KB2987107
+                           [31]: KB2989930
+                           [32]: KB2990967
+                           [33]: KB2993100
+                           [34]: KB2994290
+                           [35]: KB2995004
+                           [36]: KB2995388
+                           [37]: KB2996799
+                           [38]: KB2998174
+                           [39]: KB2999226
+                           [40]: KB3000850
+                           [41]: KB3003057
+                           [42]: KB3003667
+                           [43]: KB3004365
+                           [44]: KB3004545
+                           [45]: KB3008923
+                           [46]: KB3012199
+                           [47]: KB3012235
+                           [48]: KB3012702
+                           [49]: KB3013172
+                           [50]: KB3013531
+                           [51]: KB3013538
+                           [52]: KB3013769
+                           [53]: KB3013791
+                           [54]: KB3013816
+                           [55]: KB3014442
+                           [56]: KB3015696
+                           [57]: KB3018133
+                           [58]: KB3019978
+                           [59]: KB3020370
+                           [60]: KB3021910
+                           [61]: KB3021952
+                           [62]: KB3022345
+                           [63]: KB3023219
+                           [64]: KB3024751
+                           [65]: KB3024755
+                           [66]: KB3029603
+                           [67]: KB3029606
+                           [68]: KB3030377
+                           [69]: KB3030947
+                           [70]: KB3032359
+                           [71]: KB3033446
+                           [72]: KB3035126
+                           [73]: KB3035487
+                           [74]: KB3036612
+                           [75]: KB3037576
+                           [76]: KB3037924
+                           [77]: KB3038002
+                           [78]: KB3038314
+                           [79]: KB3038701
+                           [80]: KB3042085
+                           [81]: KB3044374
+                           [82]: KB3044673
+                           [83]: KB3045634
+                           [84]: KB3045685
+                           [85]: KB3045717
+                           [86]: KB3045719
+                           [87]: KB3045755
+                           [88]: KB3045999
+                           [89]: KB3046017
+                           [90]: KB3046339
+                           [91]: KB3046480
+                           [92]: KB3046737
+                           [93]: KB3047254
+                           [94]: KB3048043
+                           [95]: KB3049563
+                           [96]: KB3053863
+                           [97]: KB3054169
+                           [98]: KB3054256
+                           [99]: KB3054464
+                           [100]: KB3055323
+                           [101]: KB3055343
+                           [102]: KB3055642
+                           [103]: KB3056347
+                           [104]: KB3058515
+                           [105]: KB3059317
+                           [106]: KB3060793
+                           [107]: KB3061493
+                           [108]: KB3061512
+                           [109]: KB3062760
+                           [110]: KB3063843
+                           [111]: KB3064059
+                           [112]: KB3065822
+                           [113]: KB3065988
+                           [114]: KB3068708
+                           [115]: KB3071756
+                           [116]: KB3072019
+                           [117]: KB3072307
+                           [118]: KB3074545
+                           [119]: KB3075220
+                           [120]: KB3075853
+                           [121]: KB3076949
+                           [122]: KB3077715
+                           [123]: KB3078071
+                           [124]: KB3078405
+                           [125]: KB3078676
+                           [126]: KB3080042
+                           [127]: KB3080149
+                           [128]: KB3080800
+                           [129]: KB3082089
+                           [130]: KB3083325
+                           [131]: KB3083711
+                           [132]: KB3084135
+                           [133]: KB3084905
+                           [134]: KB3086255
+                           [135]: KB3087038
+                           [136]: KB3087040
+                           [137]: KB3087041
+                           [138]: KB3087137
+                           [139]: KB3087916
+                           [140]: KB3089023
+                           [141]: KB3091297
+                           [142]: KB3093983
+                           [143]: KB3095701
+                           [144]: KB3097992
+                           [145]: KB3099406
+                           [146]: KB3099834
+                           [147]: KB3100473
+                           [148]: KB3100773
+                           [149]: KB3102429
+                           [150]: KB3102812
+                           [151]: KB3103616
+                           [152]: KB3103688
+                           [153]: KB3103696
+                           [154]: KB3103709
+                           [155]: KB3104002
+                           [156]: KB3105216
+                           [157]: KB3109103
+                           [158]: KB3109560
+                           [159]: KB3109976
+                           [160]: KB3110329
+                           [161]: KB3112148
+                           [162]: KB3112336
+                           [163]: KB3115224
+                           [164]: KB3118401
+                           [165]: KB3119147
+                           [166]: KB3121261
+                           [167]: KB3124275
+                           [168]: KB3126030
+                           [169]: KB3126434
+                           [170]: KB3126587
+                           [171]: KB3127222
+                           [172]: KB3128650
+                           [173]: KB3132372
+                           [174]: KB3133431
+                           [175]: KB3133690
+                           [176]: KB3134814
+                           [177]: KB3134815
+                           [178]: KB3135449
+                           [179]: KB3135782
+                           [180]: KB3137728
+                           [181]: KB3138378
+                           [182]: KB3138602
+                           [183]: KB3138615
+                           [184]: KB3138910
+                           [185]: KB3138962
+                           [186]: KB3139398
+                           [187]: KB3139914
+                           [188]: KB3139929
+                           [189]: KB3140185
+                           [190]: KB3140219
+                           [191]: KB3140222
+                           [192]: KB3140234
+                           [193]: KB3141092
+                           [194]: KB3142026
+                           [195]: KB3144756
+                           [196]: KB3145384
+                           [197]: KB3146604
+                           [198]: KB3146723
+                           [199]: KB3146751
+                           [200]: KB3147071
+                           [201]: KB3148198
+                           [202]: KB3148851
+                           [203]: KB3150513
+                           [204]: KB3154070
+                           [205]: KB3154132
+                           [206]: KB3155784
+                           [207]: KB3156059
+                           [208]: KB3157993
+                           [209]: KB3159398
+                           [210]: KB3160005
+                           [211]: KB3161102
+                           [212]: KB3161949
+                           [213]: KB3162835
+                           [214]: KB3163207
+                           [215]: KB3167685
+                           [216]: KB3170106
+                           [217]: KB3172614
+                           [218]: KB3172729
+                           [219]: KB3173424
+                           [220]: KB3174060
+                           [221]: KB3175024
+                           [222]: KB3175443
+                           [223]: KB3178539
+                           [224]: KB3179574
+                           [225]: KB3184143
+                           [226]: KB3185319
+                           [227]: KB3186539
+                           [228]: KB3187754
+                           [229]: KB3188128
+                           [230]: KB3194343
+                           [231]: KB3201860
+                           [232]: KB3202790
+                           [233]: KB3209498
+                           [234]: KB3210132
+                           [235]: KB3210137
+                           [236]: KB3214628
+                           [237]: KB4010250
+                           [238]: KB4012213
+                           [239]: KB4014329
+                           [240]: KB4014505
+                           [241]: KB4014512
+                           [242]: KB4014555
+                           [243]: KB4018483
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                           [02]: Adaptador Ethernet Virtual de Hyper-V
+                                 Connection Name: vEthernet (Novo Comutador Virtual)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.1.200
+                                 [02]: fe80::1458:b192:bcca:310f
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=2308
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : KTL0025
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter vEthernet (Novo Comutador Virtual):
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Adaptador Ethernet Virtual de Hyper-V #2
+   Physical Address. . . . . . . . . : 38-2C-4A-BC-66-C5
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1458:b192:bcca:310f%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.200(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.250
+   DHCPv6 IAID . . . . . . . . . . . : 288894026
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-62-D4-34-38-2C-4A-BC-66-C5
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{7F79B557-CD23-4E0B-B86A-C3BD55C001BA}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Placa Microsoft ISATAP
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=115252916224
+Size=245547134976
+
+
+Caption=D:
+DriveType=3
+FreeSpace=2000000057344
+Size=2000263573504
+
+
+Caption=E:
+DriveType=5
+FreeSpace=
+Size=
+
+
+Caption=S:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+Caption=T:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+Caption=U:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+Caption=V:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+Caption=W:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+Caption=X:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+Caption=Y:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+Caption=Z:
+DriveType=4
+FreeSpace=6732202475520
+Size=7929882996736
+
+
+ 
+
+
+Caption=Samsung SSD 850 PRO 256GB
+DeviceID=\\.\PHYSICALDRIVE0
+Model=Samsung SSD 850 PRO 256GB
+Partitions=5
+Size=256052966400
+
+
+Caption=WDC WD20EZRX-00D8PB0
+DeviceID=\\.\PHYSICALDRIVE1
+Model=WDC WD20EZRX-00D8PB0
+Partitions=1
+Size=2000396321280
+
+
+ 
+
+
+Caption=Samsung SSD 850 PRO 256GB
+
+
+Caption=WDC WD20EZRX-00D8PB0
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=ASUSTeK COMPUTER INC.
+Product=Z97-K
+SerialNumber=141034120302290
+Version=Rev X.0x
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+
+
+ 
+
+
+MaxClockSpeed=3998
+Name=Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+NumberOfCores=4
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+USER INFORMATION
+----------------
+
+User Name       SID                                           
+=============== ==============================================
+ktl0025\desenho S-1-5-21-2200369465-2457283603-3450863175-1002
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                   Type             SID          Attributes                                        
+============================================ ================ ============ ==================================================
+Todos                                        Well-known group S-1-1-0      Mandatory group, Enabled by default, Enabled group
+BUILTIN\Utilizadores                         Alias            S-1-5-32-545 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                     Well-known group S-1-5-4      Mandatory group, Enabled by default, Enabled group
+INÖCIO DE SESSÇO NA CONSOLA                  Well-known group S-1-2-1      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Utilizadores Autenticados       Well-known group S-1-5-11     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Esta organiza‡Æo                Well-known group S-1-5-15     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local                     Well-known group S-1-5-113    Mandatory group, Enabled by default, Enabled group
+LOCAL                                        Well-known group S-1-2-0      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Autentica‡Æo NTLM               Well-known group S-1-5-64-10  Mandatory group, Enabled by default, Enabled group
+Etiqueta Obrigat¢ria\N¡vel Obrigat¢rio M‚dio Label            S-1-16-8192                                                    
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Deion                                   State   
+============================= ============================================= ========
+SeShutdownPrivilege           Encerrar o sistema                            Disabled
+SeChangeNotifyPrivilege       Ignorar verifica‡Æo transversal               Enabled 
+SeUndockPrivilege             Remover computador da esta‡Æo de ancoragem    Disabled
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Disabled
+SeTimeZonePrivilege           Alterar o fuso hor rio                        Disabled
+
+ 
+
+C:\Users\Desenho\Desktop\AUDITORIA>net user desenho  
+Nome do utilizador                            Desenho
+Nome completo                                 Desenho
+Coment rio                                    
+Coment rio do utilizador                      
+C¢digo de pa¡s/regiÆo                         000 (Predefini‡Æo do sistema)
+Conta ativa                                   Sim
+Conta expira                                  Nunca
+
+éltima defini‡Æo da palavra-passe             03/02/2015 20:21:06
+A palavra-passe expira                        Nunca
+Palavra-passe alter vel                       03/02/2015 20:21:06
+Palavra-passe necess ria                      Sim
+O utilizador pode alterar a palavra-passe     Sim
+
+Esta‡äes de trabalho permitidas               Todos
+ de in¡cio de sessÆo                    
+Perfil de utilizador                          
+Diret¢rio de raiz                             
+éltimo in¡cio de sessÆo                       04/06/2018 13:52:05
+
+Hor rio de in¡cio de sessÆo permitido         Todos
+
+Associa‡äes a Grupos Locais                   *Utilizadores         
+Associa‡äes a Grupos globais                  *Nenhum               
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+
+Aliases para \\KTL0025
+
+-------------------------------------------------------------------------------
+*Administradores
+*Administradores de Hyper-V
+*Convidados
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores Criptogr ficos
+*Operadores de Assistˆncia de Controlo de Acesso
+*Operadores de configura‡Æo de rede
+*Operadores de c¢pia de seguran‡a
+*Replicador
+*Utilizadores
+*Utilizadores avan‡ados
+*Utilizadores COM Distribu¡dos
+*Utilizadores de GestÆo Remota
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+*WinRMRemoteWMIUsers__
+O comando foi conclu¡do com ˆxito.
+
+ 
+Nome de alias     Administradores
+Coment rio        Os administradores tˆm acesso completo e sem restri‡äes ao computador/dom¡nio
+
+Membros
+
+-------------------------------------------------------------------------------
+ADMIN
+Administrador
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+AccountType=512
+Caption=KTL0025\ADMIN
+Deion=
+Disabled=FALSE
+Domain=KTL0025
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=ADMIN
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2200369465-2457283603-3450863175-1001
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0025\Administrador
+Deion=Conta incorporada para a administra‡Æo do computador/dom¡nio
+Disabled=TRUE
+Domain=KTL0025
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-2200369465-2457283603-3450863175-500
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0025\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/dom¡nio
+Disabled=TRUE
+Domain=KTL0025
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2200369465-2457283603-3450863175-501
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0025\Desenho
+Deion=
+Disabled=FALSE
+Domain=KTL0025
+FullName=Desenho
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Desenho
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-2200369465-2457283603-3450863175-1002
+SIDType=1
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+InstallDate=20150203
+Name=Microsoft Office 2003 Web Components
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.4518.1014
+
+
+InstallDate=20180523
+Name=Office 15 Click-to-Run Extensibility Component
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=15.0.5031.1000
+
+
+InstallDate=20180523
+Name=Office 15 Click-to-Run Localization Component
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=15.0.5031.1000
+
+
+InstallDate=20180523
+Name=Office 15 Click-to-Run Licensing Component
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=15.0.5031.1000
+
+
+InstallDate=20170413
+Name=Visual Studio 2012 x64 Redistributables
+RegCompany=
+RegOwner=
+Vendor=AVG Technologies
+Version=14.0.0.1
+
+
+InstallDate=20160711
+Name=IGES Converter
+RegCompany=
+RegOwner=
+Vendor=Metamation
+Version=1.1.0
+
+
+InstallDate=20150204
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=13.1.0.1058
+
+
+InstallDate=20171204
+Name=CNCBENDER
+RegCompany=
+RegOwner=
+Vendor=REM Software & Automation
+Version=1.0.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20170828
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=ADMIN
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20180111
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.13.00
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20160711
+Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20160711
+Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20150203
+Name=Bonjour
+RegCompany=
+RegOwner=
+Vendor=Apple Inc.
+Version=3.0.0.10
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59193
+
+
+InstallDate=20180111
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=ADMIN
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20150203
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20170809
+Name=Java 8 Update 144
+RegCompany=
+RegOwner=ADMIN
+Vendor=Oracle Corporation
+Version=8.0.1440.1
+
+
+InstallDate=20150203
+Name=SOLIDWORKS eDrawings 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault SystŠmes SolidWorks Corp
+Version=15.1.0044
+
+
+InstallDate=20161110
+Name=PDFsam Basic
+RegCompany=
+RegOwner=
+Vendor=Andrea Vacondio
+Version=3.20.4.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180301
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=ADMIN
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=ADMIN
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20150203
+Name=SOLIDWORKS Composer Player 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20150204
+Name=ASUS Product Register Program
+RegCompany=
+RegOwner=
+Vendor=ASUSTek Computer Inc.
+Version=1.0.026
+
+
+InstallDate=20150203
+Name=SOLIDWORKS 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.111.2
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20150204
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20150204
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.21.115
+
+
+InstallDate=20150204
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.35.127.1
+
+
+InstallDate=
+Name=
+RegCompany=
+RegOwner=
+Vendor=
+Version=
+
+
+InstallDate=20150204
+Name=Intel(R) ME UninstallLegacy
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.1.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180517
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20170413
+Name=Visual Studio 2012 x86 Redistributables
+RegCompany=
+RegOwner=
+Vendor=AVG Technologies CZ, s.r.o.
+Version=14.0.0.1
+
+
+InstallDate=20170803
+Name=OpenOffice 4.1.3
+RegCompany=KTL
+RegOwner=ADMIN
+Vendor=Apache Software Foundation
+Version=4.13.9783
+
+
+InstallDate=20170302
+Name=DraftSight 2017 SP1 x64
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes
+Version=17.1.0096
+
+
+InstallDate=20150204
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.2.1000
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170922
+Name=Sentinel Runtime
+RegCompany=
+RegOwner=ADMIN
+Vendor=SafeNet Inc.
+Version=6.60.1.36770
+
+
+InstallDate=20150204
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.17
+
+
+InstallDate=20160711
+Name=RealDWG Converter
+RegCompany=
+RegOwner=
+Vendor=Metamation
+Version=2.7.0
+
+
+InstallDate=20170809
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.144.1
+
+
+InstallDate=20150203
+Name=SOLIDWORKS Explorer 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Partilha     Recurso                         Coment rio
+
+-------------------------------------------------------------------------------
+C$           C:\                             Partilha predefinida              
+D$           D:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+print$       C:\WINDOWS\system32\spool\drivers
+                                             Controladores de impressora       
+ADMIN$       C:\WINDOWS                      Admin remoto                      
+O comando foi conclu¡do com ˆxito.
+
+
+
+InstallDate=20150203
+Name=Microsoft Office 2003 Web Components
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.4518.1014
+
+
+InstallDate=20180523
+Name=Office 15 Click-to-Run Extensibility Component
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=15.0.5031.1000
+
+
+InstallDate=20180523
+Name=Office 15 Click-to-Run Localization Component
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=15.0.5031.1000
+
+
+InstallDate=20180523
+Name=Office 15 Click-to-Run Licensing Component
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=15.0.5031.1000
+
+
+InstallDate=20170413
+Name=Visual Studio 2012 x64 Redistributables
+RegCompany=
+RegOwner=
+Vendor=AVG Technologies
+Version=14.0.0.1
+
+
+InstallDate=20160711
+Name=IGES Converter
+RegCompany=
+RegOwner=
+Vendor=Metamation
+Version=1.1.0
+
+
+InstallDate=20150204
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=13.1.0.1058
+
+
+InstallDate=20171204
+Name=CNCBENDER
+RegCompany=
+RegOwner=
+Vendor=REM Software & Automation
+Version=1.0.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20170828
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=ADMIN
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20180111
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.13.00
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20160711
+Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20160711
+Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20150203
+Name=Bonjour
+RegCompany=
+RegOwner=
+Vendor=Apple Inc.
+Version=3.0.0.10
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59193
+
+
+InstallDate=20180111
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=ADMIN
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20150203
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20170809
+Name=Java 8 Update 144
+RegCompany=
+RegOwner=ADMIN
+Vendor=Oracle Corporation
+Version=8.0.1440.1
+
+
+InstallDate=20150203
+Name=SOLIDWORKS eDrawings 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault SystŠmes SolidWorks Corp
+Version=15.1.0044
+
+
+InstallDate=20161110
+Name=PDFsam Basic
+RegCompany=
+RegOwner=
+Vendor=Andrea Vacondio
+Version=3.20.4.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180301
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=ADMIN
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=ADMIN
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20150203
+Name=SOLIDWORKS Composer Player 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20150204
+Name=ASUS Product Register Program
+RegCompany=
+RegOwner=
+Vendor=ASUSTek Computer Inc.
+Version=1.0.026
+
+
+InstallDate=20150203
+Name=SOLIDWORKS 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.111.2
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20150204
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20150204
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.21.115
+
+
+InstallDate=20150204
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.35.127.1
+
+
+InstallDate=
+Name=
+RegCompany=
+RegOwner=
+Vendor=
+Version=
+
+
+InstallDate=20150204
+Name=Intel(R) ME UninstallLegacy
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.1.0
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180517
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20170413
+Name=Visual Studio 2012 x86 Redistributables
+RegCompany=
+RegOwner=
+Vendor=AVG Technologies CZ, s.r.o.
+Version=14.0.0.1
+
+
+InstallDate=20170803
+Name=OpenOffice 4.1.3
+RegCompany=KTL
+RegOwner=ADMIN
+Vendor=Apache Software Foundation
+Version=4.13.9783
+
+
+InstallDate=20170302
+Name=DraftSight 2017 SP1 x64
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes
+Version=17.1.0096
+
+
+InstallDate=20150204
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.2.1000
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20150203
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170922
+Name=Sentinel Runtime
+RegCompany=
+RegOwner=ADMIN
+Vendor=SafeNet Inc.
+Version=6.60.1.36770
+
+
+InstallDate=20150204
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.17
+
+
+InstallDate=20160711
+Name=RealDWG Converter
+RegCompany=
+RegOwner=
+Vendor=Metamation
+Version=2.7.0
+
+
+InstallDate=20170809
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.144.1
+
+
+InstallDate=20150203
+Name=SOLIDWORKS Explorer 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=ADMIN
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Currently stored credentials:
+
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02solbqksqpp
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=COMPASSO-6\Administrador
+    Type: Generic 
+    User: COMPASSO-6\administrador
+    
+    Target: Domain:target=srvdados
+    Type: Domain Password
+    User: COMPASSO-6\samuel
+    
+    Target: Domain:interactive=COMPASSO-6\ADMIN
+    Type: Domain Password
+    User: COMPASSO-6\ADMIN
+    
+    Target: Domain:target=ADMIN-PC
+    Type: Domain Password
+    User: COMPASSO-6\admin
+    
+    Target: Domain:target=SRVKLASER01
+    Type: Domain Password
+    User: COMPASSO-6\administrador
+    
+    Target: Domain:target=192.168.1.2
+    Type: Domain Password
+    User: COMPASSO-6\administrador
+    
+    Target: Domain:target=192.168.1.253
+    Type: Domain Password
+    User: paulo_lima
+    
+    Target: Domain:target=NAS-KTKLASER
+    Type: Domain Password
+    User: COMPASSO-6\luis
+    
+    Target: LegacyGeneric:target=COMPASSO-6\Desenho
+    Type: Generic 
+    User: COMPASSO-6\Desenho
+    
+    Target: Domain:target=KTL0015
+    Type: Domain Password
+    User: COMPASSO-6\admin
+    
+    Target: LegacyGeneric:target=COMPASSO-6\ADMIN
+    Type: Generic 
+    User: COMPASSO-6\admin
+    
+    Target: Domain:target=nas-kristaltek
+    Type: Domain Password
+    User: KTL0025\paulo_lima
+    
+    Target: Domain:target=SRVPHC
+    Type: Domain Password
+    User: COMPASSO-6\administrador
+    
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO DE CREDENCIAIS WEB #############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UserName                  Resource                       Password Properties                                           
+--------                  --------                       -------- ----------                                           
+j.matos.f@kristaltek.com  https://webshop.wilausa.com/            {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://b2b.partcommunity.com/          {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://www.dropbox.com/                {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://www.paypal.com/                 {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://grabcad.com/                    {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     http://pt.wikiloc.com/                  {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+j.matos.f@kristaltek.com  https://webshop.wila.nl/                {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo.lima@kristaltek.com https://accounts.google.com/            {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://login.live.com/                 {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+admin                     http://srvdados/                        {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+jf_aldreu@sapo.pt         https://login.sapo.pt/                  {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+jf_aldreu@sapo.pt         https://www.netemprego.gov.pt/          {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     http://b2b.partcommunity.com/           {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO SOFTWARE INSTALADO ############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO DE CREDENCIAIS WEB #############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UserName                  Resource                       Password Properties                                           
+--------                  --------                       -------- ----------                                           
+j.matos.f@kristaltek.com  https://webshop.wilausa.com/            {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://b2b.partcommunity.com/          {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://www.dropbox.com/                {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://www.paypal.com/                 {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://grabcad.com/                    {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     http://pt.wikiloc.com/                  {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+j.matos.f@kristaltek.com  https://webshop.wila.nl/                {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo.lima@kristaltek.com https://accounts.google.com/            {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     https://login.live.com/                 {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+admin                     http://srvdados/                        {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+jf_aldreu@sapo.pt         https://login.sapo.pt/                  {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+jf_aldreu@sapo.pt         https://www.netemprego.gov.pt/          {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+paulo_bcl@hotmail.com     http://b2b.partcommunity.com/           {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd...
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO SOFTWARE INSTALADO ############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PS C:\Users\Desenho\Desktop\AUDITORIA>  Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uni
+nstall\* | Select-Object DisplayName, DisplayVersion, Publisher, InstallDate | Format-Table -AutoSize
+
+DisplayName                                                    DisplayVersion Publisher                   InstallDate
+-----------                                                    -------------- ---------                   -----------
+
+Google Chrome                                                  66.0.3359.181  Google Inc.                 20150204
+Inkscape 0.92.2                                                0.92.2         Inkscape Project
+Maestro version 4.2.0 (32/64 Bit)                                                                         20171030
+NVIDIA Stereoscopic 3D Driver                                  7.17.12.6514   NVIDIA Corporation
+SOLIDWORKS 2015 x64 Edition SP01.1                             23.1.1.2       SolidWorks Corporation
+OpenOffice 4.1.3                                               4.13.9783      Apache Software Foundation  20170803
+PDFsam Basic                                                   3.20.4.0       Andrea Vacondio             20161110
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005     12.0.21005     Microsoft Corporation       20160711
+Java 8 Update 144                                              8.0.1440.1     Oracle Corporation          20170809
+CNCBENDER                                                      1.0.0          REM Software & Automation   20171204
+Sentinel Runtime                                               6.60.1.36770   SafeNet Inc.                20170922
+MetaCAM 8.2                                                    8.2            Metamation                  20171030
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030   11.0.61030.0   Microsoft Corporation
+Java Auto Updater                                              2.8.144.1      Oracle Corporation          20170809
+Software de Dispositivos Chipset Intel®                        10.0.17        Intel(R) Corporation
+Segin.Sybus.COM                                                17.13.00       Segin                       20180111
+Google Update Helper                                           1.3.33.17      Google Inc.                 20180517
+Kaspersky Endpoint Security 10 for Windows                     10.2.6.3733    Kaspersky Lab               20170828
+Microsoft Visual C++ 2005 Redistributable                      8.0.59193      Microsoft Corporation       20150203
+Realtek Ethernet Controller Driver                             8.33.529.2014  Realtek                     20150204
+Microsoft Office 2003 Web Components                           12.0.4518.1014 Microsoft Corporation       20150203
+Office 15 Click-to-Run Extensibility Component                 15.0.5031.1000 Microsoft Corporation       20180523
+Office 15 Click-to-Run Localization Component                  15.0.5031.1000 Microsoft Corporation       20180523
+Visual Studio 2012 x86 Redistributables                        14.0.0.1       AVG Technologies CZ, s.r.o. 20170413
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 9.0.30729.6161 Microsoft Corporation       20150203
+SAP Crystal Reports runtime engine for .NET Framework (32-bit) 13.0.15.1840   SAP                         20180111
+Google Update Helper                                           1.3.21.115     Google Inc.                 20150204
+Adobe Refresh Manager                                          1.8.0          Adobe Systems Incorporated  20180301
+Adobe Acrobat Reader DC - Português                            18.011.20040   Adobe Systems Incorporated  20180517
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030  11.0.61030     Microsoft Corporation       20150203
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030     11.0.61030     Microsoft Corporation       20150203
+ASUS Product Register Program                                  1.0.026        ASUSTek Computer Inc.       20150204
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030   11.0.61030.0   Microsoft Corporation
+RealDWG Converter                                              2.7.0          Metamation                  20160711
+IGES Converter                                                 1.1.0          Metamation                  20160711
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219    10.0.40219     Microsoft Corporation       20150203
+Realtek High Definition Audio Driver                           6.0.1.7354     Realtek Semiconductor Corp. 20150204
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501   12.0.30501.0   Microsoft Corporation
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005  12.0.21005     Microsoft Corporation       20160711
+
+
+PS C:\Users\Desenho\Desktop\AUDITORIA>

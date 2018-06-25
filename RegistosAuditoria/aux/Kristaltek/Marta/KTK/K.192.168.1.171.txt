@@ -1,0 +1,1417 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ktk0003\admin
+ 
+_______________________________________ 
+ 
+08/06/2018 11:22:13 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Host Name:                 KTK0003
+OS Name:                   Microsoft Windows 8.1 Pro
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Admin
+Registered Organization:   
+Product ID:                00259-40854-17951-AAOEM
+Original Install Date:     18/12/2014, 17:38:55
+System Boot Time:          08/06/2018, 08:33:36
+System Manufacturer:       ASUS
+System Model:              All Series
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~4001 Mhz
+BIOS Version:              American Megatrends Inc. 2305, 09/10/2014
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             pt;Portuguàs (Portugal)
+Input Locale:              pt;Portuguàs (Portugal)
+Time Zone:                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+Total Physical Memory:     32ˇ710 MB
+Available Physical Memory: 28ˇ546 MB
+Virtual Memory: Max Size:  37ˇ574 MB
+Virtual Memory: Available: 32ˇ146 MB
+Virtual Memory: In Use:    5ˇ428 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    KTK
+Logon Server:              \\KTK0003
+Hotfix(s):                 262 Hotfix(s) Installed.
+                           [01]: KB2899189_Microsoft-Windows-CameraCodec-Package
+                           [02]: KB2894852
+                           [03]: KB2894856
+                           [04]: KB2919355
+                           [05]: KB2919442
+                           [06]: KB2920189
+                           [07]: KB2934520
+                           [08]: KB2937220
+                           [09]: KB2938772
+                           [10]: KB2939471
+                           [11]: KB2949621
+                           [12]: KB2954879
+                           [13]: KB2955164
+                           [14]: KB2959626
+                           [15]: KB2962409
+                           [16]: KB2965142
+                           [17]: KB2965500
+                           [18]: KB2966826
+                           [19]: KB2966828
+                           [20]: KB2967917
+                           [21]: KB2968296
+                           [22]: KB2971203
+                           [23]: KB2972103
+                           [24]: KB2972213
+                           [25]: KB2975061
+                           [26]: KB2975719
+                           [27]: KB2976627
+                           [28]: KB2976978
+                           [29]: KB2978122
+                           [30]: KB2984006
+                           [31]: KB2987107
+                           [32]: KB2989930
+                           [33]: KB2990967
+                           [34]: KB2993100
+                           [35]: KB2994290
+                           [36]: KB2995004
+                           [37]: KB2995388
+                           [38]: KB2996799
+                           [39]: KB2998174
+                           [40]: KB2999226
+                           [41]: KB3000850
+                           [42]: KB3003057
+                           [43]: KB3003667
+                           [44]: KB3004365
+                           [45]: KB3008923
+                           [46]: KB3012199
+                           [47]: KB3012235
+                           [48]: KB3012702
+                           [49]: KB3013172
+                           [50]: KB3013531
+                           [51]: KB3013538
+                           [52]: KB3013769
+                           [53]: KB3013791
+                           [54]: KB3013816
+                           [55]: KB3014442
+                           [56]: KB3015696
+                           [57]: KB3018133
+                           [58]: KB3019978
+                           [59]: KB3020370
+                           [60]: KB3021910
+                           [61]: KB3021952
+                           [62]: KB3022345
+                           [63]: KB3023219
+                           [64]: KB3024751
+                           [65]: KB3024755
+                           [66]: KB3029603
+                           [67]: KB3029606
+                           [68]: KB3030947
+                           [69]: KB3032359
+                           [70]: KB3033446
+                           [71]: KB3035126
+                           [72]: KB3035487
+                           [73]: KB3036612
+                           [74]: KB3037576
+                           [75]: KB3037924
+                           [76]: KB3038002
+                           [77]: KB3038314
+                           [78]: KB3038701
+                           [79]: KB3042085
+                           [80]: KB3044374
+                           [81]: KB3044673
+                           [82]: KB3045634
+                           [83]: KB3045685
+                           [84]: KB3045717
+                           [85]: KB3045719
+                           [86]: KB3045755
+                           [87]: KB3045999
+                           [88]: KB3046017
+                           [89]: KB3046480
+                           [90]: KB3046737
+                           [91]: KB3047254
+                           [92]: KB3048043
+                           [93]: KB3049563
+                           [94]: KB3053863
+                           [95]: KB3054169
+                           [96]: KB3054256
+                           [97]: KB3054464
+                           [98]: KB3055323
+                           [99]: KB3055343
+                           [100]: KB3055642
+                           [101]: KB3056347
+                           [102]: KB3058515
+                           [103]: KB3059317
+                           [104]: KB3060793
+                           [105]: KB3061493
+                           [106]: KB3061512
+                           [107]: KB3062760
+                           [108]: KB3063843
+                           [109]: KB3064059
+                           [110]: KB3064209
+                           [111]: KB3065822
+                           [112]: KB3065988
+                           [113]: KB3068708
+                           [114]: KB3071756
+                           [115]: KB3072307
+                           [116]: KB3074545
+                           [117]: KB3075220
+                           [118]: KB3075853
+                           [119]: KB3076949
+                           [120]: KB3077715
+                           [121]: KB3078071
+                           [122]: KB3078405
+                           [123]: KB3078676
+                           [124]: KB3080042
+                           [125]: KB3080149
+                           [126]: KB3080800
+                           [127]: KB3082089
+                           [128]: KB3083325
+                           [129]: KB3083711
+                           [130]: KB3084135
+                           [131]: KB3086255
+                           [132]: KB3087038
+                           [133]: KB3087040
+                           [134]: KB3087041
+                           [135]: KB3087137
+                           [136]: KB3087916
+                           [137]: KB3089023
+                           [138]: KB3091297
+                           [139]: KB3093983
+                           [140]: KB3095701
+                           [141]: KB3097992
+                           [142]: KB3099406
+                           [143]: KB3099834
+                           [144]: KB3100473
+                           [145]: KB3102429
+                           [146]: KB3103616
+                           [147]: KB3103696
+                           [148]: KB3103709
+                           [149]: KB3104002
+                           [150]: KB3109103
+                           [151]: KB3109560
+                           [152]: KB3109976
+                           [153]: KB3110329
+                           [154]: KB3112148
+                           [155]: KB3112336
+                           [156]: KB3115224
+                           [157]: KB3118401
+                           [158]: KB3119147
+                           [159]: KB3121261
+                           [160]: KB3124275
+                           [161]: KB3126030
+                           [162]: KB3126434
+                           [163]: KB3126587
+                           [164]: KB3127222
+                           [165]: KB3128650
+                           [166]: KB3132372
+                           [167]: KB3133431
+                           [168]: KB3133690
+                           [169]: KB3134814
+                           [170]: KB3134815
+                           [171]: KB3135449
+                           [172]: KB3135782
+                           [173]: KB3137728
+                           [174]: KB3138378
+                           [175]: KB3138602
+                           [176]: KB3138615
+                           [177]: KB3138910
+                           [178]: KB3138962
+                           [179]: KB3139398
+                           [180]: KB3139914
+                           [181]: KB3139929
+                           [182]: KB3140185
+                           [183]: KB3140219
+                           [184]: KB3140222
+                           [185]: KB3140234
+                           [186]: KB3141092
+                           [187]: KB3142026
+                           [188]: KB3144756
+                           [189]: KB3145384
+                           [190]: KB3146604
+                           [191]: KB3146723
+                           [192]: KB3146751
+                           [193]: KB3147071
+                           [194]: KB3148198
+                           [195]: KB3148851
+                           [196]: KB3150513
+                           [197]: KB3154070
+                           [198]: KB3154132
+                           [199]: KB3155784
+                           [200]: KB3156059
+                           [201]: KB3157993
+                           [202]: KB3159398
+                           [203]: KB3160005
+                           [204]: KB3161102
+                           [205]: KB3161949
+                           [206]: KB3162835
+                           [207]: KB3163207
+                           [208]: KB3167685
+                           [209]: KB3170106
+                           [210]: KB3172614
+                           [211]: KB3172729
+                           [212]: KB3173424
+                           [213]: KB3174060
+                           [214]: KB3175024
+                           [215]: KB3175443
+                           [216]: KB3178539
+                           [217]: KB3179574
+                           [218]: KB3184143
+                           [219]: KB3185319
+                           [220]: KB3186539
+                           [221]: KB3187754
+                           [222]: KB3188128
+                           [223]: KB3194343
+                           [224]: KB3201860
+                           [225]: KB3202790
+                           [226]: KB3209498
+                           [227]: KB3210132
+                           [228]: KB3210137
+                           [229]: KB3214628
+                           [230]: KB4010250
+                           [231]: KB4014329
+                           [232]: KB4014505
+                           [233]: KB4014512
+                           [234]: KB4014555
+                           [235]: KB4018483
+                           [236]: KB4020821
+                           [237]: KB4022730
+                           [238]: KB4025376
+                           [239]: KB4033369
+                           [240]: KB4033389
+                           [241]: KB4034662
+                           [242]: KB4038806
+                           [243]: KB4040972
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.1.171
+                                 [02]: fe80::d1a5:b7c4:8b26:6db3
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=2305
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : KTK0003
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : AC-9E-17-4D-FE-91
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d1a5:b7c4:8b26:6db3%3(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.171(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.250
+   DHCPv6 IAID . . . . . . . . . . . : 61644311
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-24-C9-D1-AC-9E-17-4D-FE-91
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{8A9066B9-D96C-409F-9740-39D5EC950E3B}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Placa Microsoft ISATAP
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=134535479296
+Size=239502094336
+
+
+Caption=D:
+DriveType=5
+FreeSpace=
+Size=
+
+
+Caption=E:
+DriveType=3
+FreeSpace=1999983497216
+Size=2000263573504
+
+
+Caption=Z:
+DriveType=4
+FreeSpace=8596883730432
+Size=8741936205824
+
+
+ 
+
+
+Caption=KINGSTON SH103S3240G
+DeviceID=\\.\PHYSICALDRIVE0
+Model=KINGSTON SH103S3240G
+Partitions=3
+Size=240054796800
+
+
+Caption=WDC WD20EZRX-00D8PB0
+DeviceID=\\.\PHYSICALDRIVE1
+Model=WDC WD20EZRX-00D8PB0
+Partitions=1
+Size=2000396321280
+
+
+ 
+
+
+Caption=KINGSTON SH103S3240G
+
+
+Caption=WDC WD20EZRX-00D8PB0
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=ASUSTeK COMPUTER INC.
+Product=Z97-K
+SerialNumber=141034169401566
+Version=Rev X.0x
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+
+
+ 
+
+
+MaxClockSpeed=4001
+Name=Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+NumberOfCores=4
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+USER INFORMATION
+----------------
+
+User Name     SID                                           
+============= ==============================================
+ktk0003\admin S-1-5-21-4004990962-2366836964-1029154298-1001
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                                 Type             SID                                            Attributes                                        
+========================================================== ================ ============================================== ==================================================
+Todos                                                      Well-known group S-1-1-0                                        Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local e membro do grupo Administradores Well-known group S-1-5-114                                      Group used for deny only                          
+KTK0003\HomeUsers                                          Alias            S-1-5-21-4004990962-2366836964-1029154298-1002 Mandatory group, Enabled by default, Enabled group
+BUILTIN\Administradores                                    Alias            S-1-5-32-544                                   Group used for deny only                          
+BUILTIN\Utilizadores do ambiente de trabalho remoto        Alias            S-1-5-32-555                                   Mandatory group, Enabled by default, Enabled group
+BUILTIN\Utilizadores                                       Alias            S-1-5-32-545                                   Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                                   Well-known group S-1-5-4                                        Mandatory group, Enabled by default, Enabled group
+IN÷CIO DE SESS«O NA CONSOLA                                Well-known group S-1-2-1                                        Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Utilizadores Autenticados                     Well-known group S-1-5-11                                       Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Esta organizaá∆o                              Well-known group S-1-5-15                                       Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local                                   Well-known group S-1-5-113                                      Mandatory group, Enabled by default, Enabled group
+LOCAL                                                      Well-known group S-1-2-0                                        Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Autenticaá∆o NTLM                             Well-known group S-1-5-64-10                                    Mandatory group, Enabled by default, Enabled group
+Etiqueta Obrigat¢ria\N°vel Obrigat¢rio MÇdio               Label            S-1-16-8192                                                                                      
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Deion                                   State   
+============================= ============================================= ========
+SeShutdownPrivilege           Encerrar o sistema                            Disabled
+SeChangeNotifyPrivilege       Ignorar verificaá∆o transversal               Enabled 
+SeUndockPrivilege             Remover computador da estaá∆o de ancoragem    Disabled
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Disabled
+SeTimeZonePrivilege           Alterar o fuso hor†rio                        Disabled
+
+ 
+
+C:\Users\Admin\Desktop\AUDITORIA>net user admin  
+Nome do utilizador                            Admin
+Nome completo                                 
+Coment†rio                                    
+Coment†rio do utilizador                      
+C¢digo de pa°s/regi∆o                         000 (Predefiniá∆o do sistema)
+Conta ativa                                   Sim
+Conta expira                                  Nunca
+
+Èltima definiá∆o da palavra-passe             10/10/2016 17:28:08
+A palavra-passe expira                        Nunca
+Palavra-passe alter†vel                       10/10/2016 17:28:08
+Palavra-passe necess†ria                      N∆o
+O utilizador pode alterar a palavra-passe     Sim
+
+Estaá‰es de trabalho permitidas               Todos
+ de in°cio de sess∆o                    
+Perfil de utilizador                          
+Diret¢rio de raiz                             
+Èltimo in°cio de sess∆o                       08/06/2018 08:33:51
+
+Hor†rio de in°cio de sess∆o permitido         Todos
+
+Associaá‰es a Grupos Locais                   *Administradores      
+                                              *HomeUsers            
+                                              *Utilizadores do ambie
+Associaá‰es a Grupos globais                  *Nenhum               
+O comando foi conclu°do com àxito.
+
+ 
+ 
+
+Aliases para \\KTK0003
+
+-------------------------------------------------------------------------------
+*Administradores
+*Administradores de Hyper-V
+*Convidados
+*HomeUsers
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores Criptogr†ficos
+*Operadores de Assistància de Controlo de Acesso
+*Operadores de configuraá∆o de rede
+*Operadores de c¢pia de seguranáa
+*Replicador
+*Utilizadores
+*Utilizadores avanáados
+*Utilizadores COM Distribu°dos
+*Utilizadores de Gest∆o Remota
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+*WinRMRemoteWMIUsers__
+O comando foi conclu°do com àxito.
+
+ 
+Nome de alias     Administradores
+Coment†rio        Os administradores tàm acesso completo e sem restriá‰es ao computador/dom°nio
+
+Membros
+
+-------------------------------------------------------------------------------
+Admin
+Administrador
+O comando foi conclu°do com àxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+AccountType=512
+Caption=KTK0003\Admin
+Deion=
+Disabled=FALSE
+Domain=KTK0003
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Admin
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-4004990962-2366836964-1029154298-1001
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTK0003\Administrador
+Deion=Conta incorporada para a administraá∆o do computador/dom°nio
+Disabled=TRUE
+Domain=KTK0003
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-4004990962-2366836964-1029154298-500
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTK0003\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/dom°nio
+Disabled=FALSE
+Domain=KTK0003
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-4004990962-2366836964-1029154298-501
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTK0003\HomeGroupUser$
+Deion=Conta incorporada para acesso do grupo domÇstico ao computador
+Disabled=FALSE
+Domain=KTK0003
+FullName=HomeGroupUser$
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=HomeGroupUser$
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-4004990962-2366836964-1029154298-1003
+SIDType=1
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+InstallDate=20141219
+Name=Microsoft Office 2003 Web Components
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.4518.1014
+
+
+InstallDate=20141217
+Name=Nero Express Help (CHM)
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.1000
+
+
+InstallDate=20141217
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=13.1.0.1058
+
+
+InstallDate=20141217
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20141219
+Name=Bonjour
+RegCompany=
+RegOwner=
+Vendor=Apple Inc.
+Version=3.0.0.10
+
+
+InstallDate=20141217
+Name=Nero ControlCenter
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=11.0.15200
+
+
+InstallDate=20141217
+Name=Prerequisite installer
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.0002
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59193
+
+
+InstallDate=20141219
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20141219
+Name=Microsoft Visual Basic for Applications 7.1 (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.00.00
+
+
+InstallDate=20150109
+Name=SOLIDWORKS eDrawings 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systämes SolidWorks Corp
+Version=15.1.0044
+
+
+InstallDate=20141217
+Name=Nero ControlCenter Help (CHM)
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.0003
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180301
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguàs
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20150109
+Name=SOLIDWORKS Composer Player 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20141217
+Name=ASUS Product Register Program
+RegCompany=
+RegOwner=
+Vendor=ASUSTek Computer Inc.
+Version=1.0.026
+
+
+InstallDate=20141217
+Name=Nero Update
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=11.0.11800.31.0
+
+
+InstallDate=20170710
+Name=LibreOffice 5.3.4.2
+RegCompany=
+RegOwner=Admin
+Vendor=The Document Foundation
+Version=5.3.4.2
+
+
+InstallDate=20150109
+Name=SOLIDWORKS 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.111.2
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20141217
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20141217
+Name=Nero Express
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.19000
+
+
+InstallDate=20141219
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20141222
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.25.11
+
+
+InstallDate=20141217
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.35.127.1
+
+
+InstallDate=20141217
+Name=Intel(R) ME UninstallLegacy
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.1.0
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180521
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20141217
+Name=Nero 12 Essentials OEM.a01
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.5.00400
+
+
+InstallDate=20141217
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.2.1000
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20160606
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.4148
+
+
+InstallDate=20141217
+Name=Nero Core Components
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=11.0.17800
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20141217
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.17
+
+
+InstallDate=20141217
+Name=Nero Launcher
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.2.2000
+
+
+InstallDate=20150109
+Name=SOLIDWORKS Explorer 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Partilha     Recurso                         Coment†rio
+
+-------------------------------------------------------------------------------
+C$           C:\                             Partilha predefinida              
+E$           E:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+print$       C:\Windows\system32\spool\drivers
+                                             Controladores de impressora       
+ADMIN$       C:\Windows                      Admin remoto                      
+SOLIDWORKS 2015 x64 SP01.1
+             C:\Users\Admin\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2015 x64 SP01.1
+                                             
+Users        C:\Users                        
+Kyocera FS-3640MFP XPS
+                                    Spooled  Kyocera FS-3640MFP XPS            
+O comando foi conclu°do com àxito.
+
+
+
+InstallDate=20141219
+Name=Microsoft Office 2003 Web Components
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.4518.1014
+
+
+InstallDate=20141217
+Name=Nero Express Help (CHM)
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.1000
+
+
+InstallDate=20141217
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=13.1.0.1058
+
+
+InstallDate=20141217
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20141219
+Name=Bonjour
+RegCompany=
+RegOwner=
+Vendor=Apple Inc.
+Version=3.0.0.10
+
+
+InstallDate=20141217
+Name=Nero ControlCenter
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=11.0.15200
+
+
+InstallDate=20141217
+Name=Prerequisite installer
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.0002
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59193
+
+
+InstallDate=20141219
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20141219
+Name=Microsoft Visual Basic for Applications 7.1 (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.00.00
+
+
+InstallDate=20150109
+Name=SOLIDWORKS eDrawings 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systämes SolidWorks Corp
+Version=15.1.0044
+
+
+InstallDate=20141217
+Name=Nero ControlCenter Help (CHM)
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.0003
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180301
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguàs
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20150109
+Name=SOLIDWORKS Composer Player 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20141217
+Name=ASUS Product Register Program
+RegCompany=
+RegOwner=
+Vendor=ASUSTek Computer Inc.
+Version=1.0.026
+
+
+InstallDate=20141217
+Name=Nero Update
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=11.0.11800.31.0
+
+
+InstallDate=20170710
+Name=LibreOffice 5.3.4.2
+RegCompany=
+RegOwner=Admin
+Vendor=The Document Foundation
+Version=5.3.4.2
+
+
+InstallDate=20150109
+Name=SOLIDWORKS 2015 x64 Edition SP01.1
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.111.2
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20141217
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20141217
+Name=Nero Express
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.0.19000
+
+
+InstallDate=20141219
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20141222
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.25.11
+
+
+InstallDate=20141217
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.35.127.1
+
+
+InstallDate=20141217
+Name=Intel(R) ME UninstallLegacy
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.1.0
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180521
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20141217
+Name=Nero 12 Essentials OEM.a01
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.5.00400
+
+
+InstallDate=20141217
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.2.1000
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20160606
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.4148
+
+
+InstallDate=20141217
+Name=Nero Core Components
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=11.0.17800
+
+
+InstallDate=20141219
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20141217
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.0.17
+
+
+InstallDate=20141217
+Name=Nero Launcher
+RegCompany=
+RegOwner=Utilizador do Windows
+Vendor=Nero AG
+Version=12.2.2000
+
+
+InstallDate=20150109
+Name=SOLIDWORKS Explorer 2015 SP01.1 x64 Edition
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=23.11.2
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Currently stored credentials:
+
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02xfrovdjgul
+    Local machine persistence
+    
+    Target: Domain:target=KTK0003
+    Type: Domain Password
+    User: admin
+    
+    Target: Domain:target=192.168.1.246
+    Type: Domain Password
+    User: KTK3\florian.torres
+    
+    Target: Domain:target=KTK1
+    Type: Domain Password
+    User: Admin
+    
+    Target: Domain:target=nas-kristaltek
+    Type: Domain Password
+    User: KTK3\Ktk
+    
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO DE CREDENCIAIS WEB #############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UserName           Resource                           Password Properties                                              
+--------           --------                           -------- ----------                                              
+cdcarvalho@ipca.pt https://login.microsoftonline.com/          {[hidden, True], [applicationid, 4e3cb6d5-2556-4cd8-a...
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO SOFTWARE INSTALADO ############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DisplayName                                                    DisplayVersion  Publisher                   InstallDate
+-----------                                                    --------------  ---------                   -----------
+                                                                                                                      
+Google Chrome                                                  67.0.3396.79    Google Inc.                 20141222   
+Scribus 1.4.6                                                  1.4.6           The Scribus Team                       
+SOLIDWORKS 2015 x64 Edition SP01.1                             23.1.1.2        SolidWorks Corporation                 
+                                                                                                                      
+Nero Express Help (CHM)                                        12.0.1000       Nero AG                     20141217   
+Nero Launcher                                                  12.2.2000       Nero AG                     20141217   
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 9.0.30729.4148  Microsoft Corporation       20160606   
+Nero 12 Essentials OEM.a01                                     12.5.00400      Nero AG                     20141217   
+Lightshot-5.4.0.35                                             5.4.0.35        Skillbrains                 20180321   
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030   11.0.61030.0    Microsoft Corporation                  
+Prerequisite installer                                         12.0.0002       Nero AG                     20141217   
+Software de Dispositivos Chipset Intel©                        10.0.17         Intel(R) Corporation                   
+Google Update Helper                                           1.3.33.17       Google Inc.                 20180521   
+Nero Update                                                    11.0.11800.31.0 Nero AG                     20141217   
+Microsoft Visual C++ 2005 Redistributable                      8.0.59193       Microsoft Corporation       20141219   
+Nero Express                                                   12.0.19000      Nero AG                     20141217   
+Realtek Ethernet Controller Driver                             8.33.529.2014   Realtek                     20141217   
+Microsoft Office 2003 Web Components                           12.0.4518.1014  Microsoft Corporation       20141219   
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 9.0.30729.6161  Microsoft Corporation       20141219   
+Google Update Helper                                           1.3.25.11       Google Inc.                 20141222   
+Nero ControlCenter                                             11.0.15200      Nero AG                     20141217   
+Adobe Refresh Manager                                          1.8.0           Adobe Systems Incorporated  20180301   
+Adobe Acrobat Reader DC - Portuguàs                            18.011.20040    Adobe Systems Incorporated  20180517   
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030  11.0.61030      Microsoft Corporation       20141219   
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030     11.0.61030      Microsoft Corporation       20141219   
+Nero Core Components                                           11.0.17800      Nero AG                     20141217   
+ASUS Product Register Program                                  1.0.026         ASUSTek Computer Inc.       20141217   
+Nero ControlCenter Help (CHM)                                  12.0.0003       Nero AG                     20141217   
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030   11.0.61030.0    Microsoft Corporation                  
+LibreOffice 5.3.4.2                                            5.3.4.2         The Document Foundation     20170710   
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219    10.0.40219      Microsoft Corporation       20141219   
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+Realtek High Definition Audio Driver                           6.0.1.7354      Realtek Semiconductor Corp. 20141217   
+
+

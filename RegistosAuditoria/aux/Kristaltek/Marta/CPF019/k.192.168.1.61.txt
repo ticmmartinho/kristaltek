@@ -1,0 +1,1816 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ktl0004\diana
+ 
+_______________________________________ 
+ 
+01/06/2018 10:59:42 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Host Name:                 KTL0004
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.17134 N/A Build 17134
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Admin
+Registered Organization:   
+Product ID:                00330-80000-00000-AA602
+Original Install Date:     11/05/2018, 08:28:32
+System Boot Time:          01/06/2018, 08:04:30
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 790
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~3101 Mhz
+BIOS Version:              Dell Inc. A18, 24/09/2013
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             pt;Portuguàs (Portugal)
+Input Locale:              pt;Portuguàs (Portugal)
+Time Zone:                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+Total Physical Memory:     3ˇ977 MB
+Available Physical Memory: 1ˇ545 MB
+Virtual Memory: Max Size:  8ˇ073 MB
+Virtual Memory: Available: 5ˇ057 MB
+Virtual Memory: In Use:    3ˇ016 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\KTL0004
+Hotfix(s):                 2 Hotfix(s) Installed.
+                           [01]: KB4103729
+                           [02]: KB4103721
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82579LM Gigabit Network Connection
+                                 Connection Name: Ligaá∆o de µrea Local
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.1.61
+                                 [02]: fe80::594d:f4b0:cfce:9c8
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=A18
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : KTL0004
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ligaá∆o de µrea Local:
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Intel(R) 82579LM Gigabit Network Connection
+   Physical Address. . . . . . . . . : 5C-F9-DD-71-5A-AB
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::594d:f4b0:cfce:9c8%12(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.61(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.250
+   DHCPv6 IAID . . . . . . . . . . . : 240974301
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1E-66-63-87-5C-F9-DD-71-5A-AB
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=115930087424
+Size=239054856192
+
+
+Caption=D:
+DriveType=5
+FreeSpace=
+Size=
+
+
+Caption=T:
+DriveType=4
+FreeSpace=6732095148032
+Size=7929882996736
+
+
+Caption=W:
+DriveType=4
+FreeSpace=6732095148032
+Size=7929882996736
+
+
+Caption=Y:
+DriveType=4
+FreeSpace=6732095148032
+Size=7929882996736
+
+
+Caption=Z:
+DriveType=4
+FreeSpace=6732095148032
+Size=7929882996736
+
+
+ 
+
+
+Caption=KINGSTON SHSS37A240G
+DeviceID=\\.\PHYSICALDRIVE0
+Model=KINGSTON SHSS37A240G
+Partitions=3
+Size=240054796800
+
+
+ 
+
+
+Caption=KINGSTON SHSS37A240G
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=Dell Inc.
+Product=0HY9JP
+SerialNumber=/1H8RD5J/CN7360424602CP/
+Version=A02
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+
+
+ 
+
+
+MaxClockSpeed=3101
+Name=Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+NumberOfCores=4
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+USER INFORMATION
+----------------
+
+User Name     SID                                          
+============= =============================================
+ktl0004\diana S-1-5-21-3735935086-4237180299-276598314-1001
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                          Type             SID          Attributes                                        
+=================================================== ================ ============ ==================================================
+Todos                                               Well-known group S-1-1-0      Mandatory group, Enabled by default, Enabled group
+BUILTIN\Utilizadores                                Alias            S-1-5-32-545 Mandatory group, Enabled by default, Enabled group
+BUILTIN\Utilizadores do ambiente de trabalho remoto Alias            S-1-5-32-555 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                            Well-known group S-1-5-4      Mandatory group, Enabled by default, Enabled group
+IN÷CIO DE SESS«O NA CONSOLA                         Well-known group S-1-2-1      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Utilizadores Autenticados              Well-known group S-1-5-11     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Esta organizaá∆o                       Well-known group S-1-5-15     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local                            Well-known group S-1-5-113    Mandatory group, Enabled by default, Enabled group
+LOCAL                                               Well-known group S-1-2-0      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Autenticaá∆o NTLM                      Well-known group S-1-5-64-10  Mandatory group, Enabled by default, Enabled group
+Etiqueta Obrigat¢ria\N°vel Obrigat¢rio MÇdio        Label            S-1-16-8192                                                    
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Deion                                   State   
+============================= ============================================= ========
+SeShutdownPrivilege           Encerrar o sistema                            Disabled
+SeChangeNotifyPrivilege       Ignorar verificaá∆o transversal               Enabled 
+SeUndockPrivilege             Remover computador da estaá∆o de ancoragem    Disabled
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Disabled
+SeTimeZonePrivilege           Alterar o fuso hor†rio                        Disabled
+
+ 
+
+C:\Users\Diana\Desktop\AUDITORIA>net user diana  
+Nome do utilizador                            Diana
+Nome completo                                 Diana
+Coment†rio                                    
+Coment†rio do utilizador                      
+C¢digo de pa°s/regi∆o                         000 (Predefiniá∆o do sistema)
+Conta ativa                                   Sim
+Conta expira                                  Nunca
+
+Èltima definiá∆o da palavra-passe             02/03/2016 12:41:04
+A palavra-passe expira                        Nunca
+Palavra-passe alter†vel                       02/03/2016 12:41:04
+Palavra-passe necess†ria                      Sim
+O utilizador pode alterar a palavra-passe     Sim
+
+Estaá‰es de trabalho permitidas               Todos
+ de in°cio de sess∆o                    
+Perfil de utilizador                          
+Diret¢rio de raiz                             
+Èltimo in°cio de sess∆o                       01/06/2018 08:04:47
+
+Hor†rio de in°cio de sess∆o permitido         Todos
+
+Associaá‰es a Grupos Locais                   *Utilizadores         
+Associaá‰es a Grupos globais                  *None                 
+O comando foi conclu°do com àxito.
+
+ 
+ 
+
+Aliases para \\KTL0004
+
+-------------------------------------------------------------------------------
+*Administradores
+*Administradores de Hyper-V
+*Convidados
+*Grupo de Contas Geridas pelo Sistema
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores Criptogr†ficos
+*Operadores de Assistància de Controlo de Acesso
+*Operadores de configuraá∆o de rede
+*Operadores de c¢pia de seguranáa
+*Replicador
+*Utilizadores
+*Utilizadores avanáados
+*Utilizadores COM Distribu°dos
+*Utilizadores de Gest∆o Remota
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+O comando foi conclu°do com àxito.
+
+ 
+Nome de alias     Administradores
+Coment†rio        Os administradores tàm acesso completo e sem restriá‰es ao computador/dom°nio
+
+Membros
+
+-------------------------------------------------------------------------------
+Admin
+Administrador
+O comando foi conclu°do com àxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+AccountType=512
+Caption=KTL0004\Admin
+Deion=
+Disabled=FALSE
+Domain=KTL0004
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Admin
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-3735935086-4237180299-276598314-1000
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0004\Administrador
+Deion=Conta incorporada para a administraá∆o do computador/dom°nio
+Disabled=TRUE
+Domain=KTL0004
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-3735935086-4237180299-276598314-500
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0004\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/dom°nio
+Disabled=TRUE
+Domain=KTL0004
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-3735935086-4237180299-276598314-501
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0004\DefaultAccount
+Deion=Conta de utilizador gerida pelo sistema.
+Disabled=TRUE
+Domain=KTL0004
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=DefaultAccount
+PasswordChangeable=TRUE
+PasswordExpires=TRUE
+PasswordRequired=TRUE
+SID=S-1-5-21-3735935086-4237180299-276598314-503
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0004\Diana
+Deion=
+Disabled=FALSE
+Domain=KTL0004
+FullName=Diana
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Diana
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-3735935086-4237180299-276598314-1001
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0004\WDAGUtilityAccount
+Deion=Uma conta de utilizador gerida e utilizada pelo sistema para cen†rios do Windows Defender Application Guard.
+Disabled=TRUE
+Domain=KTL0004
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=WDAGUtilityAccount
+PasswordChangeable=TRUE
+PasswordExpires=TRUE
+PasswordRequired=TRUE
+SID=S-1-5-21-3735935086-4237180299-276598314-504
+SIDType=1
+Status=Degraded
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+InstallDate=20170913
+Name=Microsoft Office 2003 Web Components
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.6213.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office OneNote MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Access MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Excel MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180411
+Name=Microsoft Office PowerPoint MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Publisher MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20170913
+Name=Microsoft Office Outlook MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160810
+Name=Microsoft Office Office 64-bit Components 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Shared 64-bit MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Word MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proofing (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180510
+Name=Microsoft Office Single Image 2010
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180509
+Name=Microsoft Office Shared MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (English) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (Spanish) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (French) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=SkypeT 7.3
+RegCompany=
+RegOwner=
+Vendor=Skype Technologies S.A.
+Version=7.3.101
+
+
+InstallDate=20170117
+Name=SOLIDWORKS 2017 SP0
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.100.5021
+
+
+InstallDate=20160310
+Name=Microsoft .NET Framework 4.6.1
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.6.01055
+
+
+InstallDate=20160301
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20170828
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=Admin
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20180111
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.13.00
+
+
+InstallDate=20170113
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61000
+
+
+InstallDate=20160301
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20160302
+Name=VBA (2627.01)
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=6.03.00.9402
+
+
+InstallDate=20170117
+Name=Bonjour
+RegCompany=
+RegOwner=
+Vendor=Apple Inc.
+Version=3.0.0.10
+
+
+InstallDate=20171027
+Name=KB4023057
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=2.6.0.0
+
+
+InstallDate=20180111
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=Admin
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20170112
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20170112
+Name=Microsoft Visual Basic for Applications 7.1 (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.00.00
+
+
+InstallDate=20160301
+Name=Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.50908
+
+
+InstallDate=20170526
+Name=Java 8 Update 131
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.1310.11
+
+
+InstallDate=20160301
+Name=Java 8 Update 73
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20160301
+Name=Java 8 Update 73 (64-bit)
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20160301
+Name=Java SE Development Kit 8 Update 73
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20160301
+Name=Java SE Development Kit 8 Update 73 (64-bit)
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20170118
+Name=Altova AltovaXML© 2012 rel. 2 sp1 Community Edition
+RegCompany=
+RegOwner=
+Vendor=Altova
+Version=2012.02.01
+
+
+InstallDate=20171116
+Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180328
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguàs
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20160229
+Name=
+RegCompany=
+RegOwner=Admin
+Vendor=Intel
+Version=18.1.0.0
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20160304
+Name=MSXML 4.0 SP2 (KB973688)
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=4.20.9876.0
+
+
+InstallDate=20171116
+Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20160302
+Name=Microsoft SQL Server 2005 Backward compatibility
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=8.05.2309
+
+
+InstallDate=20160301
+Name=swMSM
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems, Inc
+Version=12.0.0.1
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170112
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180522
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20170117
+Name=SOLIDWORKS Composer Player 2017 SP01
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.10.49
+
+
+InstallDate=20160321
+Name=Microsoft DVD App Installation for Microsoft.WindowsDVDPlayer_2019.6.13291.0_neutral_~_8wekyb3d8bbwe (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=1.0.0.0
+
+
+InstallDate=20170117
+Name=SOLIDWORKS Explorer 2017 SP0
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.00.5021
+
+
+InstallDate=20170302
+Name=DraftSight 2017 SP1 x64
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes
+Version=17.1.0096
+
+
+InstallDate=20170117
+Name=WPTx64
+RegCompany=
+RegOwner=
+Vendor=Microsoft
+Version=8.100.26866
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170113
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61001
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170117
+Name=SOLIDWORKS eDrawings 2017 SP01
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systämes SolidWorks Corp
+Version=17.1.0083
+
+
+InstallDate=20160301
+Name=Microsoft .NET Framework 4.6.1 (PTG)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.6.01055
+
+
+InstallDate=20170613
+Name=Microsoft Silverlight
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=5.1.50907.0
+
+
+InstallDate=20160302
+Name=Crystal Report 2008 Runtime SP6
+RegCompany=
+RegOwner=Admin
+Vendor=SAP AG
+Version=12.6.0.1596
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20160304
+Name=MSXML 4.0 SP2 (KB954430)
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=4.20.9870.0
+
+
+InstallDate=20170526
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.131.11
+
+
+InstallDate=20160229
+Name=VC_CRT_x64
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.02.0000
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Partilha     Recurso                         Coment†rio
+
+-------------------------------------------------------------------------------
+C$           C:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+print$       C:\WINDOWS\system32\spool\drivers
+                                             Controladores de impressora       
+ADMIN$       C:\WINDOWS                      Admin remoto                      
+Scanner      C:\Scanner                      
+Users        C:\Users                        
+Xerox 7225 Global Print Driver PCL6
+                                    Spooled  Xerox 7225 Global Print Driver ...
+O comando foi conclu°do com àxito.
+
+
+
+InstallDate=20170913
+Name=Microsoft Office 2003 Web Components
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.6213.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office OneNote MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Access MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Excel MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180411
+Name=Microsoft Office PowerPoint MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Publisher MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20170913
+Name=Microsoft Office Outlook MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160810
+Name=Microsoft Office Office 64-bit Components 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Shared 64-bit MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Word MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proofing (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180510
+Name=Microsoft Office Single Image 2010
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180509
+Name=Microsoft Office Shared MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (English) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (Spanish) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=Microsoft Office Proof (French) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20160301
+Name=SkypeT 7.3
+RegCompany=
+RegOwner=
+Vendor=Skype Technologies S.A.
+Version=7.3.101
+
+
+InstallDate=20170117
+Name=SOLIDWORKS 2017 SP0
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.100.5021
+
+
+InstallDate=20160310
+Name=Microsoft .NET Framework 4.6.1
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.6.01055
+
+
+InstallDate=20160301
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20170828
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=Admin
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20180111
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.13.00
+
+
+InstallDate=20170113
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61000
+
+
+InstallDate=20160301
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20160302
+Name=VBA (2627.01)
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=6.03.00.9402
+
+
+InstallDate=20170117
+Name=Bonjour
+RegCompany=
+RegOwner=
+Vendor=Apple Inc.
+Version=3.0.0.10
+
+
+InstallDate=20171027
+Name=KB4023057
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=2.6.0.0
+
+
+InstallDate=20180111
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=Admin
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20170112
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20170112
+Name=Microsoft Visual Basic for Applications 7.1 (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.00.00
+
+
+InstallDate=20160301
+Name=Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.50908
+
+
+InstallDate=20170526
+Name=Java 8 Update 131
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.1310.11
+
+
+InstallDate=20160301
+Name=Java 8 Update 73
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20160301
+Name=Java 8 Update 73 (64-bit)
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20160301
+Name=Java SE Development Kit 8 Update 73
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20160301
+Name=Java SE Development Kit 8 Update 73 (64-bit)
+RegCompany=
+RegOwner=Admin
+Vendor=Oracle Corporation
+Version=8.0.730.2
+
+
+InstallDate=20170118
+Name=Altova AltovaXML© 2012 rel. 2 sp1 Community Edition
+RegCompany=
+RegOwner=
+Vendor=Altova
+Version=2012.02.01
+
+
+InstallDate=20171116
+Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180328
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguàs
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20160229
+Name=
+RegCompany=
+RegOwner=Admin
+Vendor=Intel
+Version=18.1.0.0
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20160304
+Name=MSXML 4.0 SP2 (KB973688)
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=4.20.9876.0
+
+
+InstallDate=20171116
+Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20160302
+Name=Microsoft SQL Server 2005 Backward compatibility
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=8.05.2309
+
+
+InstallDate=20160301
+Name=swMSM
+RegCompany=
+RegOwner=Admin
+Vendor=Adobe Systems, Inc
+Version=12.0.0.1
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170112
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180522
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20170117
+Name=SOLIDWORKS Composer Player 2017 SP01
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.10.49
+
+
+InstallDate=20160321
+Name=Microsoft DVD App Installation for Microsoft.WindowsDVDPlayer_2019.6.13291.0_neutral_~_8wekyb3d8bbwe (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=1.0.0.0
+
+
+InstallDate=20170117
+Name=SOLIDWORKS Explorer 2017 SP0
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.00.5021
+
+
+InstallDate=20170302
+Name=DraftSight 2017 SP1 x64
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systemes
+Version=17.1.0096
+
+
+InstallDate=20170117
+Name=WPTx64
+RegCompany=
+RegOwner=
+Vendor=Microsoft
+Version=8.100.26866
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170113
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61001
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20170117
+Name=SOLIDWORKS eDrawings 2017 SP01
+RegCompany=
+RegOwner=Admin
+Vendor=Dassault Systämes SolidWorks Corp
+Version=17.1.0083
+
+
+InstallDate=20160301
+Name=Microsoft .NET Framework 4.6.1 (PTG)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.6.01055
+
+
+InstallDate=20170613
+Name=Microsoft Silverlight
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=5.1.50907.0
+
+
+InstallDate=20160302
+Name=Crystal Report 2008 Runtime SP6
+RegCompany=
+RegOwner=Admin
+Vendor=SAP AG
+Version=12.6.0.1596
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20160304
+Name=MSXML 4.0 SP2 (KB954430)
+RegCompany=
+RegOwner=Admin
+Vendor=Microsoft Corporation
+Version=4.20.9870.0
+
+
+InstallDate=20170526
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.131.11
+
+
+InstallDate=20160229
+Name=VC_CRT_x64
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.02.0000
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Domain Extended Credentials
+    User: 02xkeluvudhr
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=informatica@kristaltek.com
+    Type: Generic 
+    User: informatica@kristaltek.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02xkeluvudhr
+    Local machine persistence
+    
+    Target: Domain:target=srvklaser01
+    Type: Domain Password
+    User: User
+    
+    Target: Domain:target=nas-kristaltek
+    Type: Domain Password
+    User: diana
+    
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO DE CREDENCIAIS WEB #############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UserName                  Resource                          Password     Properties                                    
+--------                  --------                          --------     ----------                                    
+25102620904               https://app.seg-social.pt/                     {[hidden, True], [applicationid, 4e3cb6d5-2...
+kristaltek@kristaltek.com http://si.pontoverde.pt/                       {[hidden, True], [applicationid, 4e3cb6d5-2...
+102106                    https://portaldocliente.clf.pt/   8vaok0sg     {[hidden, False], [applicationid, 4e3cb6d5-...
+dianasa06@gmail.com       https://www.hofmann.pt/                        {[hidden, True], [applicationid, 4e3cb6d5-2...
+0817603018839573          https://www2.bancopopular.pt/                  {[hidden, True], [applicationid, 4e3cb6d5-2...
+krist_comp_ktk            https://www.clinoba.com/                       {[hidden, True], [applicationid, 4e3cb6d5-2...
+11140486034               https://app.seg-social.pt/                     {[hidden, True], [applicationid, 4e3cb6d5-2...
+25130860218               https://app.seg-social.pt/                     {[hidden, True], [applicationid, 4e3cb6d5-2...
+goncalo.costa             http://suporte.segin.pt/                       {[hidden, True], [applicationid, 4e3cb6d5-2...
+20018127000               https://app.seg-social.pt/                     {[hidden, True], [applicationid, 4e3cb6d5-2...
+goncalo.n.costa@gmail.com https://venda.cp.pt/                           {[hidden, True], [applicationid, 4e3cb6d5-2...
+508328640                 https://www.cm-barcelos.pt/                    {[hidden, True], [applicationid, 4e3cb6d5-2...
+b006713                   https://e-balcao.ccdr-n.pt/                    {[hidden, True], [applicationid, 4e3cb6d5-2...
+11915427938               https://app.seg-social.pt/                     {[hidden, True], [applicationid, 4e3cb6d5-2...
+geral@ktk.pt              https://mytnt.tnt.com/                         {[hidden, True], [applicationid, 4e3cb6d5-2...
+kris_comp_ktk             https://www.clinoba.com/                       {[hidden, True], [applicationid, 4e3cb6d5-2...
+regoper                   http://srvklaser01/                            {[hidden, True], [applicationid, 4e3cb6d5-2...
+224909312                 https://www.acesso.gov.pt/        FGL5KW4RG9Y4 {[hidden, False], [applicationid, 4e3cb6d5-...
+20018127000               https://www.fundoscompensacao.pt/              {[hidden, True], [applicationid, 4e3cb6d5-2...
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO SOFTWARE INSTALADO ############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DisplayName                                                                     DisplayVersion Publisher               
+-----------                                                                     -------------- ---------               
+Adobe Flash Player 20 NPAPI                                                     20.0.0.306     Adobe Systems Incorpo...
+Adobe Shockwave Player 12.2                                                     12.2.4.194     Adobe Systems, Inc.     
+                                                                                                                       
+Google Chrome                                                                   66.0.3359.181  Google Inc.             
+Inkscape 0.92.2                                                                 0.92.2         Inkscape Project        
+                                                                                                                       
+Maestro version 4.2.0 (32/64 Bit)                                                                                      
+Mozilla Firefox 44.0.2 (x86 pt-PT)                                              44.0.2         Mozilla                 
+Mozilla Maintenance Service                                                     44.0.2         Mozilla                 
+Microsoft Office Casa e Neg¢cios 2010                                           14.0.7015.1000 Microsoft Corporation   
+SOLIDWORKS 2017 SP01                                                            25.1.0.49      SolidWorks Corporation  
+                                                                                                                       
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501                    12.0.30501.0   Microsoft Corporation   
+WPTx64                                                                          8.100.26866    Microsoft               
+PRIMAVERA Fiscal Reporting v8.00 - Declaraá∆o Peri¢dica IVA                     08.0001.1142   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo SHST                                  08.0001.1026   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo Banco de Portugal - COPE              08.0001.1030   PRIMAVERA               
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+PRIMAVERA PROFESSIONAL - Contabilidade v9.00                                    09.1508.1026   PRIMAVERA               
+SkypeT 7.3                                                                      7.3.101        Skype Technologies S.A. 
+Java 8 Update 131                                                               8.0.1310.11    Oracle Corporation      
+Java 8 Update 73                                                                8.0.730.2      Oracle Corporation      
+Java SE Development Kit 8 Update 73                                             8.0.730.2      Oracle Corporation      
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030                    11.0.61030.0   Microsoft Corporation   
+PRIMAVERA PROFESSIONAL - Database Manager v9.00                                 09.1508.1006   PRIMAVERA               
+PRIMAVERA PROFESSIONAL - Recursos Humanos v9.00                                 09.1508.1022   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo DGO Balancete Anal°tico               08.0001.1044   PRIMAVERA               
+Java Auto Updater                                                               2.8.131.11     Oracle Corporation      
+PRIMAVERA PROFESSIONAL - Base Aplicacional de Neg¢cio v9.00                     09.1508.1021   PRIMAVERA               
+Segin.Sybus.COM                                                                 17.13.00       Segin                   
+PRIMAVERA Fiscal Reporting v8.00 - Modelo 10                                    08.0001.1054   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo DGO Emiss∆o Dados Mestre              08.0001.1037   PRIMAVERA               
+VBA (2627.01)                                                                   6.03.00.9402   Microsoft Corporation   
+PRIMAVERA Fiscal Reporting v8.00 - Modelo P2                                    08.0001.1030   PRIMAVERA               
+Google Update Helper                                                            1.3.33.17      Google Inc.             
+swMSM                                                                           12.0.0.1       Adobe Systems, Inc      
+PRIMAVERA Fiscal Reporting v8.00 - Modelo 22                                    08.0001.1183   PRIMAVERA               
+Intel(R) Management Engine Components                                           7.1.70.1205    Intel Corporation       
+PRIMAVERA Fiscal Reporting v8.00 - Relat¢rio Ènico Anexo D                      08.0001.1051   PRIMAVERA               
+Microsoft Visual C++ 2005 Redistributable                                       8.0.61001      Microsoft Corporation   
+PRIMAVERA Fiscal Reporting v8.00 - Modelo 30                                    08.0001.1023   PRIMAVERA               
+Kaspersky Endpoint Security 10 for Windows                                      10.2.6.3733    Kaspersky Lab           
+PRIMAVERA Fiscal Reporting v8.00 - Declaraá∆o Recapitulativa                    08.0001.1035   PRIMAVERA               
+MSXML 4.0 SP2 (KB954430)                                                        4.20.9870.0    Microsoft Corporation   
+PRIMAVERA Fiscal Reporting v8.00 - Relat¢rio Ènico                              08.0001.1113   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo Indez                                 08.0001.1038   PRIMAVERA               
+Microsoft Office 2003 Web Components                                            12.0.6213.1000 Microsoft Corporation   
+Microsoft Office Access MUI (Portuguese (Portugal)) 2010                        14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Excel MUI (Portuguese (Portugal)) 2010                         14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Excel 2010 (KB2956084) 32-Bit Edition                                     Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office PowerPoint MUI (Portuguese (Portugal)) 2010                    14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Excel 2010 (KB2956084) 32-Bit Edition                                     Microsoft               
+Update for Microsoft PowerPoint 2010 (KB2965234) 32-Bit Edition                                Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Publisher MUI (Portuguese (Portugal)) 2010                     14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Outlook MUI (Portuguese (Portugal)) 2010                       14.0.7015.1000 Microsoft Corporation   
+Security Update for Microsoft Outlook 2010 (KB4011089) 32-Bit Edition                          Microsoft               
+Security Update for Microsoft Word 2010 (KB2965313) 32-Bit Edition                             Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Word MUI (Portuguese (Portugal)) 2010                          14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Excel 2010 (KB2956084) 32-Bit Edition                                     Microsoft               
+Security Update for Microsoft Word 2010 (KB2965313) 32-Bit Edition                             Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Proof (English) 2010                                           14.0.7015.1000 Microsoft Corporation   
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Update for Microsoft Office 2010 (KB3085605) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Microsoft Office Proof (French) 2010                                            14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB3085605) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Proof (Portuguese (Portugal)) 2010                             14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB3085605) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Proof (Spanish) 2010                                           14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Update for Microsoft Office 2010 (KB3085605) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Office 2010 (KB2553313) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft OneNote 2010 (KB3114885) 32-Bit Edition                          Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Filter Pack 2.0 (KB2999508) 32-Bit Edition                                Microsoft               
+Update for Microsoft Office 2010 (KB3054886) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft InfoPath 2010 (KB3114414) 32-Bit Edition                         Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Update for Microsoft Office 2010 (KB2589352) 32-Bit Edition                                    Microsoft               
+Update for Microsoft SharePoint Workspace 2010 (KB2760601) 32-Bit Edition                      Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Proofing (Portuguese (Portugal)) 2010                          14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Microsoft Office Single Image 2010                                              14.0.7015.1000 Microsoft Corporation   
+Security Update for Microsoft Office 2010 (KB2956063) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB2589318) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Office 2010 (KB4011274) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Visio 2010 (KB3114872) 32-Bit Edition                            Microsoft               
+Security Update for Microsoft Office 2010 (KB3114874) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Office 2010 (KB2899590) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB2589375) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Publisher 2010 (KB3141537) 32-Bit Edition                        Microsoft               
+Update for Microsoft PowerPoint 2010 (KB2965234) 32-Bit Edition                                Microsoft               
+Security Update for Microsoft Access 2010 (KB3114416) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Office 2010 (KB3118389) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Office 2010 (KB2881029) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB2791057) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Office 2010 (KB4022137) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Office 2010 (KB2553313) 32-Bit Edition                           Microsoft               
+Update for Microsoft InfoPath 2010 (KB2817369) 32-Bit Edition                                  Microsoft               
+Security Update for Microsoft Office 2010 (KB3213631) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Office 2010 (KB2880971) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft OneNote 2010 (KB3114885) 32-Bit Edition                          Microsoft               
+Security Update for Microsoft Office 2010 (KB2850016) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Office 2010 (KB3054984) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB2553140) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Office 2010 (KB3085528) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB3054873) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Word 2010 (KB4022141) 32-Bit Edition                             Microsoft               
+Update for Microsoft Office 2010 (KB2597087) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Filter Pack 2.0 (KB2999508) 32-Bit Edition                                Microsoft               
+Update for Microsoft Office 2010 (KB2589386) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB3054886) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB2553388) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB3055047) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Office 2010 (KB3101520) 32-Bit Edition                           Microsoft               
+Update for Microsoft Outlook 2010 (KB2760779) 32-Bit Edition                                   Microsoft               
+Security Update for Microsoft Excel 2010 (KB4022146) 32-Bit Edition                            Microsoft               
+Definition Update for Microsoft Office 2010 (KB3115475) 32-Bit Edition                         Microsoft               
+Security Update for Microsoft Office 2010 (KB3191908) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB2883019) 32-Bit Edition                                    Microsoft               
+Security Update for Microsoft Visio Viewer 2010 (KB2999465) 32-Bit Edition                     Microsoft               
+Update for Microsoft Office 2010 (KB2881030) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB2589298) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Security Update for Microsoft Office 2010 (KB4011275) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB3128031) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Outlook Social Connector 2010 (KB2553308) 32-Bit Edition                  Microsoft               
+Update for Microsoft Outlook 2010 (KB4022144) 32-Bit Edition                                   Microsoft               
+Update for Microsoft Office 2010 (KB2589352) 32-Bit Edition                                    Microsoft               
+Microsoft Office Shared MUI (Portuguese (Portugal)) 2010                        14.0.7015.1000 Microsoft Corporation   
+Security Update for Microsoft Office 2010 (KB4011274) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Office 2010 (KB2956076) 32-Bit Edition                           Microsoft               
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Update for Microsoft Office 2010 (KB2553140) 32-Bit Edition                                    Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+Security Update for Microsoft Office 2010 (KB3213626) 32-Bit Edition                           Microsoft               
+Security Update for Microsoft Office 2010 (KB4011610) 32-Bit Edition                           Microsoft               
+Microsoft Office OneNote MUI (Portuguese (Portugal)) 2010                       14.0.7015.1000 Microsoft Corporation   
+Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition                                    Microsoft               
+Update for Microsoft OneNote 2010 (KB3114410) 32-Bit Edition                                   Microsoft               
+Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition                            Microsoft               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo 3                                     08.0001.1126   PRIMAVERA               
+PRIMAVERA PROFESSIONAL - Declaraá‰es Fiscais e Oficiais v9.00                   09.1508.1000   PRIMAVERA               
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161                  9.0.30729.6161 Microsoft Corporation   
+PRIMAVERA Fiscal Reporting v8.00 - Declaraá∆o Mensal de Remuneraá‰es            08.0001.1045   PRIMAVERA               
+SAP Crystal Reports runtime engine for .NET Framework (32-bit)                  13.0.15.1840   SAP                     
+PRIMAVERA Fiscal Reporting v8.00 - Modelo 30P                                   08.0001.1036   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo DGO Emiss∆o D°vida em Mora            08.0001.1033   PRIMAVERA               
+Adobe Refresh Manager                                                           1.8.0          Adobe Systems Incorpo...
+Adobe Acrobat Reader DC - Portuguàs                                             18.011.20040   Adobe Systems Incorpo...
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030                   11.0.61030     Microsoft Corporation   
+PRIMAVERA PROFESSIONAL - Equipamentos e Activos v9.00                           09.1508.1007   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo DGO Execuá∆o Oráamental               08.0001.1039   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00                                                08.0001.1663   PRIMAVERA               
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030                      11.0.61030     Microsoft Corporation   
+PRIMAVERA - Deployment Center Client v1.00                                      01.0005.1232   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo Tribunal de Contas                    08.0001.1063   PRIMAVERA               
+Crystal Report 2008 Runtime SP6                                                 12.6.0.1596    SAP AG                  
+PRIMAVERA Fiscal Reporting v8.00 - Retená‰es na Fonte IRS/IRC e Imposto do Selo 08.0001.1039   PRIMAVERA               
+                                                                                1.1000.1080    PRIMAVERA               
+Altova AltovaXML© 2012 rel. 2 sp1 Community Edition                             2012.02.01     Altova                  
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030                    11.0.61030.0   Microsoft Corporation   
+PRIMAVERA - Windows Services v1.00                                              01.0005.1140   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Conectores de ligaá∆o ERP PRIMAVERA          08.0001.1788   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo IES                                   08.0001.1135   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo DGO Saldo Gerància Anterior           08.0001.1034   PRIMAVERA               
+PRIMAVERA PROFESSIONAL - Plataforma e Administrador v9.00                       09.1508.1015   PRIMAVERA               
+PRIMAVERA Fiscal Reporting v8.00 - Modelo 1074                                  08.0001.1031   PRIMAVERA               
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                     10.0.40219     Microsoft Corporation   
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+Intel(R) Processor Graphics                                                     9.17.10.3517   Intel Corporation       
+Microsoft WSE 2.0 SP3 Runtime                                                   2.0.5050.0     Microsoft Corp.         
+PRIMAVERA PROFESSIONAL - Cloud Connector v9.00                                  9.1508.1000    PRIMAVERA               
+MSXML 4.0 SP2 (KB973688)                                                        4.20.9876.0    Microsoft Corporation   
+Intel(R) Control Center                                                         1.2.1.1010     Intel Corporation       
+PRIMAVERA PROFESSIONAL - Transacá‰es Electr¢nicas v9.00                         09.1508.1042   PRIMAVERA               
+Intel(R) SDK for OpenCL - CPU Only Runtime Package                              2.0.0.37149    Intel Corporation       
+PRIMAVERA PROFESSIONAL - Log°stica e Tesouraria v9.00                           09.1508.1067   PRIMAVERA               
+
+

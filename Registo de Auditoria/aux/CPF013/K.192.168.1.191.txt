@@ -1,0 +1,887 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ktl0031\eac
+ 
+_______________________________________ 
+ 
+07-06-2018 11:40:57 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Nome do AnfitriÆo:                            KTL0031
+Nome do SO:                                   Microsoft Windows 7 Professional 
+VersÆo do SO:                                 6.1.7601 Service Pack 1 Compila‡Æo 7601
+Fabricante de SO:                             Microsoft Corporation
+Configura‡Æo do SO:                           Esta‡Æo de trabalho aut¢noma
+Tipo de compila‡Æo do SO:                     Multiprocessor Free
+Propriet rio registado:                       EAC
+Organiza‡Æo registada:                        
+ID do produto:                                00371-OEM-9045575-03851
+Data de instala‡Æo original:                  18-04-2013, 17:56:10
+Tempo de arranque do sistema:                 05-06-2018, 12:01:38
+Fabricante do sistema:                        System manufacturer
+Modelo do sistema:                            System Product Name
+Tipo de sistema:                              X86-based PC
+Processador(es):                              1 Processadores instalados.
+                                              [01]: x64 Family 6 Model 58 Stepping 9 GenuineIntel ~2697 Mhz
+VersÆo do BIOS:                               American Megatrends Inc. 0704, 18-10-2012
+Direct¢rio do Windows:                        C:\Windows
+Direct¢rio do sistema:                        C:\Windows\system32
+Dispositivo de arranque:                      \Device\HarddiskVolume1
+RegiÆo do sistema:                            pt;Portuguˆs (Portugal)
+Idioma de teclado:                            pt;Portuguˆs (Portugal)
+Fuso hor rio:                                 (UTC) Dublin, Edimburgo, Lisboa, Londres
+Mem¢ria f¡sica total:                         3.280 MB
+Mem¢ria f¡sica dispon¡vel:                    1.713 MB
+Mem¢ria Virtual: Tamanho M ximo:              6.559 MB
+Mem¢ria Virtual: Dispon¡vel:                  5.080 MB
+Mem¢ria Virtual: Em Utiliza‡Æo:               1.479 MB
+Localiza‡Æo(äes) de ficheiro(s) de pagina‡Æo: C:\pagefile.sys
+Dom¡nio:                                      WORKGROUP
+Servidor de in¡cio de sessÆo:                 \\KTL0031
+Correc‡äes urgentes:                          N/D
+Placas de rede:                               1 NIC(s) Instalados.
+                                              [01]: Realtek PCIe GBE Family Controller
+                                                    Nome da liga‡Æo: Liga‡Æo de µrea Local
+                                                    DHCP Activado:   NÆo
+                                                    Endere‡os de IP
+                                                    [01]: 192.168.1.191
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=0704
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Configura‡Æo IP do Windows
+
+   Nome do AnfitriÆo. . . . . . . . .: KTL0031
+   Sufixo DNS principal. . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . : Misto
+   Rota IP activada. . . . . . . . . : NÆo
+   WINS Proxy activado . . . . . . . : NÆo
+
+Adaptador ethernet Liga‡Æo de µrea Local:
+
+   Sufixo DNS espec¡fico da liga‡Æo. : 
+   Descri‡Æo . . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Endere‡o f¡sico . . . . . . . . . : 50-46-5D-A3-A0-1B
+   DHCP activado . . . . . . . . . . : NÆo
+   Autoconfigura‡Æo activada . . . . : Sim
+   Endere‡o IPv4 . . . . . . . . . . . . . . : 192.168.1.191(Preferido) 
+   M scara de sub-rede . . . . . . . : 255.255.255.0
+   Gateway predefinido . . . . . . . : 192.168.1.250
+   Servidores DNS. . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS por Tcpip . . . . . . . . . . . . : Activado
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=157171298304
+Size=249952202752
+
+
+Caption=D:
+DriveType=5
+FreeSpace=
+Size=
+
+
+Caption=Y:
+DriveType=4
+FreeSpace=6730374471680
+Size=7929882996736
+
+
+Caption=Z:
+DriveType=4
+FreeSpace=6730374471680
+Size=7929882996736
+
+
+ 
+
+
+Caption=ST250DM001 HD253GJ ATA Device
+DeviceID=\\.\PHYSICALDRIVE0
+Model=ST250DM001 HD253GJ ATA Device
+Partitions=2
+Size=250056737280
+
+
+ 
+
+
+Caption=ST250DM001 HD253GJ ATA Device
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=ASUSTeK COMPUTER INC.
+Product=P8H61-M LX R2.0
+SerialNumber=121003125103136
+Version=Rev X.0x
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Pentium(R) CPU G2020 @ 2.90GHz
+
+
+ 
+
+
+MaxClockSpeed=2900
+Name=Intel(R) Pentium(R) CPU G2020 @ 2.90GHz
+NumberOfCores=2
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Informa‡äes do utilizador
+----------------
+
+Nome de utilizador SID                                          
+================== =============================================
+ktl0031\eac        S-1-5-21-363707712-2876425606-1629428375-1001
+
+
+Informa‡äes sobre grupos
+-----------------
+
+Nome do grupo                                Tipo                SID          Atributos                                                   
+============================================ =================== ============ ============================================================
+Todos                                        Grupo bem conhecido S-1-1-0      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+BUILTIN\Utilizadores                         Alias               S-1-5-32-545 Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\INTERACTIVE                     Grupo bem conhecido S-1-5-4      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+INÖCIO DE SESSÇO NA CONSOLA                  Grupo bem conhecido S-1-2-1      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Utilizadores Autenticados       Grupo bem conhecido S-1-5-11     Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Esta organiza‡Æo                Grupo bem conhecido S-1-5-15     Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+LOCAL                                        Grupo bem conhecido S-1-2-0      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Autentica‡Æo NTLM               Grupo bem conhecido S-1-5-64-10  Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+Etiqueta Obrigat¢ria\N¡vel Obrigat¢rio M‚dio Etiqueta            S-1-16-8192  Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+
+
+Informa‡äes sobre os privil‚gios
+----------------------
+
+Nome do privil‚gio            Descri‡Æo                                     Estado     
+============================= ============================================= ===========
+SeLockMemoryPrivilege         Bloquear p ginas na mem¢ria                   Desactivado
+SeShutdownPrivilege           Encerrar o sistema                            Desactivado
+SeChangeNotifyPrivilege       Ignorar verifica‡Æo transversal               Activada   
+SeUndockPrivilege             Remover computador da esta‡Æo de ancoragem    Desactivado
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Desactivado
+SeTimeZonePrivilege           Alterar o fuso hor rio                        Desactivado
+ 
+
+C:\Users\EAC\Desktop\AUDITORIA>net user eac  
+Nome do utilizador                            EAC
+Nome completo                                 
+Coment rio                                    
+Coment rio do utilizador                      
+C¢digo de pa¡s                                000 (Predefini‡Æo do sistema)
+Conta activa                                  Sim
+Conta expira                                  Nunca
+
+éltima defini‡Æo da palavra-passe             20-08-2013 14:24:49
+A palavra-passe expira                        Nunca
+Palavra-passe alter vel                       20-08-2013 14:24:49
+Palavra-passe necess ria                      NÆo
+O utilizador pode alterar a palavra-passe     Sim
+
+Esta‡äes de trabalho permitidas               Todos
+ de in¡cio de sessÆo                    
+Perfil de utilizador                          
+Direct¢rio de raiz                            
+éltimo in¡cio de sessÆo                       05-06-2018 12:44:01
+
+Horas em sessÆo permitidas                    Todos
+
+Associa‡äes a Grupos Locais                   *Utilizadores         
+Associa‡äes a Grupos globais                  *None                 
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+
+Aliases para \\KTL0031
+
+-------------------------------------------------------------------------------
+*Administradores
+*Convidados
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores Criptogr ficos
+*Operadores de configura‡Æo de rede
+*Operadores de c¢pia de seguran‡a
+*Replicador
+*Utilizadores
+*Utilizadores avan‡ados
+*Utilizadores COM Distribu¡dos
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+O comando foi conclu¡do com ˆxito.
+
+ 
+Nome de alias     Administradores
+Coment rio        Os administradores tˆm acesso completo e sem restri‡äes ao computador/dom¡nio
+
+Membros
+
+-------------------------------------------------------------------------------
+Administrador
+USER
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+AccountType=512
+Caption=KTL0031\Administrador
+Deion=Conta incorporada para a administra‡Æo do computador/dom¡nio
+Disabled=TRUE
+Domain=KTL0031
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-363707712-2876425606-1629428375-500
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0031\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/dom¡nio
+Disabled=FALSE
+Domain=KTL0031
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-363707712-2876425606-1629428375-501
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0031\EAC
+Deion=
+Disabled=FALSE
+Domain=KTL0031
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=EAC
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-363707712-2876425606-1629428375-1001
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0031\USER
+Deion=
+Disabled=FALSE
+Domain=KTL0031
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=USER
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-363707712-2876425606-1629428375-1000
+SIDType=1
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+InstallDate=20170601
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.13.00
+
+
+InstallDate=20130416
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20150806
+Name=Google Chrome
+RegCompany=
+RegOwner=
+Vendor=Google, Inc.
+Version=66.0.3359.181
+
+
+InstallDate=20140908
+Name=Brother P-touch Editor 5.0
+RegCompany=
+RegOwner=
+Vendor=Brother Industries, Ltd.
+Version=5.0.110
+
+
+InstallDate=20140919
+Name=Platform
+RegCompany=
+RegOwner=
+Vendor=VIA Technologies, Inc.
+Version=1.42
+
+
+InstallDate=20140919
+Name=Microsoft .NET Framework 4 Client Profile
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.0.30319
+
+
+InstallDate=20180228
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=EAC
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20171128
+Name=Extended Asian Language font pack for Adobe Acrobat Reader DC
+RegCompany=
+RegOwner=EAC
+Vendor=Adobe Systems Incorporated
+Version=15.007.20033
+
+
+InstallDate=20180516
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=EAC
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20131030
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20140908
+Name=Brother P-touch Software User's Guide
+RegCompany=
+RegOwner=
+Vendor=Brother Industries, Ltd.
+Version=1.00.0000
+
+
+InstallDate=20180408
+Name=NativeDesktopMediaService
+RegCompany=
+RegOwner=
+Vendor=Jetmedia
+Version=2.1.17
+
+
+InstallDate=20180517
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20130430
+Name=MCOSMOS v3.5.Release
+RegCompany=
+RegOwner=EAC
+Vendor=Nome da empresa:
+Version=3.52.0112
+
+
+InstallDate=20140210
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61001
+
+
+InstallDate=20180116
+Name=LibreOffice 5.4.4.2
+RegCompany=
+RegOwner=EAC
+Vendor=The Document Foundation
+Version=5.4.4.2
+
+
+InstallDate=20150825
+Name=Microsoft Security Client
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.8.0204.0
+
+
+InstallDate=20130416
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.24.388.1
+
+
+InstallDate=20140919
+Name=Microsoft .NET Framework 4 Extended
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.0.30319
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Partilha     Recurso                         Coment rio
+
+-------------------------------------------------------------------------------
+print$       C:\Windows\system32\spool\drivers
+                                             Controladores de impressora       
+C$           C:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+ADMIN$       C:\Windows                      Admin remoto                      
+RELATàRIOS CONTROLO_bcop
+             C:\Users\EAC\Desktop\RELATàRIOS CONTROLO_bcop
+                                             
+Users        C:\Users                        
+Brother PT-9700PC
+             USB001                 Spooled  Brother PT-9700PC                 
+Kyocera PEDROS
+             192.168.1.17_1         Spooled  Kyocera PEDROS                    
+O comando foi conclu¡do com ˆxito.
+
+
+
+InstallDate=20170601
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.13.00
+
+
+InstallDate=20130416
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20150806
+Name=Google Chrome
+RegCompany=
+RegOwner=
+Vendor=Google, Inc.
+Version=66.0.3359.181
+
+
+InstallDate=20140908
+Name=Brother P-touch Editor 5.0
+RegCompany=
+RegOwner=
+Vendor=Brother Industries, Ltd.
+Version=5.0.110
+
+
+InstallDate=20140919
+Name=Platform
+RegCompany=
+RegOwner=
+Vendor=VIA Technologies, Inc.
+Version=1.42
+
+
+InstallDate=20140919
+Name=Microsoft .NET Framework 4 Client Profile
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.0.30319
+
+
+InstallDate=20180228
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=EAC
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20171128
+Name=Extended Asian Language font pack for Adobe Acrobat Reader DC
+RegCompany=
+RegOwner=EAC
+Vendor=Adobe Systems Incorporated
+Version=15.007.20033
+
+
+InstallDate=20180516
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=EAC
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20131030
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20140908
+Name=Brother P-touch Software User's Guide
+RegCompany=
+RegOwner=
+Vendor=Brother Industries, Ltd.
+Version=1.00.0000
+
+
+InstallDate=20180408
+Name=NativeDesktopMediaService
+RegCompany=
+RegOwner=
+Vendor=Jetmedia
+Version=2.1.17
+
+
+InstallDate=20180517
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20130430
+Name=MCOSMOS v3.5.Release
+RegCompany=
+RegOwner=EAC
+Vendor=Nome da empresa:
+Version=3.52.0112
+
+
+InstallDate=20140210
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61001
+
+
+InstallDate=20180116
+Name=LibreOffice 5.4.4.2
+RegCompany=
+RegOwner=EAC
+Vendor=The Document Foundation
+Version=5.4.4.2
+
+
+InstallDate=20150825
+Name=Microsoft Security Client
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.8.0204.0
+
+
+InstallDate=20130416
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.24.388.1
+
+
+InstallDate=20140919
+Name=Microsoft .NET Framework 4 Extended
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.0.30319
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Credenciais armazenadas actualmente:
+
+    Destino: Domain:target=compasso-2
+    Tipo: Palavra-passe de dom¡nio
+    Utilizador: EAC-PC\COMPASSO
+    
+    Destino: Domain:target=NAS-KRISTALTEK
+    Tipo: Palavra-passe de dom¡nio
+    Utilizador: EAC-PC\produto_acabado
+    
+    Destino: Domain:target=SRVDADOS
+    Tipo: Palavra-passe de dom¡nio
+    Utilizador: EAC-PC\davide
+    
+    Destino: Domain:target=nas-ktklaser
+    Tipo: Palavra-passe de dom¡nio
+    Utilizador: EAC-PC\LUIS
+    
+    Destino: Domain:target=srvklaser01
+    Tipo: Palavra-passe de dom¡nio
+    Utilizador: EAC-PC\segin
+    
+ 
+Windows PowerShell
+Copyright (C) 2009 Microsoft Corporation. All rights reserved.
+
+PS C:\Users\EAC> Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* |  Select-Object DisplayNa
+me, DisplayVersion, Publisher, InstallDate
+
+DisplayName                   DisplayVersion                Publisher                     InstallDate
+-----------                   --------------                ---------                     -----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pacote de controladores do... 04/16/2012 1.0.0.2            Mitutoyo
+
+
+
+
+
+
+
+Adobe Flash Player 29 ActiveX 29.0.0.171                    Adobe Systems Incorporated
+Pacote de controladores do... 04/29/2009 300.1000.3001.29   Vimicro
+CANON iMAGE GATEWAY Task f... 1.9.0.9                       Canon Inc.
+Canon MOV Decoder             1.8.0.7                       Canon Inc.
+Canon MOV Encoder             1.6.0.1                       Canon Inc.
+
+Canon Utilities Digital Ph... 3.10.2.0                      Canon Inc.
+Canon Utilities EOS Sample... 1.0.0.204                     Canon Inc.
+Canon Utilities EOS Utility   2.10.2.0                      Canon Inc.
+Canon Utilities EOS Video ... 1.0.0.10                      Canon Inc.
+HiSuite                       1.0                           Huawei Technologies Co.,Ltd
+
+VIA Gestor de Dispositivo ... 1.42                          VIA Technologies, Inc.        20140919
+Brother P-touch Editor 5.0    5.0.110                       Brother Industries, Ltd.      20140908
+Brother P-touch Software U... 1.00.0000                     Brother Industries, Ltd.      20140908
+Microsoft .NET Framework 4... 4.0.30319                     Microsoft Corporation
+Microsoft .NET Framework 4... 4.0.30319                     Microsoft Corporation
+Microsoft Security Essentials 4.8.204.0                     Microsoft Corporation         20150825
+Canon MovieEdit Task for Z... 3.7.0.4                       Canon Inc.
+Canon Utilities Movie Uplo... 1.2.0.7                       Canon Inc.
+MTM_Diag
+CANON iMAGE GATEWAY MyCame... 3.1.1.2                       Canon Inc.
+novaPDF Lite Desktop 7.7 p... 7.7.393                       Softland                      20140925
+Canon Utilities PhotoStitch   3.1.22.46                     Canon Inc.
+Canon Utilities Picture St... 1.9.0.0                       Canon Inc.
+Plugable Digital Microscop... 2014-06                       Plugable Technologies
+USB Network Gate 6.2 (Buil...                               ELTIMA Software               20150220
+
+Canon Utilities ZoomBrowse... 6.7.0.24                      Canon Inc.
+Canon ZoomBrowser EX Memor... 1.5.0.9                       Canon Inc.
+WibuKey Setup (WibuKey Rem... Version 6.00a of 2009-Dec-... WIBU-SYSTEMS AG               30.04.2013
+Microsoft .NET Framework 4... 4.0.30319                     Microsoft Corporation         20140919
+TrimSystem                                                  Software Publisher            20140318
+BocaRunner                                                  Software Publisher            20140318
+SegmentSystem                                               Software Publisher            20140212
+SeekerFunc                                                  Software Publisher            20140318
+Intel® Trusted Connect Ser... 1.24.388.1                    Intel Corporation             20130416
+
+Platform                      1.42                          VIA Technologies, Inc.        20140919
+
+
+GetDiscountApp                                              GetDiscountApp                20140222
+Microsoft .NET Framework 4... 4.0.30319                     Microsoft Corporation         20140919
+
+
+ASUS Product Register Program 1.0.014                       ASUS                          20130416
+
+Segin.Sybus.COM               17.13.00                      Segin                         20170601
+LibreOffice 5.4.4.2           5.4.4.2                       The Document Foundation       20180116
+Google Update Helper          1.3.33.17                     Google Inc.                   20180517
+
+Intel(R) Management Engine... 8.1.0.1252                    Intel Corporation
+
+Microsoft Security Client     4.8.0204.0                    Microsoft Corporation         20150825
+Microsoft Visual C++ 2005 ... 8.0.61001                     Microsoft Corporation         20140210
+
+
+
+Realtek Ethernet Controlle... 7.52.203.2012                 Realtek                       20130416
+Microsoft Visual C++ 2008 ... 9.0.30729.6161                Microsoft Corporation         20131030
+
+
+Adobe Refresh Manager         1.8.0                         Adobe Systems Incorporated    20180228
+Adobe Acrobat Reader DC - ... 18.011.20040                  Adobe Systems Incorporated    20180516
+Extended Asian Language fo... 15.007.20033                  Adobe Systems Incorporated    20171128
+MCOSMOS v3.5.Release          3.52.0112                     Nome da empresa:              20130430
+
+Google Chrome                 66.0.3359.181                 Google, Inc.                  20150806
+
+
+
+Brother P-touch Editor 5.0    5.0.110                       Brother Industries, Ltd.      20140908
+DNS Unlocker version 1.4      1.4                           www.dnsunlocker.com           20150815
+Microsoft Visual C++ 2010 ... 10.0.40219                    Microsoft Corporation         20130416
+
+
+
+
+
+
+
+Intel(R) Processor Graphics   9.17.10.2828                  Intel Corporation
+Realtek High Definition Au... 6.0.1.6657                    Realtek Semiconductor Corp.   20130416
+NativeDesktopMediaService     2.1.17                        Jetmedia                      20180408
+Intel(R) SDK for OpenCL - ... 2.0.0.37149                   Intel Corporation
+Brother P-touch Software U... 1.00.0000                     Brother Industries, Ltd.      20140908
+
+
+
+PS C:\Users\EAC>

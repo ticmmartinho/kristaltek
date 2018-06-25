@@ -1,0 +1,767 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+OFICINA11\ADMIN
+ 
+_______________________________________ 
+ 
+01-06-2018 12:09:29 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Nome do sistema anfitri∆o:              OFICINA11
+Nome do SO:                             Microsoft Windows XP Professional
+Vers∆o do SO:                           5.1.2600 Service Pack 3 Compilaá∆o 2600
+Fabricante de SO:                       Microsoft Corporation
+Configuraá∆o do SO:                     Estaá∆o de trabalho aut¢noma
+Tipo de compilaá∆o do SO:               Multiprocessor Free
+Propriet†rio registado:                 KRISTALTEK
+Organizaá∆o registada:                  KRISTALTEK
+ID do produto:                          76452-OEM-0027615-65081
+Data de instalaá∆o original:            11-07-2013, 16:32:26
+Tempo de actividade do sistema:         59 dias, 4 horas, 11 minutos, 14 segundos
+Fabricante do sistema:                  System manufacturer
+Modelo do sistema:                      System Product Name
+Tipo de sistema:                        X86-based PC
+Processador(es):                        1 Processadores instalados.
+                                        [01]: x86 Family 6 Model 15 Stepping 13 GenuineIntel ~2199 Mhz
+Vers∆o do BIOS:                         _ASUS_ - 7000816
+Direct¢rio do Windows:                  C:\WINDOWS
+Direct¢rio do sistema:                  C:\WINDOWS\system32
+Dispositivo de arranque:                \Device\HarddiskVolume1
+Local do sistema:                       pt;Portuguàs (Portugal)
+Idioma:                                 pt;Portuguàs (Portugal)
+Fuso hor†rio:                           N/D
+Mem¢ria f°sica total:                   3.062 MB
+Mem¢ria f°sica dispon°vel:              1.235 MB
+Mem¢ria virtual: Tamanho m†ximo:        2.048 MB
+Mem¢ria virtual: Dispon°vel:            2.008 MB
+Mem¢ria virtual: Em utilizaá∆o:         40 MB
+Localizaá‰es do ficheiros de paginaá∆o: C:\pagefile.sys
+Dom°nio:                                GRUPO_TRABALHO
+Servidor de in°cio de sess∆o:           \\OFICINA11
+Correcá‰es urgentes:                    338 Correcá‰es urgentes instaladas.
+                                        [01]: File 1
+                                        [02]: File 1
+                                        [03]: File 1
+                                        [04]: File 1
+                                        [05]: File 1
+                                        [06]: File 1
+                                        [07]: File 1
+                                        [08]: File 1
+                                        [09]: File 1
+                                        [10]: File 1
+                                        [11]: File 1
+                                        [12]: File 1
+                                        [13]: File 1
+                                        [14]: File 1
+                                        [15]: File 1
+                                        [16]: File 1
+                                        [17]: File 1
+                                        [18]: File 1
+                                        [19]: File 1
+                                        [20]: File 1
+                                        [21]: File 1
+                                        [22]: File 1
+                                        [23]: File 1
+                                        [24]: File 1
+                                        [25]: File 1
+                                        [26]: File 1
+                                        [27]: File 1
+                                        [28]: File 1
+                                        [29]: File 1
+                                        [30]: File 1
+                                        [31]: File 1
+                                        [32]: File 1
+                                        [33]: File 1
+                                        [34]: File 1
+                                        [35]: File 1
+                                        [36]: File 1
+                                        [37]: File 1
+                                        [38]: File 1
+                                        [39]: File 1
+                                        [40]: File 1
+                                        [41]: File 1
+                                        [42]: File 1
+                                        [43]: File 1
+                                        [44]: File 1
+                                        [45]: File 1
+                                        [46]: File 1
+                                        [47]: File 1
+                                        [48]: File 1
+                                        [49]: File 1
+                                        [50]: File 1
+                                        [51]: File 1
+                                        [52]: File 1
+                                        [53]: File 1
+                                        [54]: File 1
+                                        [55]: File 1
+                                        [56]: File 1
+                                        [57]: File 1
+                                        [58]: File 1
+                                        [59]: File 1
+                                        [60]: File 1
+                                        [61]: File 1
+                                        [62]: File 1
+                                        [63]: File 1
+                                        [64]: File 1
+                                        [65]: File 1
+                                        [66]: File 1
+                                        [67]: File 1
+                                        [68]: File 1
+                                        [69]: File 1
+                                        [70]: File 1
+                                        [71]: File 1
+                                        [72]: File 1
+                                        [73]: File 1
+                                        [74]: File 1
+                                        [75]: File 1
+                                        [76]: File 1
+                                        [77]: File 1
+                                        [78]: File 1
+                                        [79]: File 1
+                                        [80]: File 1
+                                        [81]: File 1
+                                        [82]: File 1
+                                        [83]: File 1
+                                        [84]: File 1
+                                        [85]: File 1
+                                        [86]: File 1
+                                        [87]: File 1
+                                        [88]: File 1
+                                        [89]: File 1
+                                        [90]: File 1
+                                        [91]: File 1
+                                        [92]: File 1
+                                        [93]: File 1
+                                        [94]: File 1
+                                        [95]: File 1
+                                        [96]: File 1
+                                        [97]: File 1
+                                        [98]: File 1
+                                        [99]: File 1
+                                        [100]: File 1
+                                        [101]: File 1
+                                        [102]: File 1
+                                        [103]: File 1
+                                        [104]: File 1
+                                        [105]: File 1
+                                        [106]: File 1
+                                        [107]: File 1
+                                        [108]: File 1
+                                        [109]: File 1
+                                        [110]: File 1
+                                        [111]: File 1
+                                        [112]: File 1
+                                        [113]: File 1
+                                        [114]: File 1
+                                        [115]: File 1
+                                        [116]: File 1
+                                        [117]: File 1
+                                        [118]: File 1
+                                        [119]: File 1
+                                        [120]: File 1
+                                        [121]: File 1
+                                        [122]: File 1
+                                        [123]: File 1
+                                        [124]: File 1
+                                        [125]: File 1
+                                        [126]: File 1
+                                        [127]: File 1
+                                        [128]: File 1
+                                        [129]: File 1
+                                        [130]: File 1
+                                        [131]: File 1
+                                        [132]: File 1
+                                        [133]: File 1
+                                        [134]: File 1
+                                        [135]: File 1
+                                        [136]: File 1
+                                        [137]: File 1
+                                        [138]: File 1
+                                        [139]: File 1
+                                        [140]: File 1
+                                        [141]: File 1
+                                        [142]: File 1
+                                        [143]: File 1
+                                        [144]: File 1
+                                        [145]: File 1
+                                        [146]: File 1
+                                        [147]: File 1
+                                        [148]: File 1
+                                        [149]: File 1
+                                        [150]: File 1
+                                        [151]: File 1
+                                        [152]: File 1
+                                        [153]: File 1
+                                        [154]: File 1
+                                        [155]: File 1
+                                        [156]: File 1
+                                        [157]: File 1
+                                        [158]: File 1
+                                        [159]: File 1
+                                        [160]: File 1
+                                        [161]: File 1
+                                        [162]: File 1
+                                        [163]: File 1
+                                        [164]: Q147222
+                                        [165]: Q954430
+                                        [166]: Q973688
+                                        [167]: KB2378111_WM9
+                                        [168]: KB2803821-v2_WM9
+                                        [169]: KB2803821_WM9
+                                        [170]: KB952069_WM9
+                                        [171]: KB954155_WM9
+                                        [172]: KB973540_WM9
+                                        [173]: KB975558_WM8
+                                        [174]: KB978695_WM9
+                                        [175]: KB2510531-IE8 - Update
+                                        [176]: KB2598845-IE8 - Update
+                                        [177]: KB2618444-IE8 - Update
+                                        [178]: KB2744842-IE8 - Update
+                                        [179]: KB2846071-IE8 - Update
+                                        [180]: KB2862772-IE8 - Update
+                                        [181]: KB2870699-IE8 - Update
+                                        [182]: KB2879017-IE8 - Update
+                                        [183]: KB2888505-IE8 - Update
+                                        [184]: KB2898785-IE8 - Update
+                                        [185]: KB2909210-IE8 - Update
+                                        [186]: KB2909921-IE8 - Update
+                                        [187]: KB2925418-IE8 - Update
+                                        [188]: KB2936068-IE8 - Update
+                                        [189]: KB2964358-IE8 - Update
+                                        [190]: KB982381-IE8 - Update
+                                        [191]: KB2564958 - Update
+                                        [192]: KB898461 - Update
+                                        [193]: KB2115168 - Update
+                                        [194]: KB2229593 - Update
+                                        [195]: KB2296011 - Update
+                                        [196]: KB2345886 - Update
+                                        [197]: KB2347290 - Update
+                                        [198]: KB2360937 - Update
+                                        [199]: KB2387149 - Update
+                                        [200]: KB2393802 - Update
+                                        [201]: KB2419632 - Update
+                                        [202]: KB2423089 - Update
+                                        [203]: KB2440591 - Update
+                                        [204]: KB2443105 - Update
+                                        [205]: KB2467659 - Update
+                                        [206]: KB2478960 - Update
+                                        [207]: KB2478971 - Update
+                                        [208]: KB2479943 - Update
+                                        [209]: KB2481109 - Update
+                                        [210]: KB2483185 - Update
+                                        [211]: KB2485663 - Update
+                                        [212]: KB2506212 - Update
+                                        [213]: KB2507938 - Update
+                                        [214]: KB2508429 - Update
+                                        [215]: KB2509553 - Update
+                                        [216]: KB2535512 - Update
+                                        [217]: KB2536276-v2 - Update
+                                        [218]: KB2544893-v2 - Update
+                                        [219]: KB2566454 - Update
+                                        [220]: KB2570947 - Update
+                                        [221]: KB2584146 - Update
+                                        [222]: KB2585542 - Update
+                                        [223]: KB2592799 - Update
+                                        [224]: KB2598479 - Update
+                                        [225]: KB2603381 - Update
+                                        [226]: KB2618451 - Update
+                                        [227]: KB2619339 - Update
+                                        [228]: KB2620712 - Update
+                                        [229]: KB2624667 - Update
+                                        [230]: KB2631813 - Update
+                                        [231]: KB2653956 - Update
+                                        [232]: KB2655992 - Update
+                                        [233]: KB2659262 - Update
+                                        [234]: KB2661254-v2 - Update
+                                        [235]: KB2661637 - Update
+                                        [236]: K
+                                                                                
+Placas de rede:                         2 NIC(s) Instalados.
+                                        [01]: Atheros L1 Gigabit Ethernet 10/100/1000Base-T Controller
+                                              Nome da ligaá∆o: Ligaá∆o de †rea local
+                                              DHCP Activado:   N∆o
+                                              Endereáos de IP
+                                              [01]: 192.168.1.59
+                                        [02]: VirtualBox Host-Only Ethernet Adapter
+                                              Nome da ligaá∆o: VirtualBox Host-Only Network
+                                              DHCP Activado:   N∆o
+                                              Endereáos de IP
+                                              [01]: 192.168.56.1
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=0313   
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+ConfiguraÁ„o IP do Windows
+
+
+
+        Nome do sistema anfitri„o. . . . .: oficina11
+
+        Sufixo DNS principal. . . . . . . : 
+
+        Tipo de nÛ. . . . . . . . . . . . : Misto
+
+        Rota IP activado. . . . . . . . . : N„o
+
+        WINS Proxy activado . . . . . . . : N„o
+
+
+
+Adaptador ethernet LigaÁ„o de ·rea local:
+
+
+
+        Sufixo DNS especÌfico da ligaÁ„o. : 
+
+        DescriÁ„o . . . . . . . . . . . . : Atheros L1 Gigabit Ethernet 10/100/1000Base-T Controller
+
+        EndereÁo fÌsico . . . . . . . . . : 00-22-15-A2-DD-D5
+
+        DHCP activado . . . . . . . . . . : N„o
+
+        EndereÁo IP . . . . . . . . . . . : 192.168.1.59
+
+        M·scara de sub-rede . . . . . . . : 255.255.255.0
+
+        Gateway predefinido . . . . . . . : 192.168.1.250
+
+        Servidores DNS. . . . . . . . . . : 8.8.8.8
+
+                                            8.8.4.4
+
+
+
+Adaptador ethernet VirtualBox Host-Only Network:
+
+
+
+        Sufixo DNS especÌfico da ligaÁ„o. : 
+
+        DescriÁ„o . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+
+        EndereÁo fÌsico . . . . . . . . . : 08-00-27-00-30-7A
+
+        DHCP activado . . . . . . . . . . : N„o
+
+        EndereÁo IP . . . . . . . . . . . : 192.168.56.1
+
+        M·scara de sub-rede . . . . . . . : 255.255.255.0
+
+        Gateway predefinido . . . . . . . : 
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=A:
+DriveType=2
+FreeSpace=
+Size=
+
+
+Caption=C:
+DriveType=3
+FreeSpace=131960832
+Size=120023252992
+
+
+Caption=E:
+DriveType=3
+FreeSpace=73160650752
+Size=160031014912
+
+
+Caption=G:
+DriveType=2
+FreeSpace=
+Size=
+
+
+Caption=H:
+DriveType=2
+FreeSpace=
+Size=
+
+
+Caption=I:
+DriveType=2
+FreeSpace=
+Size=
+
+
+ 
+
+
+Caption=KINGSTON SV300S37A120G
+DeviceID=\\.\PHYSICALDRIVE0
+Model=KINGSTON SV300S37A120G
+Partitions=1
+Size=120031511040
+
+
+Caption=MAXTOR STM3160215AS
+DeviceID=\\.\PHYSICALDRIVE1
+Model=MAXTOR STM3160215AS
+Partitions=1
+Size=160039272960
+
+
+Caption=Generic 2.0 Reader    -0 USB Device
+DeviceID=\\.\PHYSICALDRIVE2
+Model=Generic 2.0 Reader    -0 USB Device
+Partitions=
+Size=
+
+
+Caption=Generic 2.0 Reader    -1 USB Device
+DeviceID=\\.\PHYSICALDRIVE3
+Model=Generic 2.0 Reader    -1 USB Device
+Partitions=
+Size=
+
+
+Caption=Generic 2.0 Reader    -2 USB Device
+DeviceID=\\.\PHYSICALDRIVE4
+Model=Generic 2.0 Reader    -2 USB Device
+Partitions=
+Size=
+
+
+ 
+
+
+Caption=KINGSTON SV300S37A120G
+
+
+Caption=MAXTOR STM3160215AS
+
+
+Caption=Generic 2.0 Reader    -0 USB Device
+
+
+Caption=Generic 2.0 Reader    -1 USB Device
+
+
+Caption=Generic 2.0 Reader    -2 USB Device
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=ASUSTeK Computer INC.
+Product=V-P5G31
+SerialNumber=MS1C88B84D03128
+Version=4.01
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Pentium(R) Dual  CPU  E2200  @ 2.20GHz
+
+
+ 
+
+
+MaxClockSpeed=2199
+Name=Intel(R) Pentium(R) Dual  CPU  E2200  @ 2.20GHz
+NumberOfCores=2
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+[User]     = "OFICINA11\ADMIN"  S-1-5-21-117609710-813497703-1801674531-1003
+
+[Group  1] = "OFICINA11\Nenhum"  S-1-5-21-117609710-813497703-1801674531-513
+[Group  2] = "Todos"  S-1-1-0
+[Group  3] = "BUILTIN\Administradores"  S-1-5-32-544
+[Group  4] = "BUILTIN\Utilizadores"  S-1-5-32-545
+[Group  5] = "NT AUTHORITY\INTERACTIVE"  S-1-5-4
+[Group  6] = "NT AUTHORITY\Utilizadores autenticados"  S-1-5-11
+[Group  7] = "LOCAL"  S-1-2-0
+
+
+(X) SeChangeNotifyPrivilege         = Ignorar verificaÁ„o transversal
+(O) SeSecurityPrivilege            = Gerir auditoria e registo de seguranÁa
+(O) SeBackupPrivilege            = Criar cÛpias de seguranÁa para ficheiros e directÛrios
+(O) SeRestorePrivilege            = Restaurar ficheiros e directÛrios
+(O) SeSystemtimePrivilege           = Alterar a hora do sistema
+(O) SeShutdownPrivilege            = Encerrar o sistema
+(O) SeRemoteShutdownPrivilege       = ForÁar o encerramento a partir de um sistema remoto
+(O) SeTakeOwnershipPrivilege        = Tomar posse de ficheiros ou outros objectos
+(O) SeDebugPrivilege            = Depurar programas
+(O) SeSystemEnvironmentPrivilege    = Modificar valores de ambiente para firmware
+(O) SeSystemProfilePrivilege        = TraÁar um perfil do desempenho do sistema
+(O) SeProfileSingleProcessPrivilege = TraÁar um perfil de um processo ˙nico
+(O) SeIncreaseBasePriorityPrivilege = Aumentar a prioridade de agendamento
+(X) SeLoadDriverPrivilege           = Carregar e remover da memÛria controladores de dispositivo
+(O) SeCreatePagefilePrivilege       = Criar um ficheiro de paginaÁ„o
+(O) SeIncreaseQuotaPrivilege        = Ajustar quotas de memÛria para um processo
+(X) SeUndockPrivilege            = Remover computador da estaÁ„o de ancoragem
+(O) SeManageVolumePrivilege         = Realizar tarefas de manutenÁ„o de volume
+(X) SeImpersonatePrivilege          = Personificar um cliente apÛs autenticaÁ„o
+(X) SeCreateGlobalPrivilege         = Criar objectos globais
+ 
+
+C:\Documents and Settings\ADMIN\AUDITORIA>net user ADMIN  
+Nome do utilizador                            ADMIN
+Nome completo                                 
+Coment†rio                                    
+Coment†rio do utilizador                      
+C¢digo de pa°s                                000 (Predefiniá∆o do sistema)
+Conta activa                                  Sim
+Conta expira                                  Nunca
+
+Èltima definiá∆o da palavra-passe             7/12/2013 6:18 PM
+A palavra-passe expira                        Nunca
+Palavra-passe alter†vel                       7/12/2013 6:18 PM
+Necess†ria a palavra-passe                    Sim
+O utilizador pode alterar a palavra-passe     Sim
+
+Estaá‰es de trabalho permitidas               Todos
+ de in°cio de sess∆o                    
+Perfil de utilizador                          
+Direct¢rio raiz                               
+Èltimo in°cio de sess∆o                       6/1/2018 12:06 PM
+
+Horas em sess∆o permitidas                    Todos
+
+Membros de grupos locais                      *Administradores      
+Membros de grupos globais                     *Nenhum               
+O comando foi conclu°do com àxito.
+
+ 
+ 
+
+Aliases para \\OFICINA11
+
+-------------------------------------------------------------------------------
+*Administradores
+*Convidados
+*Grupo de serviáos de ajuda
+*Operadores de configuraá∆o de rede
+*Operadores de c¢pia de seguranáa
+*Replicador
+*Utilizadores
+*Utilizadores avanáados
+*Utilizadores do ambiente de trabalho remoto
+O comando foi conclu°do com àxito.
+
+ 
+Nome de alias     Administradores
+Coment†rio        Os administradores tàm acesso completo e sem restriá‰es ao computador/dom°nio
+
+Membros
+
+-------------------------------------------------------------------------------
+ADMIN
+Administrador
+O comando foi conclu°do com àxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+AccountType=512
+Caption=OFICINA11\ADMIN
+Deion=
+Disabled=FALSE
+Domain=OFICINA11
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=ADMIN
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-117609710-813497703-1801674531-1003
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=OFICINA11\Administrador
+Deion=Conta incorporada para a administraá∆o do computador/dom°nio
+Disabled=FALSE
+Domain=OFICINA11
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-117609710-813497703-1801674531-500
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=OFICINA11\ASPNET
+Deion=Account used for running the ASP.NET worker process (aspnet_wp.exe)
+Disabled=FALSE
+Domain=OFICINA11
+FullName=ASP.NET Machine Account
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=ASPNET
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-117609710-813497703-1801674531-1004
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=OFICINA11\Assistente de ajuda
+Deion=Conta para fornecimento de assistància remota
+Disabled=TRUE
+Domain=OFICINA11
+FullName=Conta de assistente de ajuda do ambiente de trabalho remoto
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Assistente de ajuda
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-117609710-813497703-1801674531-1000
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=OFICINA11\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/dom°nio
+Disabled=TRUE
+Domain=OFICINA11
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-117609710-813497703-1801674531-501
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=OFICINA11\SUPPORT_388945a0
+Deion=Esta Ç a conta de um fabricante para o serviáo de ajuda e suporte
+Disabled=TRUE
+Domain=OFICINA11
+FullName=CN=Microsoft Corporation,L=Redmond,S=Washington,C=US
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=SUPPORT_388945a0
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-117609710-813497703-1801674531-1002
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=OFICINA11\Vera
+Deion=
+Disabled=FALSE
+Domain=OFICINA11
+FullName=Vera
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Vera
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-117609710-813497703-1801674531-1005
+SIDType=1
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Nome da partilha   Recurso                        Coment†rio
+
+-------------------------------------------------------------------------------
+E$           E:\                             Partilha predefinida              
+C$           C:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+print$       C:\WINDOWS\system32\spool\drivers
+                                             Controladores de impressora       
+ADMIN$       C:\WINDOWS                      Admin remoto                      
+Scanner      C:\Scanner                      
+BrotherH     USB001                 Spooled  Brother HL-2030 series            
+O comando foi conclu°do com àxito.
+
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 

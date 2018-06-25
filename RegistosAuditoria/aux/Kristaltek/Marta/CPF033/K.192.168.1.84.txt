@@ -1,0 +1,1280 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ktl0020\user
+ 
+_______________________________________ 
+ 
+04/06/2018 15:10:02 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Host Name:                 KTL0020
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.17134 N/A Build 17134
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00330-50000-00000-AAOEM
+Original Install Date:     22/05/2018, 11:57:18
+System Boot Time:          28/05/2018, 17:15:06
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 3050
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~3408 Mhz
+BIOS Version:              Dell Inc. 1.6.5, 09/09/2017
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             pt;Portuguàs (Portugal)
+Input Locale:              pt;Portuguàs (Portugal)
+Time Zone:                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+Total Physical Memory:     3ˇ980 MB
+Available Physical Memory: 1ˇ183 MB
+Virtual Memory: Max Size:  5ˇ388 MB
+Virtual Memory: Available: 2ˇ208 MB
+Virtual Memory: In Use:    3ˇ180 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\KTL0020
+Hotfix(s):                 2 Hotfix(s) Installed.
+                           [01]: KB4103729
+                           [02]: KB4103721
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Comutador Prede)
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     255.255.255.255
+                                 IP address(es)
+                                 [01]: 172.30.200.49
+                                 [02]: fe80::d567:4c83:7c8:1ced
+                           [02]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.1.84
+                                 [02]: fe80::c073:ad63:66ec:863
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=1.6.5
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : KTL0020
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : 50-9A-4C-36-F8-0D
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c073:ad63:66ec:863%3(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.84(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.250
+   DHCPv6 IAID . . . . . . . . . . . : 38836812
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-21-E6-03-96-50-9A-4C-36-F8-0D
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter vEthernet (Comutador Prede):
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : C6-15-D9-19-3F-2F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d567:4c83:7c8:1ced%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.30.200.49(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 151000413
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-21-E6-03-96-50-9A-4C-36-F8-0D
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=430914871296
+Size=498918748160
+
+
+Caption=D:
+DriveType=5
+FreeSpace=
+Size=
+
+
+Caption=U:
+DriveType=4
+FreeSpace=6732204212224
+Size=7929882996736
+
+
+Caption=V:
+DriveType=4
+FreeSpace=6732204212224
+Size=7929882996736
+
+
+Caption=W:
+DriveType=4
+FreeSpace=6732204212224
+Size=7929882996736
+
+
+Caption=X:
+DriveType=4
+FreeSpace=6732204212224
+Size=7929882996736
+
+
+Caption=Y:
+DriveType=4
+FreeSpace=6732204212224
+Size=7929882996736
+
+
+Caption=Z:
+DriveType=4
+FreeSpace=6732204212224
+Size=7929882996736
+
+
+ 
+
+
+Caption=ST500DM009-2F110A
+DeviceID=\\.\PHYSICALDRIVE0
+Model=ST500DM009-2F110A
+Partitions=3
+Size=500105249280
+
+
+ 
+
+
+Caption=ST500DM009-2F110A
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=Dell Inc.
+Product=0W0CHX
+SerialNumber=/2WKQ3N2/CNWS20079F034L/
+Version=A00
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+
+
+ 
+
+
+MaxClockSpeed=3408
+Name=Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+NumberOfCores=4
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+USER INFORMATION
+----------------
+
+User Name    SID                                           
+============ ==============================================
+ktl0020\user S-1-5-21-1215125664-1483957107-2615506892-1002
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                          Type             SID          Attributes                                        
+=================================================== ================ ============ ==================================================
+Todos                                               Well-known group S-1-1-0      Mandatory group, Enabled by default, Enabled group
+BUILTIN\Utilizadores                                Alias            S-1-5-32-545 Mandatory group, Enabled by default, Enabled group
+BUILTIN\Utilizadores do ambiente de trabalho remoto Alias            S-1-5-32-555 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                            Well-known group S-1-5-4      Mandatory group, Enabled by default, Enabled group
+IN÷CIO DE SESS«O NA CONSOLA                         Well-known group S-1-2-1      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Utilizadores Autenticados              Well-known group S-1-5-11     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Esta organizaá∆o                       Well-known group S-1-5-15     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local                            Well-known group S-1-5-113    Mandatory group, Enabled by default, Enabled group
+LOCAL                                               Well-known group S-1-2-0      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Autenticaá∆o NTLM                      Well-known group S-1-5-64-10  Mandatory group, Enabled by default, Enabled group
+Etiqueta Obrigat¢ria\N°vel Obrigat¢rio MÇdio        Label            S-1-16-8192                                                    
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Deion                                   State   
+============================= ============================================= ========
+SeShutdownPrivilege           Encerrar o sistema                            Disabled
+SeChangeNotifyPrivilege       Ignorar verificaá∆o transversal               Enabled 
+SeUndockPrivilege             Remover computador da estaá∆o de ancoragem    Disabled
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Disabled
+SeTimeZonePrivilege           Alterar o fuso hor†rio                        Disabled
+
+ 
+
+C:\Users\User\Desktop\AUDITORIA>net user user  
+Nome do utilizador                            User
+Nome completo                                 
+Coment†rio                                    
+Coment†rio do utilizador                      
+C¢digo de pa°s/regi∆o                         000 (Predefiniá∆o do sistema)
+Conta ativa                                   Sim
+Conta expira                                  Nunca
+
+Èltima definiá∆o da palavra-passe             04/06/2018 15:10:15
+A palavra-passe expira                        Nunca
+Palavra-passe alter†vel                       04/06/2018 15:10:15
+Palavra-passe necess†ria                      N∆o
+O utilizador pode alterar a palavra-passe     Sim
+
+Estaá‰es de trabalho permitidas               Todos
+ de in°cio de sess∆o                    
+Perfil de utilizador                          
+Diret¢rio de raiz                             
+Èltimo in°cio de sess∆o                       04/06/2018 15:08:57
+
+Hor†rio de in°cio de sess∆o permitido         Todos
+
+Associaá‰es a Grupos Locais                   *Utilizadores         
+                                              *Utilizadores do ambie
+Associaá‰es a Grupos globais                  *Nenhum               
+O comando foi conclu°do com àxito.
+
+ 
+ 
+
+Aliases para \\KTL0020
+
+-------------------------------------------------------------------------------
+*Administradores
+*Administradores de Hyper-V
+*Convidados
+*Grupo de Contas Geridas pelo Sistema
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores Criptogr†ficos
+*Operadores de Assistància de Controlo de Acesso
+*Operadores de configuraá∆o de rede
+*Operadores de c¢pia de seguranáa
+*Replicador
+*Utilizadores
+*Utilizadores avanáados
+*Utilizadores COM Distribu°dos
+*Utilizadores de Gest∆o Remota
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+O comando foi conclu°do com àxito.
+
+ 
+Nome de alias     Administradores
+Coment†rio        Os administradores tàm acesso completo e sem restriá‰es ao computador/dom°nio
+
+Membros
+
+-------------------------------------------------------------------------------
+Admin
+Administrador
+O comando foi conclu°do com àxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+AccountType=512
+Caption=KTL0020\Admin
+Deion=
+Disabled=FALSE
+Domain=KTL0020
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Admin
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-1215125664-1483957107-2615506892-1001
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0020\Administrador
+Deion=Conta incorporada para a administraá∆o do computador/dom°nio
+Disabled=TRUE
+Domain=KTL0020
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-1215125664-1483957107-2615506892-500
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0020\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/dom°nio
+Disabled=TRUE
+Domain=KTL0020
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-1215125664-1483957107-2615506892-501
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0020\DefaultAccount
+Deion=Conta de utilizador gerida pelo sistema.
+Disabled=TRUE
+Domain=KTL0020
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=DefaultAccount
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-1215125664-1483957107-2615506892-503
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0020\User
+Deion=
+Disabled=FALSE
+Domain=KTL0020
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=User
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-1215125664-1483957107-2615506892-1002
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0020\WDAGUtilityAccount
+Deion=Uma conta de utilizador gerida e utilizada pelo sistema para cen†rios do Windows Defender Application Guard.
+Disabled=TRUE
+Domain=KTL0020
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=WDAGUtilityAccount
+PasswordChangeable=TRUE
+PasswordExpires=TRUE
+PasswordRequired=TRUE
+SID=S-1-5-21-1215125664-1483957107-2615506892-504
+SIDType=1
+Status=Degraded
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+InstallDate=20180108
+Name=DSC/AA Factory Installer
+RegCompany=
+RegOwner=
+Vendor=PC-Doctor, Inc.
+Version=2.0.6875.402
+
+
+InstallDate=20180315
+Name=OpenOffice 4.1.5
+RegCompany=
+RegOwner=
+Vendor=Apache Software Foundation
+Version=4.15.9789
+
+
+InstallDate=20180315
+Name=SOLIDWORKS 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.100.5021
+
+
+InstallDate=20180108
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=11.6.0.1047
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180315
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180522
+Name=Maxx Audio Installer (x64)
+RegCompany=
+RegOwner=
+Vendor=Waves Audio Ltd.
+Version=2.7.9177.0
+
+
+InstallDate=20180108
+Name=Realtek Audio COM Components
+RegCompany=
+RegOwner=
+Vendor=Realtek Semiconductor Corp.
+Version=1.0.2
+
+
+InstallDate=20180108
+Name=Dell Digital Delivery
+RegCompany=
+RegOwner=
+Vendor=Dell Products, LP
+Version=3.4.1002.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59193
+
+
+InstallDate=20180321
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20180315
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20180315
+Name=Microsoft Visual Basic for Applications 7.1 (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.00.00
+
+
+InstallDate=20180321
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.51.00
+
+
+InstallDate=20180418
+Name=Java 8 Update 171
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=8.0.1710.11
+
+
+InstallDate=20180108
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.1.1.38
+
+
+InstallDate=20180418
+Name=PDFsam Basic
+RegCompany=
+RegOwner=
+Vendor=Andrea Vacondio
+Version=3.20.4.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180327
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguàs
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20180108
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.44.398.0
+
+
+InstallDate=20180108
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180108
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180108
+Name=Dell SupportAssistAgent
+RegCompany=
+RegOwner=
+Vendor=Dell
+Version=2.0.2.21
+
+
+InstallDate=20180315
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180521
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20180315
+Name=SOLIDWORKS Composer Player 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.00.5021
+
+
+InstallDate=20180315
+Name=SOLIDWORKS Explorer 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.00.5021
+
+
+InstallDate=20180525
+Name=Sentinel System Driver Installer 7.5.1
+RegCompany=
+RegOwner=
+Vendor=SafeNet, Inc.
+Version=7.5.1
+
+
+InstallDate=20180315
+Name=WPTx64
+RegCompany=
+RegOwner=
+Vendor=Microsoft
+Version=8.100.26866
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180108
+Name=Microsoft VC++ redistributables repacked.
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=12.0.0.0
+
+
+InstallDate=20180108
+Name=Dell Command | Update
+RegCompany=
+RegOwner=
+Vendor=Dell Inc.
+Version=2.3.1
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180315
+Name=DraftSight 2018 SP1 x64
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes
+Version=18.1.0044
+
+
+InstallDate=20180108
+Name=Microsoft VC++ redistributables repacked.
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=12.0.0.0
+
+
+InstallDate=20180108
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=15.7.5.1025
+
+
+InstallDate=20180418
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.171.11
+
+
+InstallDate=20180315
+Name=SOLIDWORKS eDrawings 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systämes SolidWorks Corp
+Version=17.0.5048
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Partilha     Recurso                         Coment†rio
+
+-------------------------------------------------------------------------------
+C$           C:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+ADMIN$       C:\WINDOWS                      Admin remoto                      
+Users        C:\Users                        
+O comando foi conclu°do com àxito.
+
+
+
+InstallDate=20180108
+Name=DSC/AA Factory Installer
+RegCompany=
+RegOwner=
+Vendor=PC-Doctor, Inc.
+Version=2.0.6875.402
+
+
+InstallDate=20180315
+Name=OpenOffice 4.1.5
+RegCompany=
+RegOwner=
+Vendor=Apache Software Foundation
+Version=4.15.9789
+
+
+InstallDate=20180315
+Name=SOLIDWORKS 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.100.5021
+
+
+InstallDate=20180108
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=11.6.0.1047
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180315
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180522
+Name=Maxx Audio Installer (x64)
+RegCompany=
+RegOwner=
+Vendor=Waves Audio Ltd.
+Version=2.7.9177.0
+
+
+InstallDate=20180108
+Name=Realtek Audio COM Components
+RegCompany=
+RegOwner=
+Vendor=Realtek Semiconductor Corp.
+Version=1.0.2
+
+
+InstallDate=20180108
+Name=Dell Digital Delivery
+RegCompany=
+RegOwner=
+Vendor=Dell Products, LP
+Version=3.4.1002.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59193
+
+
+InstallDate=20180321
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20180315
+Name=Microsoft Visual Studio 2005 Remote Debugger Light (x64) - ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.52572
+
+
+InstallDate=20180315
+Name=Microsoft Visual Basic for Applications 7.1 (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.00.00
+
+
+InstallDate=20180321
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.51.00
+
+
+InstallDate=20180418
+Name=Java 8 Update 171
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=8.0.1710.11
+
+
+InstallDate=20180108
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.1.1.38
+
+
+InstallDate=20180418
+Name=PDFsam Basic
+RegCompany=
+RegOwner=
+Vendor=Andrea Vacondio
+Version=3.20.4.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180327
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguàs
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20180108
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.44.398.0
+
+
+InstallDate=20180108
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180108
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180108
+Name=Dell SupportAssistAgent
+RegCompany=
+RegOwner=
+Vendor=Dell
+Version=2.0.2.21
+
+
+InstallDate=20180315
+Name=Microsoft Visual Basic for Applications 7.1 (x64) English
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=7.1.0.0
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2005 Redistributable (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.59192
+
+
+InstallDate=20180521
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20180315
+Name=SOLIDWORKS Composer Player 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.00.5021
+
+
+InstallDate=20180315
+Name=SOLIDWORKS Explorer 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes SolidWorks Corp
+Version=25.00.5021
+
+
+InstallDate=20180525
+Name=Sentinel System Driver Installer 7.5.1
+RegCompany=
+RegOwner=
+Vendor=SafeNet, Inc.
+Version=7.5.1
+
+
+InstallDate=20180315
+Name=WPTx64
+RegCompany=
+RegOwner=
+Vendor=Microsoft
+Version=8.100.26866
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180108
+Name=Microsoft VC++ redistributables repacked.
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=12.0.0.0
+
+
+InstallDate=20180108
+Name=Dell Command | Update
+RegCompany=
+RegOwner=
+Vendor=Dell Inc.
+Version=2.3.1
+
+
+InstallDate=20180315
+Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.61030
+
+
+InstallDate=20180315
+Name=DraftSight 2018 SP1 x64
+RegCompany=
+RegOwner=
+Vendor=Dassault Systemes
+Version=18.1.0044
+
+
+InstallDate=20180108
+Name=Microsoft VC++ redistributables repacked.
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=12.0.0.0
+
+
+InstallDate=20180108
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=15.7.5.1025
+
+
+InstallDate=20180418
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.171.11
+
+
+InstallDate=20180315
+Name=SOLIDWORKS eDrawings 2017 SP0
+RegCompany=
+RegOwner=
+Vendor=Dassault Systämes SolidWorks Corp
+Version=17.0.5048
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Domain Extended Credentials
+    User: 02kztqncfoghyacm
+    Saved for this logon only
+    
+    Target: Domain:target=TERMSRV/vm0003
+    Type: Domain Password
+    User: KTL0020\user
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02kztqncfoghyacm
+    Local machine persistence
+    
+    Target: Domain:target=KTL0020
+    Type: Domain Password
+    User: Admin
+    
+    Target: Domain:target=SRVKLASER01
+    Type: Domain Password
+    User: administrador
+    
+    Target: Domain:target=192.168.1.253
+    Type: Domain Password
+    User: diana
+    
+
+ 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+ I N F O R M A C A O   S O F T W A R E   I N S T A L A D O   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+ 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+DisplayName                                                    DisplayVersion Publisher                   InstallDate
+-----------                                                    -------------- ---------                   -----------
+                                                                                                                     
+Google Chrome                                                  66.0.3359.181  Google Inc.                 20180315   
+Maestro version 4.2.0 (32/64 Bit)                                                                         20180525   
+NVIDIA Stereoscopic 3D Driver                                  7.17.12.6514   NVIDIA Corporation                     
+SOLIDWORKS 2017 SP0                                            25.0.0.5021    SolidWorks Corporation                 
+                                                                                                                     
+PDFsam Basic                                                   3.20.4.0       Andrea Vacondio             20180418   
+WPTx64                                                         8.100.26866    Microsoft                   20180315   
+Dell Digital Delivery                                          3.4.1002.0     Dell Products, LP           20180108   
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+Realtek Audio COM Components                                   1.0.2          Realtek Semiconductor Corp. 20180108   
+Java 8 Update 171                                              8.0.1710.11    Oracle Corporation          20180418   
+ES Status Monitor                                              1.01.0014      Brother Industries, ltd.    20180413   
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030   11.0.61030.0   Microsoft Corporation                  
+Java Auto Updater                                              2.8.171.11     Oracle Corporation          20180418   
+Google Update Helper                                           1.3.33.17      Google Inc.                 20180521   
+OpenOffice 4.1.5                                               4.15.9789      Apache Software Foundation  20180315   
+Microsoft VC++ redistributables repacked.                      12.0.0.0       Intel Corporation           20180108   
+Kaspersky Endpoint Security 10 for Windows                     10.2.6.3733    Kaspersky Lab               20180315   
+Microsoft Visual C++ 2005 Redistributable                      8.0.59193      Microsoft Corporation       20180315   
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 9.0.30729.6161 Microsoft Corporation       20180315   
+SAP Crystal Reports runtime engine for .NET Framework (32-bit) 13.0.15.1840   SAP                         20180321   
+Adobe Refresh Manager                                          1.8.0          Adobe Systems Incorporated  20180327   
+Adobe Acrobat Reader DC - PortuguÍs                            18.011.20040   Adobe Systems Incorporated  20180517   
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030  11.0.61030     Microsoft Corporation       20180315   
+Intel(R) Chipset Device Software                               10.1.1.38      Intel(R) Corporation                   
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030     11.0.61030     Microsoft Corporation       20180315   
+Sentinel System Driver Installer 7.5.1                         7.5.1          SafeNet, Inc.               20180525   
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030   11.0.61030.0   Microsoft Corporation                  
+Segin.Sybus.COM                                                17.51.00       Segin                       20180321   
+Dell Command | Update                                          2.3.1          Dell Inc.                   20180108   
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219    10.0.40219     Microsoft Corporation       20180315   
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+Intel(R) Processor Graphics                                    21.20.16.4627  Intel Corporation                      
+Realtek High Definition Audio Driver                           6.0.1.8142     Realtek Semiconductor Corp. 20180108   
+
+
+
+ 

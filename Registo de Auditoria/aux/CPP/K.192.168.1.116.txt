@@ -1,0 +1,1053 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+gon‡alo-tosh\gon‡alo
+ 
+_______________________________________ 
+ 
+07/06/2018 10:57:25 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Host Name:                 GON€ALO-TOSH
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.17134 N/A Build 17134
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00330-80000-00000-AA991
+Original Install Date:     14/05/2018, 11:08:54
+System Boot Time:          22/05/2018, 09:12:23
+System Manufacturer:       TOSHIBA
+System Model:              SATELLITE PRO C850-1F5
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~2400 Mhz
+BIOS Version:              Insyde Corp. 6.80, 01/10/2013
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             pt;Portuguˆs (Portugal)
+Input Locale:              pt;Portuguˆs (Portugal)
+Time Zone:                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+Total Physical Memory:     3.977 MB
+Available Physical Memory: 1.671 MB
+Virtual Memory: Max Size:  5.385 MB
+Virtual Memory: Available: 2.322 MB
+Virtual Memory: In Use:    3.063 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\GON€ALO-TOSH
+Hotfix(s):                 2 Hotfix(s) Installed.
+                           [01]: KB4103729
+                           [02]: KB4103721
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC
+                                 Connection Name: Wi-Fi
+                                 Status:          Media disconnected
+                           [02]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.250
+                                 IP address(es)
+                                 [01]: 192.168.1.116
+                                 [02]: fe80::1d8e:daaa:4327:fb6a
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Liga‡Æo de Rede Bluetooth
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=6.80
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Gon‡alo-TOSH
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : Kristaltek
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : Kristaltek
+   Deion . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : 70-54-D2-50-06-FD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1d8e:daaa:4327:fb6a%12(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.116(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 7 de junho de 2018 10:08:13
+   Lease Expires . . . . . . . . . . : 7 de junho de 2018 11:31:13
+   Default Gateway . . . . . . . . . : 192.168.1.250
+   DHCP Server . . . . . . . . . . . : 192.168.1.250
+   DHCPv6 IAID . . . . . . . . . . . : 208688338
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-8B-17-B8-70-54-D2-50-06-FD
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Liga‡Æo de µrea Local* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 20-16-D8-55-C2-2D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Liga‡Æo de µrea Local* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 20-16-D8-55-C2-2D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : Kristaltek
+   Deion . . . . . . . . . . . : Realtek RTL8723AE Wireless LAN 802.11n PCI-E NIC
+   Physical Address. . . . . . . . . : 20-16-D8-55-C2-2D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Liga‡Æo de Rede Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 20-16-D8-56-1F-25
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=37258317824
+Size=234842710016
+
+
+Caption=D:
+DriveType=5
+FreeSpace=
+Size=
+
+
+Caption=X:
+DriveType=4
+FreeSpace=6730409218048
+Size=7929882996736
+
+
+Caption=Z:
+DriveType=4
+FreeSpace=6730409218048
+Size=7929882996736
+
+
+ 
+
+
+Caption=KINGSTON SV300S37A240G
+DeviceID=\\.\PHYSICALDRIVE0
+Model=KINGSTON SV300S37A240G
+Partitions=4
+Size=240054796800
+
+
+ 
+
+
+Caption=KINGSTON SV300S37A240G
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=Intel
+Product=PLCSF8
+SerialNumber=Type2 - Board Serial Number
+Version=Type2 - Board Version
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz
+
+
+ 
+
+
+MaxClockSpeed=2400
+Name=Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz
+NumberOfCores=2
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+USER INFORMATION
+----------------
+
+User Name            SID                                           
+==================== ==============================================
+gon‡alo-tosh\gon‡alo S-1-5-21-1941628540-1986795150-4144154958-1000
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                                 Type             SID                                                                                                           Attributes                                        
+========================================================== ================ ============================================================================================================= ==================================================
+Etiqueta Obrigat¢ria\N¡vel Obrigat¢rio M‚dio               Label            S-1-16-8192                                                                                                                                                     
+Todos                                                      Well-known group S-1-1-0                                                                                                       Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local e membro do grupo Administradores Well-known group S-1-5-114                                                                                                     Group used for deny only                          
+Gon‡alo-TOSH\HomeUsers                                     Alias            S-1-5-21-1941628540-1986795150-4144154958-1003                                                                Mandatory group, Enabled by default, Enabled group
+BUILTIN\Administradores                                    Alias            S-1-5-32-544                                                                                                  Group used for deny only                          
+BUILTIN\Utilizadores                                       Alias            S-1-5-32-545                                                                                                  Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                                   Well-known group S-1-5-4                                                                                                       Mandatory group, Enabled by default, Enabled group
+INÖCIO DE SESSÇO NA CONSOLA                                Well-known group S-1-2-1                                                                                                       Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Utilizadores Autenticados                     Well-known group S-1-5-11                                                                                                      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Esta organiza‡Æo                              Well-known group S-1-5-15                                                                                                      Mandatory group, Enabled by default, Enabled group
+MicrosoftAccount\goncalo.n.costa@gmail.com                 User             S-1-11-96-3623454863-58364-18864-2661722203-1597581903-3824417987-1278236937-1806409772-1016629919-3480966819 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local                                   Well-known group S-1-5-113                                                                                                     Mandatory group, Enabled by default, Enabled group
+LOCAL                                                      Well-known group S-1-2-0                                                                                                       Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Autentica‡Æo da Conta em Nuvem                Well-known group S-1-5-64-36                                                                                                   Mandatory group, Enabled by default, Enabled group
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Deion                                   State   
+============================= ============================================= ========
+SeShutdownPrivilege           Encerrar o sistema                            Disabled
+SeChangeNotifyPrivilege       Ignorar verifica‡Æo transversal               Enabled 
+SeUndockPrivilege             Remover computador da esta‡Æo de ancoragem    Disabled
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Disabled
+SeTimeZonePrivilege           Alterar o fuso hor rio                        Disabled
+
+ 
+
+C:\Users\Gon‡alo\Desktop\Auditoria>net user gon‡alo  
+Nome do utilizador                            Gon‡alo
+Nome completo                                 Gon‡alo Costa
+Coment rio                                    
+Coment rio do utilizador                      
+C¢digo de pa¡s/regiÆo                         000 (Predefini‡Æo do sistema)
+Conta ativa                                   Sim
+Conta expira                                  Nunca
+
+éltima defini‡Æo da palavra-passe             05/09/2016 17:45:38
+A palavra-passe expira                        Nunca
+Palavra-passe alter vel                       05/09/2016 17:45:38
+Palavra-passe necess ria                      NÆo
+O utilizador pode alterar a palavra-passe     Sim
+
+Esta‡äes de trabalho permitidas               Todos
+ de in¡cio de sessÆo                    
+Perfil de utilizador                          
+Diret¢rio de raiz                             
+éltimo in¡cio de sessÆo                       05/09/2016 17:45:37
+
+Hor rio de in¡cio de sessÆo permitido         Todos
+
+Associa‡äes a Grupos Locais                   *Administradores      
+                                              *HomeUsers            
+Associa‡äes a Grupos globais                  *Nenhum               
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+
+Aliases para \\GON€ALO-TOSH
+
+-------------------------------------------------------------------------------
+*Administradores
+*Administradores de Hyper-V
+*Convidados
+*Grupo de Contas Geridas pelo Sistema
+*HomeUsers
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores Criptogr ficos
+*Operadores de Assistˆncia de Controlo de Acesso
+*Operadores de configura‡Æo de rede
+*Operadores de c¢pia de seguran‡a
+*Replicador
+*Utilizadores
+*Utilizadores avan‡ados
+*Utilizadores COM Distribu¡dos
+*Utilizadores de GestÆo Remota
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+O comando foi conclu¡do com ˆxito.
+
+ 
+Nome de alias     Administradores
+Coment rio        Os administradores tˆm acesso completo e sem restri‡äes ao computador/dom¡nio
+
+Membros
+
+-------------------------------------------------------------------------------
+Administrador
+Gon‡alo
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+InstallDate=20180517
+Name=Microsoft Office OneNote MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Office 32-bit Components 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Shared 32-bit MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Access MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Excel MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office PowerPoint MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Publisher MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Outlook MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Word MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Proofing (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Single Image 2010
+RegCompany=
+RegOwner=Gon‡alo Costa
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Shared MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (English) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (Spanish) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (French) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180521
+Name=TOSHIBA System Driver
+RegCompany=
+RegOwner=
+Vendor=Toshiba Corporation
+Version=1.00.0033
+
+
+InstallDate=20180515
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180521
+Name=TOSHIBA Function Key
+RegCompany=
+RegOwner=
+Vendor=Toshiba Corporation
+Version=1.1.5.6402
+
+
+InstallDate=20180522
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20180515
+Name=Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.50908
+
+
+InstallDate=20180522
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.51.00
+
+
+InstallDate=20180514
+Name=Java 8 Update 171
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=8.0.1710.11
+
+
+InstallDate=20180514
+Name=Xerox PowerENGAGE
+RegCompany=
+RegOwner=
+Vendor=Xerox Inc.
+Version=2.52.0016
+
+
+InstallDate=20180515
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180514
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20180518
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20180521
+Name=TOSHIBA PC Health Monitor
+RegCompany=
+RegOwner=
+Vendor=Toshiba Client Solutions Co., Ltd.
+Version=5.02.02.6400
+
+
+InstallDate=20180514
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20180514
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.171.11
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Partilha     Recurso                         Coment rio
+
+-------------------------------------------------------------------------------
+C$           C:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+ADMIN$       C:\WINDOWS                      Admin remoto                      
+O comando foi conclu¡do com ˆxito.
+
+
+
+InstallDate=20180517
+Name=Microsoft Office OneNote MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Office 32-bit Components 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Shared 32-bit MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Access MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Excel MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office PowerPoint MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Publisher MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Outlook MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Word MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Office Proofing (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Single Image 2010
+RegCompany=
+RegOwner=Gon‡alo Costa
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Shared MUI (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (Portuguese (Portugal)) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (English) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (Spanish) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180517
+Name=Microsoft Office Proof (French) 2010
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.7015.1000
+
+
+InstallDate=20180515
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180521
+Name=TOSHIBA System Driver
+RegCompany=
+RegOwner=
+Vendor=Toshiba Corporation
+Version=1.00.0033
+
+
+InstallDate=20180515
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180521
+Name=TOSHIBA Function Key
+RegCompany=
+RegOwner=
+Vendor=Toshiba Corporation
+Version=1.1.5.6402
+
+
+InstallDate=20180522
+Name=SAP Crystal Reports runtime engine for .NET Framework (32-bit)
+RegCompany=
+RegOwner=
+Vendor=SAP
+Version=13.0.15.1840
+
+
+InstallDate=20180515
+Name=Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.50908
+
+
+InstallDate=20180522
+Name=Segin.Sybus.COM
+RegCompany=
+RegOwner=
+Vendor=Segin
+Version=17.51.00
+
+
+InstallDate=20180514
+Name=Java 8 Update 171
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=8.0.1710.11
+
+
+InstallDate=20180514
+Name=Xerox PowerENGAGE
+RegCompany=
+RegOwner=
+Vendor=Xerox Inc.
+Version=2.52.0016
+
+
+InstallDate=20180515
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180514
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20180518
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20180521
+Name=TOSHIBA PC Health Monitor
+RegCompany=
+RegOwner=
+Vendor=Toshiba Client Solutions Co., Ltd.
+Version=5.02.02.6400
+
+
+InstallDate=20180514
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20180514
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.171.11
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User
+    Type: Domain Extended Credentials
+    User: goncalo.n.costa@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Domain Extended Credentials
+    User: 02tqeyaqbljsqqme
+    Saved for this logon only
+    
+    Target: Domain:target=TERMSRV/OFICINA10
+    Type: Domain Password
+    User: Admin
+    Local machine persistence
+    
+    Target: Domain:target=TERMSRV/SRVKLASER01
+    Type: Domain Password
+    User: KRISTALTEK\Administrador
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Microsoft_PaidConnectivity_WiFi_AccessToken
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=goncalo.n.costa@gmail.com
+    Type: Generic 
+    User: goncalo.n.costa@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Microsoft_PaidWiFi_MicroRefreshToken
+    Type: Generic 
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02tqeyaqbljsqqme
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=OneDrive Cached Credential
+    Type: Generic 
+    User: 1a58a993b541de7c
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MEO Cloud
+    Type: Generic 
+    User: m09q0oskgvb40chbk1_bjg
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=goncalo.n.costa@gmail.com@Box Sync
+    Type: Generic 
+    User: goncalo.n.costa@gmail.com
+    
+    Target: goncalo.n.costa@gmail.com
+    Type: .NET Passport 
+    User: goncalo.n.costa@gmail.com
+    
+    Target: Domain:target=SRVDADOS
+    Type: Domain Password
+    User: GON€ALO-TOSH\admin
+    
+    Target: Domain:target=SRVKLASER01
+    Type: Domain Password
+    User: Administrador
+    
+    Target: Domain:target=nas-kristaltek
+    Type: Domain Password
+    User: goncalo
+    
+    Target: Domain:target=SRVPHC
+    Type: Domain Password
+    User: GON€ALO-TOSH\administrador
+    
+    Target: LegacyGeneric:target=Box Sync
+    Type: Generic 
+    User: goncalo.n.costa@gmail.com
+    
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO DE CREDENCIAIS WEB #############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UserName                     Resource                                         Password   Properties                    
+--------                     --------                                         --------   ----------                    
+costa.goncalo                http://suporte.segin.pt/                                    {[hidden, True], [applicati...
+goncalo.n.costa@gmail.com    https://login.nos.pt/                                       {[hidden, True], [applicati...
+REF192634                    http://midest.portail-exposant.com/              PTPAA4     {[hidden, False], [applicat...
+154265900                    https://siliamb.apambiente.pt/                              {[hidden, True], [applicati...
+goncalo.costa@kristaltek.com https://in.thepricehub.com/                      gCosta123  {[hidden, False], [applicat...
+goncalo                      https://formularios.apambiente.pt/               lHMcO5I>l@ {[hidden, False], [applicat...
+gcosta                       https://www.iaqg.org/                                       {[hidden, True], [applicati...
+ktekvigilancia@sapo.pt       https://login.sapo.pt/                                      {[hidden, True], [applicati...
+goncalo.costa@kristaltek.com https://cad.onshape.com/                                    {[hidden, True], [applicati...
+goncalo.costa                http://suporte.segin.pt/                                    {[hidden, True], [applicati...
+goncalo.costa@kristaltek.com https://esupplier.te.com/                        508652219  {[hidden, False], [applicat...
+goncalo.costa@kristaltek.com http://btid.iddportugal.pt/                                 {[hidden, True], [applicati...
+508652219                    https://siliamb.apambiente.pt/                              {[hidden, True], [applicati...
+212552155                    https://www.acesso.gov.pt/                                  {[hidden, True], [applicati...
+goncalo.costa@kristaltek.com https://login.live.com/                                     {[hidden, True], [applicati...
+goncalo.costa@kristaltek.com https://www.easyjet.com/                                    {[hidden, True], [applicati...
+b006713                      https://e-balcao.ccdr-n.pt/                      CtDDq3tm   {[hidden, False], [applicat...
+goncalo.costa@kristaltek.com https://prosiae.mybadgeonline.com/               2187gncc   {[hidden, False], [applicat...
+publico                      http://192.168.1.71/                                        {[hidden, True], [applicati...
+goncalo.costa@kristaltek.com https://www.b2b-2go.com/                         WbSlnR3m   {[hidden, False], [applicat...
+goncalo.costa@kristaltek.com https://www.te.com/                                         {[hidden, True], [applicati...
+508652219                    http://sigre.igamaot.gov.pt/                     3C@a9c5x4D {[hidden, False], [applicat...
+regoper                      http://srvklaser01/                              regoper    {[hidden, False], [applicat...
+goncalo.n.costa@gmail.com    https://remoteaccess.tappin.com/                            {[hidden, True], [applicati...
+goncalo.costa@gmail.com      http://mc.hellopro.fr/                           f0bpzn     {[hidden, False], [applicat...
+kristaltek@kristaltek.com    https://eppns3.eur.xerox.com/                               {[hidden, True], [applicati...
+jletienne4                   https://efficioconsulting.smartsourceportal.com/            {[hidden, True], [applicati...
+REF192634                    https://midest.portail-exposant.com/             PTPAA4     {[hidden, False], [applicat...
+goncalo.costa@kristaltek.com https://alpha.thepricehub.com/                   gCosta123  {[hidden, False], [applicat...
+goncalo.costa@kristaltek.com https://login.telecom.pt/                        2187gncc   {[hidden, False], [applicat...
+goncalo.costa@kristaltek.com http://mc.hellopro.fr/                           f0bpzn     {[hidden, False], [applicat...
+goncalo.n.costa@gmail.com    https://www.shutterstock.com/                               {[hidden, True], [applicati...
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACAO SOFTWARE INSTALADO ############################################################################
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DisplayName                                                    DisplayVersion Publisher                   InstallDate
+-----------                                                    -------------- ---------                   -----------
+                                                                                                                     
+Google Chrome                                                  67.0.3396.79   Google Inc.                 20180514   
+IDrive Version - 6.0                                           6.0            Pro Softnet Corp            20180514   
+                                                                                                                     
+Web Components                                                 3.0.6.13                                   20180605   
+Xerox PowerENGAGE                                              2.52.0016      Xerox Inc.                  20180514   
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+TOSHIBA System Driver                                          1.00.0033      Toshiba Corporation         20180521   
+Java 8 Update 171                                              8.0.1710.11    Oracle Corporation          20180514   
+IGS Viewer 2.3                                                                IdeaMK                      20180514   
+Java Auto Updater                                              2.8.171.11     Oracle Corporation          20180514   
+Google Update Helper                                           1.3.33.17      Google Inc.                 20180518   
+SAP Crystal Reports runtime engine for .NET Framework (32-bit) 13.0.15.1840   SAP                         20180522   
+Adobe Refresh Manager                                          1.8.0          Adobe Systems Incorporated  20180514   
+Adobe Acrobat Reader DC - Portuguˆs                            18.011.20040   Adobe Systems Incorporated  20180517   
+Segin.Sybus.COM                                                17.51.00       Segin                       20180522   
+STP Viewer 2.3                                                                IdeaMK                      20180514   
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219    10.0.40219     Microsoft Corporation       20180515   
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+Realtek High Definition Audio Driver                           6.0.1.8198     Realtek Semiconductor Corp.            
+
+
