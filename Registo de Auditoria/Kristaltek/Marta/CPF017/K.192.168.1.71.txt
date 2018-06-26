@@ -1,0 +1,1759 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+_______________________________________ 
+ 
+07-06-2018 17:16:31 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Nome do sistema anfitriÆo:              KTL0023
+Nome do SO:                             Microsoft Windows XP Professional
+VersÆo do SO:                           5.1.2600 Service Pack 3 Compila‡Æo 2600
+Fabricante de SO:                       Microsoft Corporation
+Configura‡Æo do SO:                     Esta‡Æo de trabalho aut¢noma
+Tipo de compila‡Æo do SO:               Multiprocessor Free
+Propriet rio registado:                 ADMIN
+Organiza‡Æo registada:                  Kristaltek
+ID do produto:                          55729-074-6161941-22989
+Data de instala‡Æo original:            21-04-2016, 12:10:15
+Tempo de actividade do sistema:         3 dias, 9 horas, 14 minutos, 42 segundos
+Fabricante do sistema:                  To Be Filled By O.E.M.
+Modelo do sistema:                      To Be Filled By O.E.M.
+Tipo de sistema:                        X86-based PC
+Processador(es):                        1 Processadores instalados.
+                                        [01]: x86 Family 15 Model 4 Stepping 10 GenuineIntel ~2991 Mhz
+VersÆo do BIOS:                         A_M_I  - 11000918
+Direct¢rio do Windows:                  C:\WINDOWS
+Direct¢rio do sistema:                  C:\WINDOWS\system32
+Dispositivo de arranque:                \Device\HarddiskVolume1
+Local do sistema:                       pt;Portuguˆs (Portugal)
+Idioma:                                 pt;Portuguˆs (Portugal)
+Fuso hor rio:                           N/D
+Mem¢ria f¡sica total:                   3.583 MB
+Mem¢ria f¡sica dispon¡vel:              2.855 MB
+Mem¢ria virtual: Tamanho m ximo:        2.048 MB
+Mem¢ria virtual: Dispon¡vel:            2.008 MB
+Mem¢ria virtual: Em utiliza‡Æo:         40 MB
+Localiza‡äes do ficheiros de pagina‡Æo: C:\pagefile.sys
+Dom¡nio:                                WORKGROUP
+Servidor de in¡cio de sessÆo:           \\KTL0023
+Correc‡äes urgentes:                    295 Correc‡äes urgentes instaladas.
+                                        [01]: File 1
+                                        [02]: File 1
+                                        [03]: File 1
+                                        [04]: File 1
+                                        [05]: File 1
+                                        [06]: File 1
+                                        [07]: File 1
+                                        [08]: File 1
+                                        [09]: File 1
+                                        [10]: File 1
+                                        [11]: File 1
+                                        [12]: File 1
+                                        [13]: File 1
+                                        [14]: File 1
+                                        [15]: File 1
+                                        [16]: File 1
+                                        [17]: File 1
+                                        [18]: File 1
+                                        [19]: File 1
+                                        [20]: File 1
+                                        [21]: File 1
+                                        [22]: File 1
+                                        [23]: File 1
+                                        [24]: File 1
+                                        [25]: File 1
+                                        [26]: File 1
+                                        [27]: File 1
+                                        [28]: File 1
+                                        [29]: File 1
+                                        [30]: File 1
+                                        [31]: File 1
+                                        [32]: File 1
+                                        [33]: File 1
+                                        [34]: File 1
+                                        [35]: File 1
+                                        [36]: File 1
+                                        [37]: File 1
+                                        [38]: File 1
+                                        [39]: File 1
+                                        [40]: File 1
+                                        [41]: File 1
+                                        [42]: File 1
+                                        [43]: File 1
+                                        [44]: File 1
+                                        [45]: File 1
+                                        [46]: File 1
+                                        [47]: File 1
+                                        [48]: File 1
+                                        [49]: File 1
+                                        [50]: File 1
+                                        [51]: File 1
+                                        [52]: File 1
+                                        [53]: File 1
+                                        [54]: File 1
+                                        [55]: File 1
+                                        [56]: File 1
+                                        [57]: File 1
+                                        [58]: File 1
+                                        [59]: File 1
+                                        [60]: File 1
+                                        [61]: File 1
+                                        [62]: File 1
+                                        [63]: File 1
+                                        [64]: File 1
+                                        [65]: File 1
+                                        [66]: File 1
+                                        [67]: File 1
+                                        [68]: File 1
+                                        [69]: File 1
+                                        [70]: File 1
+                                        [71]: File 1
+                                        [72]: File 1
+                                        [73]: File 1
+                                        [74]: File 1
+                                        [75]: File 1
+                                        [76]: File 1
+                                        [77]: File 1
+                                        [78]: File 1
+                                        [79]: File 1
+                                        [80]: File 1
+                                        [81]: File 1
+                                        [82]: File 1
+                                        [83]: File 1
+                                        [84]: File 1
+                                        [85]: File 1
+                                        [86]: File 1
+                                        [87]: File 1
+                                        [88]: File 1
+                                        [89]: File 1
+                                        [90]: File 1
+                                        [91]: File 1
+                                        [92]: File 1
+                                        [93]: File 1
+                                        [94]: File 1
+                                        [95]: File 1
+                                        [96]: File 1
+                                        [97]: File 1
+                                        [98]: File 1
+                                        [99]: File 1
+                                        [100]: File 1
+                                        [101]: File 1
+                                        [102]: File 1
+                                        [103]: File 1
+                                        [104]: File 1
+                                        [105]: File 1
+                                        [106]: File 1
+                                        [107]: File 1
+                                        [108]: File 1
+                                        [109]: File 1
+                                        [110]: File 1
+                                        [111]: File 1
+                                        [112]: File 1
+                                        [113]: File 1
+                                        [114]: File 1
+                                        [115]: File 1
+                                        [116]: File 1
+                                        [117]: File 1
+                                        [118]: File 1
+                                        [119]: File 1
+                                        [120]: File 1
+                                        [121]: File 1
+                                        [122]: File 1
+                                        [123]: File 1
+                                        [124]: File 1
+                                        [125]: File 1
+                                        [126]: File 1
+                                        [127]: File 1
+                                        [128]: File 1
+                                        [129]: File 1
+                                        [130]: File 1
+                                        [131]: File 1
+                                        [132]: File 1
+                                        [133]: File 1
+                                        [134]: File 1
+                                        [135]: File 1
+                                        [136]: File 1
+                                        [137]: File 1
+                                        [138]: File 1
+                                        [139]: Q147222
+                                        [140]: M2833941 - Update
+                                        [141]: S867460 - Update
+                                        [142]: KB968930 - Update
+                                        [143]: Q954430
+                                        [144]: Q973688
+                                        [145]: IDNMitigationAPIs
+                                        [146]: NLSDownlevelMapping
+                                        [147]: KB929399
+                                        [148]: KB2378111_WM9
+                                        [149]: KB2834904-v2_WM11
+                                        [150]: KB952069_WM9
+                                        [151]: KB954155_WM9
+                                        [152]: KB973540_WM9
+                                        [153]: KB975558_WM8
+                                        [154]: KB978695_WM9
+                                        [155]: KB939683
+                                        [156]: KB954154_WM11
+                                        [157]: KB941569
+                                        [158]: KB2510531-IE8 - Update
+                                        [159]: KB2598845-IE8 - Update
+                                        [160]: KB2632503-IE8 - Update
+                                        [161]: KB2879017-IE7 - Update
+                                        [162]: KB2909921-IE8 - Update
+                                        [163]: KB982381-IE8 - Update
+                                        [164]: KB2564958 - Update
+                                        [165]: KB898461 - Update
+                                        [166]: KB915865 - Update
+                                        [167]: KB2115168 - Update
+                                        [168]: KB2229593 - Update
+                                        [169]: KB2296011 - Update
+                                        [170]: KB2345886 - Update
+                                        [171]: KB2347290 - Update
+                                        [172]: KB2387149 - Update
+                                        [173]: KB2393802 - Update
+                                        [174]: KB2419632 - Update
+                                        [175]: KB2423089 - Update
+                                        [176]: KB2443105 - Update
+                                        [177]: KB2467659 - Update
+                                        [178]: KB2478960 - Update
+                                        [179]: KB2478971 - Update
+                                        [180]: KB2479943 - Update
+                                        [181]: KB2481109 - Update
+                                        [182]: KB2483185 - Update
+                                        [183]: KB2485663 - Update
+                                        [184]: KB2492386 - Update
+                                        [185]: KB2506212 - Update
+                                        [186]: KB2507938 - Update
+                                        [187]: KB2508429 - Update
+                                        [188]: KB2509553 - Update
+                                        [189]: KB2510581 - Update
+                                        [190]: KB2535512 - Update
+                                        [191]: KB2536276-v2 - Update
+                                        [192]: KB2544893-v2 - Update
+                                        [193]: KB2566454 - Update
+                                        [194]: KB2570947 - Update
+                                        [195]: KB2584146 - Update
+                                        [196]: KB2585542 - Update
+                                        [197]: KB2592799 - Update
+                                        [198]: KB2598479 - Update
+                                        [199]: KB2603381 - Update
+                                        [200]: KB2619339 - Update
+                                        [201]: KB2620712 - Update
+                                        [202]: KB2631813 - Update
+                                        [203]: KB2653956 - Update
+                                        [204]: KB2655992 - Update
+                                        [205]: KB2659262 - Update
+                                        [206]: KB2661637 - Update
+                                        [207]: KB2676562 - Update
+                                        [208]: KB2686509 - Update
+                                        [209]: KB2691442 - Update
+                                        [210]: KB2698365 - Update
+                                        [211]: KB2705219-v2 - Update
+                                        [212]: KB2712808 - Update
+                                        [213]: KB2719985 - Update
+                                        [214]: KB2723135-v2 - Update
+                                        [215]: KB2727528 - Update
+                                        [216]: KB2749655 - Update
+                                        [217]: KB2757638 - Update
+                                        [218]: KB2770660 - Update
+                                        [219]: KB2780091 - Update
+                                        [220]: KB2802968 - Update
+                                        [221]: KB2807986 - Update
+                                        [222]: KB2808679 - Update
+                                        [223]: KB2813345 - Update
+                                        [224]: KB2820917 - Update
+                                        [225]: KB2834886 - Update
+                                        [226]: KB2847311 - Update
+                                        [227]: KB2850
+                                                                                
+Placas de rede:                         2 NIC(s) Instalados.
+                                        [01]: Realtek RTL8139/810x Family Fast Ethernet NIC
+                                              Nome da liga‡Æo: Liga‡Æo de  rea local
+                                              DHCP Activado:   NÆo
+                                              Endere‡os de IP
+                                              [01]: 192.168.1.71
+                                        [02]: TP-LINK 150Mbps Wireless N PCI Express Adapter
+                                              Nome da liga‡Æo: Liga‡Æo de rede sem fios
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Configuração IP do Windows
+
+
+
+        Nome do sistema anfitrião. . . . .: KTL0023
+
+        Sufixo DNS principal. . . . . . . : 
+
+        Tipo de nó. . . . . . . . . . . . : Desconhecido
+
+        Rota IP activado. . . . . . . . . : Não
+
+        WINS Proxy activado . . . . . . . : Não
+
+
+
+Adaptador ethernet Ligação de área local:
+
+
+
+        Sufixo DNS específico da ligação. : 
+
+        Descrição . . . . . . . . . . . . : Realtek RTL8139/810x Family Fast Ethernet NIC
+
+        Endereço físico . . . . . . . . . : 00-19-66-2C-18-6C
+
+        DHCP activado . . . . . . . . . . : Não
+
+        Endereço IP . . . . . . . . . . . : 192.168.1.71
+
+        Máscara de sub-rede . . . . . . . : 255.255.255.0
+
+        Gateway predefinido . . . . . . . : 192.168.1.250
+
+        Servidores DNS. . . . . . . . . . : 8.8.8.8
+
+                                            8.8.4.4
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+
+C:\Documents and Settings\Armazem\AUDITORIA>net user   
+
+Contas de utilizador para \\KTL0023
+
+-------------------------------------------------------------------------------
+ADMIN                    Administrador            Armazem                  
+ASPNET                   Assistente de ajuda      Convidado                
+SUPPORT_388945a0         
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+
+Aliases para \\KTL0023
+
+-------------------------------------------------------------------------------
+*Administradores
+*Convidados
+*Grupo de servi‡os de ajuda
+*Operadores de configura‡Æo de rede
+*Operadores de c¢pia de seguran‡a
+*Replicador
+*Utilizadores
+*Utilizadores avan‡ados
+*Utilizadores do ambiente de trabalho remoto
+O comando foi conclu¡do com ˆxito.
+
+ 
+Nome de alias     Administradores
+Coment rio        Os administradores tˆm acesso completo e sem restri‡äes ao computador/dom¡nio
+
+Membros
+
+-------------------------------------------------------------------------------
+ADMIN
+Administrador
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ ------------------
+System Information
+------------------
+Time of this report: 6/7/2018, 17:19:01
+       Machine name: KTL0023
+   Operating System: Windows XP Professional (5.1, Build 2600) Service Pack 3 (2600.xpsp_sp3_qfe.130704-0421)
+           Language: Portuguese (Regional Setting: Portuguese)
+System Manufacturer: To Be Filled By O.E.M.
+       System Model: To Be Filled By O.E.M.
+               BIOS: Default System BIOS
+          Processor: Intel(R) Pentium(R) 4 CPU 3.00GHz (2 CPUs)
+             Memory: 3584MB RAM
+          Page File: 719MB used, 4751MB available
+        Windows Dir: C:\WINDOWS
+    DirectX Version: DirectX 9.0c (4.09.0000.0904)
+DX Setup Parameters: Not found
+     DxDiag Version: 5.03.2600.5512 32bit Unicode
+
+------------
+DxDiag Notes
+------------
+  DirectX Files Tab: No problems found.
+      Display Tab 1: The file nv4_disp.dll is not digitally signed, which means that it has not been tested by Microsoft's Windows Hardware Quality Labs (WHQL).  You may be able to get a WHQL logo'd driver from the hardware manufacturer.
+        Sound Tab 1: No problems found.
+          Music Tab: No problems found.
+          Input Tab: No problems found.
+        Network Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (n/a)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (n/a)
+DirectMusic: 0/5 (n/a)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
+
+---------------
+Display Devices
+---------------
+        Card name: NVIDIA GeForce GT 610
+     Manufacturer: NVIDIA
+        Chip type: GeForce GT 610
+         DAC type: Integrated RAMDAC
+       Device Key: Enum\PCI\VEN_10DE&DEV_104A&SUBSYS_84111043&REV_A1
+   Display Memory: 2048.0 MB
+     Current Mode: 1440 x 900 (32 bit) (75Hz)
+          Monitor: SyncMaster 943NW/943NWX/NW1943/NWX1943
+  Monitor Max Res: 1440,900
+      Driver Name: nv4_disp.dll
+   Driver Version: 6.14.0013.6881 (English)
+      DDI Version: 9 (or higher)
+Driver Attributes: Final Retail
+ Driver Date/Size: 7/11/2016 01:25:41, 3433984 bytes
+      WHQL Logo'd: No
+  WHQL Date Stamp: None
+              VDD: n/d
+         Mini VDD: nv4_mini.sys
+    Mini VDD Date: 7/11/2016 01:25:50, 13375672 bytes
+Device Identifier: {D7B71E3E-530A-11CF-1269-1CA400C2CB35}
+        Vendor ID: 0x10DE
+        Device ID: 0x104A
+        SubSys ID: 0x84111043
+      Revision ID: 0x00A1
+      Revision ID: 0x00A1
+      Video Accel: ModeMPEG2_C ModeMPEG2_D 
+ Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+         Registry: OK
+     DDraw Status: Enabled
+       D3D Status: Enabled
+       AGP Status: Enabled
+DDraw Test Result: Not run
+ D3D7 Test Result: Not run
+ D3D8 Test Result: Not run
+ D3D9 Test Result: Not run
+
+-------------
+Sound Devices
+-------------
+            Deion: Realtek HD Audio output
+ Default Sound Playback: Yes
+ Default Voice Playback: Yes
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0888&SUBSYS_18491E01&REV_1000
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RtkHDAud.sys
+         Driver Version: 5.10.0000.5296 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 9/12/2006 19:27:00, 4381184 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Unknown
+              Cap Flags: 0xF5F
+    Min/Max Sample Rate: 8000, 192000
+Static/Strm HW Mix Bufs: 33, 32
+ Static/Strm HW 3D Bufs: 33, 32
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: Yes, Yes
+   I3DL2(tm) Listen/Src: Yes, Yes
+Sensaura(tm) ZoomFX(tm): No
+               Registry: OK
+      Sound Test Result: Not run
+
+---------------------
+Sound Capture Devices
+---------------------
+            Deion: Realtek HD Audio Input
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
+            Driver Name: RtkHDAud.sys
+         Driver Version: 5.10.0000.5296 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 9/12/2006 19:27:00, 4381184 bytes
+              Cap Flags: 0x41
+           Format Flags: 0xFFF
+
+-----------
+DirectMusic
+-----------
+        DLS Path: C:\WINDOWS\SYSTEM32\drivers\GM.DLS
+     DLS Version: 1.00.0016.0002
+    Acceleration: n/a
+           Ports: Microsoft Synthesizer, Software (Not Kernel Mode), Output, DLS, Internal, Default Port
+                  Mapeador MIDI da Microsoft [Emulado], Hardware (Not Kernel Mode), Output, No DLS, Internal
+                  Sintetizador por software GS Wa [Emulado], Hardware (Not Kernel Mode), Output, No DLS, Internal
+        Registry: OK
+     Test Result: Not run
+
+-------------------
+DirectInput Devices
+-------------------
+      Device Name: Rato
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Teclado
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+Poll w/ Interrupt: No
+         Registry: OK
+
+-----------
+USB Devices
+-----------
++ Concentrador raiz USB (usbport)
+| Vendor/Product ID: 0x8086, 0x27CB
+| Matching Device ID: usb\root_hub
+| Service: usbhub
+| Driver: usbhub.sys, 4/14/2008 00:15:38, 59520 bytes
+| Driver: usbd.sys, 8/9/2013 01:55:06, 5376 bytes
+| 
++-+ Dispositivo USB de interface humana
+| | Vendor/Product ID: 0x0C2E, 0x0204
+| | Location: Honeywell Scanning and Mobility Scanner
+| | Matching Device ID: usb\class_03&subclass_01
+| | Service: HidUsb
+| | Driver: hidusb.sys, 4/14/2008 00:15:28, 10368 bytes
+| | Driver: hidclass.sys, 4/14/2008 00:15:28, 36864 bytes
+| | Driver: hidparse.sys, 7/3/2013 03:12:52, 25088 bytes
+| | Driver: hid.dll, 4/14/2008 21:51:36, 20992 bytes
+| | 
+| +-+ Dispositivo de teclado HID
+| | | Vendor/Product ID: 0x0C2E, 0x0204
+| | | Matching Device ID: hid_device_system_keyboard
+| | | Service: kbdhid
+| | | Driver: kbdhid.sys, 4/14/2008 21:13:14, 14720 bytes
+| | | Driver: kbdclass.sys, 4/14/2008 21:13:12, 25344 bytes
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
++ Teclado padrão de 101 ou 102 teclas ou Microsoft Natural PS/2
+| Matching Device ID: *pnp0303
+| Service: i8042prt
+| Driver: i8042prt.sys, 4/14/2008 21:09:50, 53888 bytes
+| Driver: kbdclass.sys, 4/14/2008 21:13:12, 25344 bytes
+| 
++ Controlador do teclado do servidor de terminais
+| Matching Device ID: root\rdp_kbd
+| Upper Filters: kbdclass
+| Service: TermDD
+| Driver: termdd.sys, 4/14/2008 21:40:32, 40840 bytes
+| Driver: kbdclass.sys, 4/14/2008 21:13:12, 25344 bytes
+| 
++ Rato compatível com HID
+| Vendor/Product ID: 0x1A2C, 0x0044
+| Matching Device ID: hid_device_system_mouse
+| Service: mouhid
+| Driver: mouclass.sys, 4/14/2008 21:51:36, 23808 bytes
+| Driver: mouhid.sys, 9/21/2004 13:00:00, 12160 bytes
+| 
++ Controlador de rato do servidor de terminais
+| Matching Device ID: root\rdp_mou
+| Upper Filters: mouclass
+| Service: TermDD
+| Driver: termdd.sys, 4/14/2008 21:40:32, 40840 bytes
+| Driver: mouclass.sys, 4/14/2008 21:51:36, 23808 bytes
+
+----------------------------
+DirectPlay Service Providers
+----------------------------
+DirectPlay8 Modem Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+DirectPlay8 Serial Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+DirectPlay8 IPX Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+DirectPlay8 TCP/IP Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+Internet TCP/IP Connection For DirectPlay - Registry: OK, File: dpwsockx.dll (5.03.2600.5512)
+IPX Connection For DirectPlay - Registry: OK, File: dpwsockx.dll (5.03.2600.5512)
+Modem Connection For DirectPlay - Registry: OK, File: dpmodemx.dll (5.03.2600.5512)
+Serial Connection For DirectPlay - Registry: OK, File: dpmodemx.dll (5.03.2600.5512)
+
+DirectPlay Voice Wizard Tests: Full Duplex: Not run, Half Duplex: Not run, Mic: Not run
+DirectPlay Test Result: Not run
+Registry: OK
+
+-------------------
+DirectPlay Adapters
+-------------------
+DirectPlay8 Serial Service Provider: COM1
+DirectPlay8 TCP/IP Service Provider: Ligação de área local - IPv4 - 
+
+-----------------------
+DirectPlay Voice Codecs
+-----------------------
+Voxware VR12 1.4kbit/s
+Voxware SC06 6.4kbit/s
+Voxware SC03 3.2kbit/s
+MS-PCM 64 kbit/s
+MS-ADPCM 32.8 kbit/s
+Microsoft GSM 6.10 13 kbit/s
+TrueSpeech(TM) 8.6 kbit/s
+
+-------------------------
+DirectPlay Lobbyable Apps
+-------------------------
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+      Drive: C:
+ Free Space: 44.2 GB
+Total Space: 57.2 GB
+File System: NTFS
+      Model: KINGSTON SV300S37A60G
+
+--------------
+System Devices
+--------------
+     Name: Intel(R) 82801G (ICH7 Family) Ultra ATA Storage Controllers - 27DF
+Device ID: PCI\VEN_8086&DEV_27DF&SUBSYS_27DF1849&REV_01\3&11583659&0&F9
+   Driver: C:\WINDOWS\system32\DRIVERS\pciide.sys, 5.01.2600.0000 (Portuguese), 11/20/2001 16:13:50, 3456 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pciidex.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 00:10:30, 24960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\atapi.sys, 5.01.2600.5512 (English), 4/14/2008 00:10:32, 96512 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) SMBus Controller - 27DA
+Device ID: PCI\VEN_8086&DEV_27DA&SUBSYS_27DA1849&REV_01\3&11583659&0&FB
+   Driver: n/a
+
+     Name: Controlador de Barramento UAA da Microsoft para High Definition Audio
+Device ID: PCI\VEN_8086&DEV_27D8&SUBSYS_08881849&REV_01\3&11583659&0&D8
+   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 5.10.0001.5013 (English), 4/13/2008 22:06:06, 144384 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) PCI Express Root Port - 27D2
+Device ID: PCI\VEN_8086&DEV_27D2&SUBSYS_00000000&REV_01\3&11583659&0&E1
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) PCI Express Root Port - 27D0
+Device ID: PCI\VEN_8086&DEV_27D0&SUBSYS_00000000&REV_01\3&11583659&0&E0
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB2 Enhanced Host Controller - 27CC
+Device ID: PCI\VEN_8086&DEV_27CC&SUBSYS_27CC1849&REV_01\3&11583659&0&EF
+   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 5.01.2600.5778 (English), 3/18/2009 12:02:23, 30336 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+   Driver: C:\WINDOWS\system32\hccoin.dll, 5.01.2600.5512 (English), 4/14/2008 21:39:12, 7168 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27CB
+Device ID: PCI\VEN_8086&DEV_27CB&SUBSYS_27CB1849&REV_01\3&11583659&0&EB
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27CA
+Device ID: PCI\VEN_8086&DEV_27CA&SUBSYS_27CA1849&REV_01\3&11583659&0&EA
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27C9
+Device ID: PCI\VEN_8086&DEV_27C9&SUBSYS_27C91849&REV_01\3&11583659&0&E9
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27C8
+Device ID: PCI\VEN_8086&DEV_27C8&SUBSYS_27C81849&REV_01\3&11583659&0&E8
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801GB/GR/GH (ICH7 Family) Serial ATA Storage Controller - 27C0
+Device ID: PCI\VEN_8086&DEV_27C0&SUBSYS_27C01849&REV_01\3&11583659&0&FA
+   Driver: C:\WINDOWS\system32\DRIVERS\pciide.sys, 5.01.2600.0000 (Portuguese), 11/20/2001 16:13:50, 3456 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pciidex.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 00:10:30, 24960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\atapi.sys, 5.01.2600.5512 (English), 4/14/2008 00:10:32, 96512 bytes
+
+     Name: Intel(R) 82801GB/GR (ICH7 Family) LPC Interface Controller - 27B8
+Device ID: PCI\VEN_8086&DEV_27B8&SUBSYS_00000000&REV_01\3&11583659&0&F8
+   Driver: C:\WINDOWS\system32\DRIVERS\isapnp.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:12:42, 37760 bytes
+
+     Name: Intel(R) 945G/GZ/P/PL PCI Express Root Port - 2771
+Device ID: PCI\VEN_8086&DEV_2771&SUBSYS_00000000&REV_02\3&11583659&0&08
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: Intel(R) 945G/GZ/P/PL Processor to I/O Controller - 2770
+Device ID: PCI\VEN_8086&DEV_2770&SUBSYS_00000000&REV_02\3&11583659&0&00
+   Driver: n/a
+
+     Name: Intel(R) 82801 PCI Bridge - 244E
+Device ID: PCI\VEN_8086&DEV_244E&SUBSYS_00000000&REV_E1\3&11583659&0&F0
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: TP-LINK 150Mbps Wireless N PCI Express Adapter
+Device ID: PCI\VEN_168C&DEV_0032&SUBSYS_3118168C&REV_01\4&293AFFCC&0&00E0
+   Driver: C:\WINDOWS\system32\DRIVERS\athw.sys, 10.00.0000.0274 (English), 11/28/2013 16:42:00, 2158848 bytes
+
+     Name: Realtek RTL8139/810x Family Fast Ethernet NIC
+Device ID: PCI\VEN_10EC&DEV_8136&SUBSYS_81361849&REV_01\4&38D2602C&0&00E1
+   Driver: C:\WINDOWS\system32\DRIVERS\Rtenicxp.sys, 5.658.0814.2006 (English), 4/21/2016 12:33:12, 83200 bytes
+
+     Name: NVIDIA GeForce GT 610
+Device ID: PCI\VEN_10DE&DEV_104A&SUBSYS_84111043&REV_A1\4&24AE49A5&0&0008
+   Driver: C:\Programas\NVIDIA Corporation\Drs\dbInstaller.exe, 6.14.0013.6881 (English), 7/11/2016 01:52:51, 336384 bytes
+   Driver: C:\Programas\NVIDIA Corporation\Drs\nvdrsdb.bin, 7/11/2016 01:25:51, 1300424 bytes
+   Driver: C:\Programas\NVIDIA Corporation\CPLInstallerCache\NvCplSetupInt.exe, 1.00.0005.0000 (Portuguese), 3/22/2016 04:44:50, 101046664 bytes
+   Driver: C:\Programas\NVIDIA Corporation\license.txt, 7/11/2016 01:52:59, 26629 bytes
+   Driver: C:\Programas\NVIDIA Corporation\OpenCL\OpenCL.dll, 1.02.0011.0000 (English), 7/11/2016 01:25:41, 186880 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\nv4_mini.sys, 6.14.0013.6881 (English), 7/11/2016 01:25:50, 13375672 bytes
+   Driver: C:\WINDOWS\system32\nv4_disp.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:41, 3433984 bytes
+   Driver: C:\WINDOWS\system32\nvapi.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:51, 3299840 bytes
+   Driver: C:\WINDOWS\system32\nvcompiler.dll, 7/11/2016 01:25:52, 35101184 bytes
+   Driver: C:\WINDOWS\system32\nvcuda.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:50, 17540608 bytes
+   Driver: C:\WINDOWS\system32\nvcuvid.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:51, 2992696 bytes
+   Driver: C:\WINDOWS\system32\nvdata.data, 7/11/2016 01:53:08, 2345364 bytes
+   Driver: C:\WINDOWS\system32\nvinfo.pb, 7/11/2016 01:53:51, 29352 bytes
+   Driver: C:\WINDOWS\system32\nvoglnt.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:53, 17526784 bytes
+   Driver: C:\WINDOWS\system32\nvopencl.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:53, 17943552 bytes
+   Driver: C:\WINDOWS\system32\nvdispco3236881.dll, 2.00.0045.0004 (English), 7/11/2016 01:53:03, 1075256 bytes
+   Driver: C:\WINDOWS\system32\nvdispgenco3236881.dll, 2.00.0021.0002 (English), 7/11/2016 01:53:13, 925752 bytes
+
+     Name: Controlador de Barramento UAA da Microsoft para High Definition Audio
+Device ID: PCI\VEN_10DE&DEV_0E08&SUBSYS_84111043&REV_A1\4&24AE49A5&0&0108
+   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 5.10.0001.5013 (English), 4/13/2008 22:06:06, 144384 bytes
+
+------------------
+DirectX Components
+------------------
+   ddraw.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 279552 bytes
+ ddrawex.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 27136 bytes
+   dxapi.sys: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 10496 bytes
+    d3d8.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 1179648 bytes
+ d3d8thk.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 8192 bytes
+    d3d9.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 1689088 bytes
+   d3dim.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 436224 bytes
+d3dim700.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 824320 bytes
+ d3dramp.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 590336 bytes
+   d3drm.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 350208 bytes
+  d3dxof.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 47616 bytes
+d3dpmesh.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 34816 bytes
+   dplay.dll: 5.00.2134.0001 Portuguese Final Retail 9/21/2004 13:00:00 33040 bytes
+  dplayx.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 229888 bytes
+dpmodemx.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 24064 bytes
+ dpwsock.dll: 5.00.2134.0001 English Final Retail 9/21/2004 13:00:00 42768 bytes
+dpwsockx.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 57856 bytes
+dplaysvr.exe: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:46 29696 bytes
+  dpnsvr.exe: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:46 18432 bytes
+   dpnet.dll: 5.03.2600.6311 English Final Retail 11/2/2012 03:02:35 375296 bytes
+dpnlobby.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:37:12 3072 bytes
+ dpnaddr.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:37:12 3072 bytes
+ dpvoice.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 213504 bytes
+dpvsetup.exe: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:46 83456 bytes
+  dpvvox.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 116736 bytes
+  dpvacm.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 21504 bytes
+dpnhpast.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 35328 bytes
+dpnhupnp.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 60928 bytes
+dpserial.dll: 5.00.2134.0001 Portuguese Final Retail 9/21/2004 13:00:00 54032 bytes
+  dinput.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 166912 bytes
+ dinput8.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 189952 bytes
+   dimap.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 44032 bytes
+diactfrm.dll: 5.01.2600.0000 Portuguese Final Retail 9/21/2004 13:00:00 394752 bytes
+     joy.cpl: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:40:12 69632 bytes
+   gcdef.dll: 5.01.2600.0000 Portuguese Final Retail 9/21/2004 13:00:00 77312 bytes
+     pid.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:51:36 35328 bytes
+  dsound.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 367616 bytes
+dsound3d.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 1293824 bytes
+  dswave.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 19456 bytes
+   dsdmo.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 181248 bytes
+dsdmoprp.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 72192 bytes
+  dmusic.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 104448 bytes
+  dmband.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 28672 bytes
+dmcompos.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 61440 bytes
+   dmime.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 181248 bytes
+dmloader.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 35840 bytes
+ dmstyle.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 105984 bytes
+ dmsynth.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 103424 bytes
+dm.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 82432 bytes
+  system.dll: 1.01.4322.2503 English Final Retail 4/26/2016 09:54:07 1232896 bytes
+   dx7vb.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 619008 bytes
+   dx8vb.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 1227264 bytes
+ dxdiagn.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 2113536 bytes
+   mfc40.dll: 4.01.0000.6151 English Beta Retail 9/18/2010 07:52:55 954368 bytes
+   mfc42.dll: 6.02.8081.0000 English Final Retail 2/8/2011 14:34:10 978944 bytes
+ wsock32.dll: 5.01.2600.5512 Portuguese Final Retail 4/14/2008 21:39:36 25600 bytes
+amstream.dll: 6.05.2600.5512 English Final Retail 4/14/2008 21:39:08 70656 bytes
+ devenum.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 59904 bytes
+  dxmasf.dll: 6.04.0009.1133 Portuguese Final Retail 4/14/2008 21:39:10 499766 bytes
+mciqtz32.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:14 35328 bytes
+ mpg2splt.ax: 6.05.2600.6333 English Final Retail 1/2/2013 07:48:56 148992 bytes
+   msdmo.dll: 6.05.2600.5512 English Final Retail 4/14/2008 21:39:16 14336 bytes
+  encapi.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 20480 bytes
+    qasf.dll: 11.00.5721.5145 English Final Retail 5/8/2008 01:50:07 211456 bytes
+    qcap.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:24 192512 bytes
+     qdv.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:24 279040 bytes
+    qdvd.dll: 6.05.2600.6169 Portuguese Final Retail 11/3/2011 16:28:27 387072 bytes
+   qedit.dll: 6.05.2600.6512 Portuguese Final Retail 2/5/2014 09:55:00 563712 bytes
+qedwipes.dll: 6.05.2600.5512 English Final Retail 4/13/2008 22:51:34 733696 bytes
+  quartz.dll: 6.05.2600.6333 Portuguese Final Retail 1/2/2013 07:48:57 1298944 bytes
+ strmdll.dll: 4.01.0000.3938 Portuguese Final Retail 8/26/2009 09:01:17 247326 bytes
+ iac25_32.ax: 2.00.0005.0053 English Final Retail 4/14/2008 21:40:12 199680 bytes
+  ir41_32.ax: 4.51.0016.0003 English Final Retail 4/14/2008 21:40:12 848384 bytes
+ ir41_qc.dll: 4.30.0062.0002 English Final Retail 4/14/2008 21:39:12 120320 bytes
+ir41_qcx.dll: 4.30.0064.0001 English Final Retail 4/14/2008 21:39:12 338432 bytes
+ ir50_32.dll: 5.2562.0015.0055 English Final Retail 4/14/2008 21:39:12 755200 bytes
+ ir50_qc.dll: 5.00.0063.0048 English Final Retail 4/14/2008 21:39:12 200192 bytes
+ir50_qcx.dll: 5.00.0064.0048 English Final Retail 4/14/2008 21:39:12 183808 bytes
+   ivfsrc.ax: 5.10.0002.0051 English Final Retail 4/14/2008 21:40:12 154624 bytes
+mswebdvd.dll: 6.05.2600.5857 Portuguese Final Retail 8/5/2009 10:00:10 205824 bytes
+      ks.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:46:38 141056 bytes
+  ksproxy.ax: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:40:12 129536 bytes
+  ksuser.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:14 4096 bytes
+  stream.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:15:16 49408 bytes
+mspclock.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:09:52 5376 bytes
+   mspqm.sys: 5.01.2600.5512 Portuguese Final Retail 4/14/2008 00:09:52 4992 bytes
+ mskssrv.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:09:54 7552 bytes
+  swenum.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:51:36 4352 bytes
+mpeg2data.ax: 6.05.2600.5512 English Final Retail 4/14/2008 21:40:12 118272 bytes
+msvidctl.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:18 1435136 bytes
+  vbisurf.ax: 5.03.2600.5512 English Final Retail 4/14/2008 21:40:12 30208 bytes
+   msyuv.dll: 5.03.2600.5908 English Final Retail 11/27/2009 18:12:52 17920 bytes
+wstdecod.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:36 51200 bytes
+
+------------------
+DirectShow Filters
+------------------
+
+DirectShow Filters:
+WMAudio Decoder DMO,0x00800800,1,1,,
+WMAPro over S/PDIF DMO,0x00600800,1,1,,
+WMA Voice Decoder DMO,0x00600800,1,1,,
+Mpeg4s Decoder DMO,0x00800001,1,1,,
+WMV Screen decoder DMO,0x00600800,1,1,,
+WMVideo Decoder DMO,0x00800001,1,1,,
+Mpeg43 Decoder DMO,0x00800001,1,1,,
+Mpeg4 Decoder DMO,0x00800001,1,1,,
+WMT MuxDeMux Filter,0x00200000,0,0,wmm2filt.dll,2.01.4026.0000
+Full Screen Renderer,0x00200000,1,0,quartz.dll,6.05.2600.6333
+DV Muxer,0x00400000,0,0,qdv.dll,6.05.2600.5512
+Color Space Converter,0x00400001,1,1,quartz.dll,6.05.2600.6333
+WM ASF Reader,0x00400000,0,0,qasf.dll,11.00.5721.5145
+Screen Capture filter,0x00200000,0,1,wmpsrcwp.dll,11.00.5721.5145
+AVI Splitter,0x00600000,1,1,quartz.dll,6.05.2600.6333
+WMT AudioAnalyzer,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,6.05.2600.6333
+Indeo® video 5.10 Compression Filter,0x00200000,1,1,ir50_32.dll,5.2562.0015.0055
+Windows Media Audio Decoder,0x00800001,1,1,msadds32.ax,8.00.0000.4487
+AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,6.05.2600.6333
+WMT Format Conversion,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+StreamBufferSink,0x00200000,0,0,sbe.dll,6.05.2600.6076
+WMT Black Frame Generator,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+MJPEG Decompressor,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Indeo® video 5.10 Decompression Filter,0x00640000,1,1,ir50_32.dll,5.2562.0015.0055
+WMT Screen Capture filter,0x00200000,0,1,wmm2filt.dll,2.01.4026.0000
+Microsoft Screen Video Decompressor,0x00800000,1,1,msscds32.ax,8.00.0000.4487
+MPEG-I Stream Splitter,0x00600000,1,2,quartz.dll,6.05.2600.6333
+SAMI (CC) Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+MPEG Layer-3 Decoder,0x00810000,1,1,l3codecx.ax,1.06.0000.0052
+MPEG-2 Splitter,0x005fffff,1,0,mpg2splt.ax,6.05.2600.6333
+ACELP.net Sipro Lab Audio Decoder,0x00800001,1,1,acelpdec.ax,1.04.0000.0000
+Internal  Command Renderer,0x00800001,1,0,quartz.dll,6.05.2600.6333
+MPEG Audio Decoder,0x03680001,1,1,quartz.dll,6.05.2600.6333
+File Source (Netshow URL),0x00400000,0,1,wmpasf.dll,11.00.5721.5145
+WMT Import Filter,0x00200000,0,1,wmm2filt.dll,2.01.4026.0000
+DV Splitter,0x00600000,1,2,qdv.dll,6.05.2600.5512
+Bitmap Generate,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Windows Media Video Decoder,0x00800000,1,1,wmvds32.ax,8.00.0000.4487
+Video Mixing Renderer 9,0x00200000,1,0,quartz.dll,6.05.2600.6333
+Windows Media Video Decoder,0x00800000,1,1,wmv8ds32.ax,8.00.0000.4000
+WMT VIH2 Fix,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Record Queue,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Windows Media Multiplexer,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASX file Parser,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASX v.2 file Parser,0x00600000,1,0,wmpasf.dll,11.00.5721.5145
+NSC file Parser,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ACM Wrapper,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Windows Media source filter,0x00600000,0,2,wmpasf.dll,11.00.5721.5145
+Video Renderer,0x00800001,1,0,quartz.dll,6.05.2600.6333
+Frame Eater,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+MPEG-2 Video Stream Analyzer,0x00200000,0,0,sbe.dll,6.05.2600.6076
+Line 21 Decoder,0x00600000,1,1,qdvd.dll,6.05.2600.6169
+Video Port Manager,0x00600000,2,1,quartz.dll,6.05.2600.6333
+WST Decoder,0x00600000,1,1,wstdecod.dll,5.03.2600.5512
+Video Renderer,0x00400000,1,0,quartz.dll,6.05.2600.6333
+WM ASF Writer,0x00400000,0,0,qasf.dll,11.00.5721.5145
+WMT Sample Information Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+VBI Surface Allocator,0x00600000,1,1,vbisurf.ax,5.03.2600.5512
+Microsoft MPEG-4 Video Decompressor,0x00800000,1,1,mpg4ds32.ax,8.00.0000.4504
+File writer,0x00200000,1,0,qcap.dll,6.05.2600.5512
+WMT Log Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WMT Virtual Renderer,0x00200000,1,0,wmm2filt.dll,2.01.4026.0000
+DVD Navigator,0x00200000,0,2,qdvd.dll,6.05.2600.6169
+Overlay Mixer2,0x00400000,1,1,qdvd.dll,6.05.2600.6169
+AVI Draw,0x00600064,9,1,quartz.dll,6.05.2600.6333
+.RAM file Parser,0x00600000,1,0,wmpasf.dll,11.00.5721.5145
+WMT DirectX Transform Wrapper,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+G.711 Codec,0x00200000,1,1,g711codc.ax,5.01.2600.0000
+MPEG-2 Demultiplexer,0x00600000,1,1,mpg2splt.ax,6.05.2600.6333
+DV Video Decoder,0x00800000,1,1,qdv.dll,6.05.2600.5512
+Indeo® audio software,0x00500000,1,1,iac25_32.ax,2.00.0005.0053
+Windows Media Update Filter,0x00400000,1,0,wmpasf.dll,11.00.5721.5145
+ASF DIB Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF ACM Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF ICM Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF URL Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF JPEG Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF DJPEG Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF embedded stuff Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+9x8Resize,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WIA Stream Snapshot Filter,0x00200000,1,1,wiasf.ax,1.00.0000.0000
+Allocator Fix,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+SampleGrabber,0x00200000,1,1,qedit.dll,6.05.2600.6512
+Null Renderer,0x00200000,1,0,qedit.dll,6.05.2600.6512
+WMT Virtual Source,0x00200000,0,1,wmm2filt.dll,2.01.4026.0000
+WMT Interlacer,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+StreamBufferSource,0x00200000,0,0,sbe.dll,6.05.2600.6076
+Smart Tee,0x00200000,1,2,qcap.dll,6.05.2600.5512
+Overlay Mixer,0x00200000,0,0,qdvd.dll,6.05.2600.6169
+AVI Decompressor,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Uncompressed Domain Shot Detection Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+AVI/WAV File Source,0x00400000,0,2,quartz.dll,6.05.2600.6333
+QuickTime Movie Parser,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Wave Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+MIDI Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+Multi-file Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+File stream renderer,0x00400000,1,1,quartz.dll,6.05.2600.6333
+XML Playlist,0x00400000,1,0,wmpasf.dll,11.00.5721.5145
+AVI Mux,0x00200000,1,0,qcap.dll,6.05.2600.5512
+Line 21 Decoder 2,0x00600002,1,1,quartz.dll,6.05.2600.6333
+File Source (Async.),0x00400000,0,1,quartz.dll,6.05.2600.6333
+File Source (URL),0x00400000,0,1,quartz.dll,6.05.2600.6333
+WMT DV Extract,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WMT Switch Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WMT Volume,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Stretch Video,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Infinite Pin Tee Filter,0x00200000,1,1,qcap.dll,6.05.2600.5512
+QT Decompressor,0x00600000,1,1,quartz.dll,6.05.2600.6333
+MPEG Video Decoder,0x40000001,1,1,quartz.dll,6.05.2600.6333
+Indeo® video 4.4 Decompression Filter,0x00640000,1,1,ir41_32.ax,4.51.0016.0003
+Indeo® video 4.4 Compression Filter,0x00200000,1,1,ir41_32.ax,4.51.0016.0003
+
+Transformação de dados de fluxo WDM:
+Microsoft Kernel Acoustic Echo Canceller,0x00000000,0,0,,
+Microsoft - sintetizador Kernel GS Wavetable,0x00200000,1,1,,5.03.2600.5512
+Sintetizador Microsoft Kernel DLS,0x00200000,1,1,,5.03.2600.5512
+Microsoft Kernel DRM Descrambler Filter,0x00200000,1,1,,5.03.2600.5512
+
+Video Compressors:
+WMVideo8 Encoder DMO,0x00600800,1,1,,
+MSScreen encoder DMO,0x00600800,1,1,,
+WMVideo9 Encoder DMO,0x00600800,1,1,,
+MSScreen 9 encoder DMO,0x00600800,1,1,,
+DV Video Encoder,0x00200000,0,0,qdv.dll,6.05.2600.5512
+Indeo® video 5.10 Compression Filter,0x00100000,1,1,ir50_32.dll,5.2562.0015.0055
+MJPEG Compressor,0x00200000,0,0,quartz.dll,6.05.2600.6333
+Cinepak Codec by Radius,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Intel 4:2:0 Video V2.50,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Intel Indeo(R) Video R3.2,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Intel Indeo® Video 4.5,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Indeo® video 5.10,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Codec Intel IYUV,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft H.261 Video Codec,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft H.263 Video Codec,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft RLE,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft Video 1,0x00200000,1,1,qcap.dll,6.05.2600.5512
+
+Audio Compressors:
+WMA Voice Encoder DMO,0x00600800,1,1,,
+WMAudio Encoder DMO,0x00600800,1,1,,
+IAC2,0x00200000,1,1,quartz.dll,6.05.2600.6333
+IMA ADPCM,0x00200000,1,1,quartz.dll,6.05.2600.6333
+PCM,0x00200000,1,1,quartz.dll,6.05.2600.6333
+Microsoft ADPCM,0x00200000,1,1,quartz.dll,6.05.2600.6333
+ACELP.net,0x00200000,1,1,quartz.dll,6.05.2600.6333
+DSP Group TrueSpeech(TM),0x00200000,1,1,quartz.dll,6.05.2600.6333
+Windows Media Audio V1,0x00200000,1,1,quartz.dll,6.05.2600.6333
+Windows Media Audio V2,0x00200000,1,1,quartz.dll,6.05.2600.6333
+GSM 6.10,0x00200000,1,1,quartz.dll,6.05.2600.6333
+Microsoft G.723.1
+,0x00200000,1,1,quartz.dll,6.05.2600.6333
+CCITT A-Law,0x00200000,1,1,quartz.dll,6.05.2600.6333
+CCITT u-Law,0x00200000,1,1,quartz.dll,6.05.2600.6333
+MPEG Layer-3,0x00200000,1,1,quartz.dll,6.05.2600.6333
+
+Audio Capture Sources:
+Realtek HD Audio Input,0x00200000,0,0,qcap.dll,6.05.2600.5512
+
+Midi Renderers:
+Default MidiOut Device,0x00800000,1,0,quartz.dll,6.05.2600.6333
+Sintetizador por software GS Wa,0x00200000,1,0,quartz.dll,6.05.2600.6333
+
+Dispositivos de captura de sequência WDM:
+,0x00000000,0,0,,
+
+Dispositivos de composição de sequência WDM:
+Realtek HD Audio output,0x00200000,1,1,,5.03.2600.5512
+
+Dispositivos de mistura de sequenciador WDM:
+Microsoft - misturador de áudio Kernel Wave,0x00000000,0,0,,
+
+BDA CP/CA Filters:
+Decrypt/Tag,0x00600000,1,0,encdec.dll,6.05.2600.6161
+Encrypt/Tag,0x00200000,0,0,encdec.dll,6.05.2600.6161
+XDS Codec,0x00200000,0,0,encdec.dll,6.05.2600.6161
+
+Audio Renderers:
+Realtek HD Audio output,0x00200000,1,0,quartz.dll,6.05.2600.6333
+Default DirectSound Device,0x00800000,1,0,quartz.dll,6.05.2600.6333
+Default WaveOut Device,0x00200000,1,0,quartz.dll,6.05.2600.6333
+DirectSound: Realtek HD Audio output,0x00200000,1,0,quartz.dll,6.05.2600.6333
+
+Dispositivos de sistema de fluxo WDM:
+Realtek HD Audio Input,0x00200000,4,1,,5.03.2600.5512
+Realtek HD Audio output,0x00200000,11,1,,5.03.2600.5512
+
+------------------
+System Information
+------------------
+Time of this report: 6/7/2018, 17:19:01
+       Machine name: KTL0023
+   Operating System: Windows XP Professional (5.1, Build 2600) Service Pack 3 (2600.xpsp_sp3_qfe.130704-0421)
+           Language: Portuguese (Regional Setting: Portuguese)
+System Manufacturer: To Be Filled By O.E.M.
+       System Model: To Be Filled By O.E.M.
+               BIOS: Default System BIOS
+          Processor: Intel(R) Pentium(R) 4 CPU 3.00GHz (2 CPUs)
+             Memory: 3584MB RAM
+          Page File: 719MB used, 4751MB available
+        Windows Dir: C:\WINDOWS
+    DirectX Version: DirectX 9.0c (4.09.0000.0904)
+DX Setup Parameters: Not found
+     DxDiag Version: 5.03.2600.5512 32bit Unicode
+
+------------
+DxDiag Notes
+------------
+  DirectX Files Tab: No problems found.
+      Display Tab 1: The file nv4_disp.dll is not digitally signed, which means that it has not been tested by Microsoft's Windows Hardware Quality Labs (WHQL).  You may be able to get a WHQL logo'd driver from the hardware manufacturer.
+        Sound Tab 1: No problems found.
+          Music Tab: No problems found.
+          Input Tab: No problems found.
+        Network Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (n/a)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (n/a)
+DirectMusic: 0/5 (n/a)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
+
+---------------
+Display Devices
+---------------
+        Card name: NVIDIA GeForce GT 610
+     Manufacturer: NVIDIA
+        Chip type: GeForce GT 610
+         DAC type: Integrated RAMDAC
+       Device Key: Enum\PCI\VEN_10DE&DEV_104A&SUBSYS_84111043&REV_A1
+   Display Memory: 2048.0 MB
+     Current Mode: 1440 x 900 (32 bit) (75Hz)
+          Monitor: SyncMaster 943NW/943NWX/NW1943/NWX1943
+  Monitor Max Res: 1440,900
+      Driver Name: nv4_disp.dll
+   Driver Version: 6.14.0013.6881 (English)
+      DDI Version: 9 (or higher)
+Driver Attributes: Final Retail
+ Driver Date/Size: 7/11/2016 01:25:41, 3433984 bytes
+      WHQL Logo'd: No
+  WHQL Date Stamp: None
+              VDD: n/d
+         Mini VDD: nv4_mini.sys
+    Mini VDD Date: 7/11/2016 01:25:50, 13375672 bytes
+Device Identifier: {D7B71E3E-530A-11CF-1269-1CA400C2CB35}
+        Vendor ID: 0x10DE
+        Device ID: 0x104A
+        SubSys ID: 0x84111043
+      Revision ID: 0x00A1
+      Revision ID: 0x00A1
+      Video Accel: ModeMPEG2_C ModeMPEG2_D 
+ Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                   {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                   {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+         Registry: OK
+     DDraw Status: Enabled
+       D3D Status: Enabled
+       AGP Status: Enabled
+DDraw Test Result: Not run
+ D3D7 Test Result: Not run
+ D3D8 Test Result: Not run
+ D3D9 Test Result: Not run
+
+-------------
+Sound Devices
+-------------
+            Deion: Realtek HD Audio output
+ Default Sound Playback: Yes
+ Default Voice Playback: Yes
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0888&SUBSYS_18491E01&REV_1000
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RtkHDAud.sys
+         Driver Version: 5.10.0000.5296 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 9/12/2006 19:27:00, 4381184 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Unknown
+              Cap Flags: 0xF5F
+    Min/Max Sample Rate: 8000, 192000
+Static/Strm HW Mix Bufs: 33, 32
+ Static/Strm HW 3D Bufs: 33, 32
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: Yes, Yes
+   I3DL2(tm) Listen/Src: Yes, Yes
+Sensaura(tm) ZoomFX(tm): No
+               Registry: OK
+      Sound Test Result: Not run
+
+---------------------
+Sound Capture Devices
+---------------------
+            Deion: Realtek HD Audio Input
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
+            Driver Name: RtkHDAud.sys
+         Driver Version: 5.10.0000.5296 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 9/12/2006 19:27:00, 4381184 bytes
+              Cap Flags: 0x41
+           Format Flags: 0xFFF
+
+-----------
+DirectMusic
+-----------
+        DLS Path: C:\WINDOWS\SYSTEM32\drivers\GM.DLS
+     DLS Version: 1.00.0016.0002
+    Acceleration: n/a
+           Ports: Microsoft Synthesizer, Software (Not Kernel Mode), Output, DLS, Internal, Default Port
+                  Mapeador MIDI da Microsoft [Emulado], Hardware (Not Kernel Mode), Output, No DLS, Internal
+                  Sintetizador por software GS Wa [Emulado], Hardware (Not Kernel Mode), Output, No DLS, Internal
+        Registry: OK
+     Test Result: Not run
+
+-------------------
+DirectInput Devices
+-------------------
+      Device Name: Rato
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Teclado
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+Poll w/ Interrupt: No
+         Registry: OK
+
+-----------
+USB Devices
+-----------
++ Concentrador raiz USB (usbport)
+| Vendor/Product ID: 0x8086, 0x27CB
+| Matching Device ID: usb\root_hub
+| Service: usbhub
+| Driver: usbhub.sys, 4/14/2008 00:15:38, 59520 bytes
+| Driver: usbd.sys, 8/9/2013 01:55:06, 5376 bytes
+| 
++-+ Dispositivo USB de interface humana
+| | Vendor/Product ID: 0x0C2E, 0x0204
+| | Location: Honeywell Scanning and Mobility Scanner
+| | Matching Device ID: usb\class_03&subclass_01
+| | Service: HidUsb
+| | Driver: hidusb.sys, 4/14/2008 00:15:28, 10368 bytes
+| | Driver: hidclass.sys, 4/14/2008 00:15:28, 36864 bytes
+| | Driver: hidparse.sys, 7/3/2013 03:12:52, 25088 bytes
+| | Driver: hid.dll, 4/14/2008 21:51:36, 20992 bytes
+| | 
+| +-+ Dispositivo de teclado HID
+| | | Vendor/Product ID: 0x0C2E, 0x0204
+| | | Matching Device ID: hid_device_system_keyboard
+| | | Service: kbdhid
+| | | Driver: kbdhid.sys, 4/14/2008 21:13:14, 14720 bytes
+| | | Driver: kbdclass.sys, 4/14/2008 21:13:12, 25344 bytes
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
++ Teclado padrão de 101 ou 102 teclas ou Microsoft Natural PS/2
+| Matching Device ID: *pnp0303
+| Service: i8042prt
+| Driver: i8042prt.sys, 4/14/2008 21:09:50, 53888 bytes
+| Driver: kbdclass.sys, 4/14/2008 21:13:12, 25344 bytes
+| 
++ Controlador do teclado do servidor de terminais
+| Matching Device ID: root\rdp_kbd
+| Upper Filters: kbdclass
+| Service: TermDD
+| Driver: termdd.sys, 4/14/2008 21:40:32, 40840 bytes
+| Driver: kbdclass.sys, 4/14/2008 21:13:12, 25344 bytes
+| 
++ Rato compatível com HID
+| Vendor/Product ID: 0x1A2C, 0x0044
+| Matching Device ID: hid_device_system_mouse
+| Service: mouhid
+| Driver: mouclass.sys, 4/14/2008 21:51:36, 23808 bytes
+| Driver: mouhid.sys, 9/21/2004 13:00:00, 12160 bytes
+| 
++ Controlador de rato do servidor de terminais
+| Matching Device ID: root\rdp_mou
+| Upper Filters: mouclass
+| Service: TermDD
+| Driver: termdd.sys, 4/14/2008 21:40:32, 40840 bytes
+| Driver: mouclass.sys, 4/14/2008 21:51:36, 23808 bytes
+
+----------------------------
+DirectPlay Service Providers
+----------------------------
+DirectPlay8 Modem Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+DirectPlay8 Serial Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+DirectPlay8 IPX Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+DirectPlay8 TCP/IP Service Provider - Registry: OK, File: dpnet.dll (5.03.2600.6311)
+Internet TCP/IP Connection For DirectPlay - Registry: OK, File: dpwsockx.dll (5.03.2600.5512)
+IPX Connection For DirectPlay - Registry: OK, File: dpwsockx.dll (5.03.2600.5512)
+Modem Connection For DirectPlay - Registry: OK, File: dpmodemx.dll (5.03.2600.5512)
+Serial Connection For DirectPlay - Registry: OK, File: dpmodemx.dll (5.03.2600.5512)
+
+DirectPlay Voice Wizard Tests: Full Duplex: Not run, Half Duplex: Not run, Mic: Not run
+DirectPlay Test Result: Not run
+Registry: OK
+
+-------------------
+DirectPlay Adapters
+-------------------
+DirectPlay8 Serial Service Provider: COM1
+DirectPlay8 TCP/IP Service Provider: Ligação de área local - IPv4 - 
+
+-----------------------
+DirectPlay Voice Codecs
+-----------------------
+Voxware VR12 1.4kbit/s
+Voxware SC06 6.4kbit/s
+Voxware SC03 3.2kbit/s
+MS-PCM 64 kbit/s
+MS-ADPCM 32.8 kbit/s
+Microsoft GSM 6.10 13 kbit/s
+TrueSpeech(TM) 8.6 kbit/s
+
+-------------------------
+DirectPlay Lobbyable Apps
+-------------------------
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+      Drive: C:
+ Free Space: 44.2 GB
+Total Space: 57.2 GB
+File System: NTFS
+      Model: KINGSTON SV300S37A60G
+
+--------------
+System Devices
+--------------
+     Name: Intel(R) 82801G (ICH7 Family) Ultra ATA Storage Controllers - 27DF
+Device ID: PCI\VEN_8086&DEV_27DF&SUBSYS_27DF1849&REV_01\3&11583659&0&F9
+   Driver: C:\WINDOWS\system32\DRIVERS\pciide.sys, 5.01.2600.0000 (Portuguese), 11/20/2001 16:13:50, 3456 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pciidex.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 00:10:30, 24960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\atapi.sys, 5.01.2600.5512 (English), 4/14/2008 00:10:32, 96512 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) SMBus Controller - 27DA
+Device ID: PCI\VEN_8086&DEV_27DA&SUBSYS_27DA1849&REV_01\3&11583659&0&FB
+   Driver: n/a
+
+     Name: Controlador de Barramento UAA da Microsoft para High Definition Audio
+Device ID: PCI\VEN_8086&DEV_27D8&SUBSYS_08881849&REV_01\3&11583659&0&D8
+   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 5.10.0001.5013 (English), 4/13/2008 22:06:06, 144384 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) PCI Express Root Port - 27D2
+Device ID: PCI\VEN_8086&DEV_27D2&SUBSYS_00000000&REV_01\3&11583659&0&E1
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) PCI Express Root Port - 27D0
+Device ID: PCI\VEN_8086&DEV_27D0&SUBSYS_00000000&REV_01\3&11583659&0&E0
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB2 Enhanced Host Controller - 27CC
+Device ID: PCI\VEN_8086&DEV_27CC&SUBSYS_27CC1849&REV_01\3&11583659&0&EF
+   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 5.01.2600.5778 (English), 3/18/2009 12:02:23, 30336 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+   Driver: C:\WINDOWS\system32\hccoin.dll, 5.01.2600.5512 (English), 4/14/2008 21:39:12, 7168 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27CB
+Device ID: PCI\VEN_8086&DEV_27CB&SUBSYS_27CB1849&REV_01\3&11583659&0&EB
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27CA
+Device ID: PCI\VEN_8086&DEV_27CA&SUBSYS_27CA1849&REV_01\3&11583659&0&EA
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27C9
+Device ID: PCI\VEN_8086&DEV_27C9&SUBSYS_27C91849&REV_01\3&11583659&0&E9
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801G (ICH7 Family) USB Universal Host Controller - 27C8
+Device ID: PCI\VEN_8086&DEV_27C8&SUBSYS_27C81849&REV_01\3&11583659&0&E8
+   Driver: C:\WINDOWS\system32\drivers\usbuhci.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:36, 20608 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 5.01.2600.6437 (English), 8/9/2013 01:55:08, 144128 bytes
+   Driver: C:\WINDOWS\system32\usbui.dll, 5.01.2600.5512 (Portuguese), 4/14/2008 21:39:32, 77312 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 5.01.2600.5512 (English), 4/14/2008 00:15:38, 59520 bytes
+
+     Name: Intel(R) 82801GB/GR/GH (ICH7 Family) Serial ATA Storage Controller - 27C0
+Device ID: PCI\VEN_8086&DEV_27C0&SUBSYS_27C01849&REV_01\3&11583659&0&FA
+   Driver: C:\WINDOWS\system32\DRIVERS\pciide.sys, 5.01.2600.0000 (Portuguese), 11/20/2001 16:13:50, 3456 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pciidex.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 00:10:30, 24960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\atapi.sys, 5.01.2600.5512 (English), 4/14/2008 00:10:32, 96512 bytes
+
+     Name: Intel(R) 82801GB/GR (ICH7 Family) LPC Interface Controller - 27B8
+Device ID: PCI\VEN_8086&DEV_27B8&SUBSYS_00000000&REV_01\3&11583659&0&F8
+   Driver: C:\WINDOWS\system32\DRIVERS\isapnp.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:12:42, 37760 bytes
+
+     Name: Intel(R) 945G/GZ/P/PL PCI Express Root Port - 2771
+Device ID: PCI\VEN_8086&DEV_2771&SUBSYS_00000000&REV_02\3&11583659&0&08
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: Intel(R) 945G/GZ/P/PL Processor to I/O Controller - 2770
+Device ID: PCI\VEN_8086&DEV_2770&SUBSYS_00000000&REV_02\3&11583659&0&00
+   Driver: n/a
+
+     Name: Intel(R) 82801 PCI Bridge - 244E
+Device ID: PCI\VEN_8086&DEV_244E&SUBSYS_00000000&REV_E1\3&11583659&0&F0
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 5.01.2600.5512 (Portuguese), 4/14/2008 21:17:56, 68992 bytes
+
+     Name: TP-LINK 150Mbps Wireless N PCI Express Adapter
+Device ID: PCI\VEN_168C&DEV_0032&SUBSYS_3118168C&REV_01\4&293AFFCC&0&00E0
+   Driver: C:\WINDOWS\system32\DRIVERS\athw.sys, 10.00.0000.0274 (English), 11/28/2013 16:42:00, 2158848 bytes
+
+     Name: Realtek RTL8139/810x Family Fast Ethernet NIC
+Device ID: PCI\VEN_10EC&DEV_8136&SUBSYS_81361849&REV_01\4&38D2602C&0&00E1
+   Driver: C:\WINDOWS\system32\DRIVERS\Rtenicxp.sys, 5.658.0814.2006 (English), 4/21/2016 12:33:12, 83200 bytes
+
+     Name: NVIDIA GeForce GT 610
+Device ID: PCI\VEN_10DE&DEV_104A&SUBSYS_84111043&REV_A1\4&24AE49A5&0&0008
+   Driver: C:\Programas\NVIDIA Corporation\Drs\dbInstaller.exe, 6.14.0013.6881 (English), 7/11/2016 01:52:51, 336384 bytes
+   Driver: C:\Programas\NVIDIA Corporation\Drs\nvdrsdb.bin, 7/11/2016 01:25:51, 1300424 bytes
+   Driver: C:\Programas\NVIDIA Corporation\CPLInstallerCache\NvCplSetupInt.exe, 1.00.0005.0000 (Portuguese), 3/22/2016 04:44:50, 101046664 bytes
+   Driver: C:\Programas\NVIDIA Corporation\license.txt, 7/11/2016 01:52:59, 26629 bytes
+   Driver: C:\Programas\NVIDIA Corporation\OpenCL\OpenCL.dll, 1.02.0011.0000 (English), 7/11/2016 01:25:41, 186880 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\nv4_mini.sys, 6.14.0013.6881 (English), 7/11/2016 01:25:50, 13375672 bytes
+   Driver: C:\WINDOWS\system32\nv4_disp.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:41, 3433984 bytes
+   Driver: C:\WINDOWS\system32\nvapi.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:51, 3299840 bytes
+   Driver: C:\WINDOWS\system32\nvcompiler.dll, 7/11/2016 01:25:52, 35101184 bytes
+   Driver: C:\WINDOWS\system32\nvcuda.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:50, 17540608 bytes
+   Driver: C:\WINDOWS\system32\nvcuvid.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:51, 2992696 bytes
+   Driver: C:\WINDOWS\system32\nvdata.data, 7/11/2016 01:53:08, 2345364 bytes
+   Driver: C:\WINDOWS\system32\nvinfo.pb, 7/11/2016 01:53:51, 29352 bytes
+   Driver: C:\WINDOWS\system32\nvoglnt.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:53, 17526784 bytes
+   Driver: C:\WINDOWS\system32\nvopencl.dll, 6.14.0013.6881 (English), 7/11/2016 01:25:53, 17943552 bytes
+   Driver: C:\WINDOWS\system32\nvdispco3236881.dll, 2.00.0045.0004 (English), 7/11/2016 01:53:03, 1075256 bytes
+   Driver: C:\WINDOWS\system32\nvdispgenco3236881.dll, 2.00.0021.0002 (English), 7/11/2016 01:53:13, 925752 bytes
+
+     Name: Controlador de Barramento UAA da Microsoft para High Definition Audio
+Device ID: PCI\VEN_10DE&DEV_0E08&SUBSYS_84111043&REV_A1\4&24AE49A5&0&0108
+   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 5.10.0001.5013 (English), 4/13/2008 22:06:06, 144384 bytes
+
+------------------
+DirectX Components
+------------------
+   ddraw.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 279552 bytes
+ ddrawex.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 27136 bytes
+   dxapi.sys: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 10496 bytes
+    d3d8.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 1179648 bytes
+ d3d8thk.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 8192 bytes
+    d3d9.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 1689088 bytes
+   d3dim.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 436224 bytes
+d3dim700.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 824320 bytes
+ d3dramp.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 590336 bytes
+   d3drm.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 350208 bytes
+  d3dxof.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 47616 bytes
+d3dpmesh.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 34816 bytes
+   dplay.dll: 5.00.2134.0001 Portuguese Final Retail 9/21/2004 13:00:00 33040 bytes
+  dplayx.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 229888 bytes
+dpmodemx.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 24064 bytes
+ dpwsock.dll: 5.00.2134.0001 English Final Retail 9/21/2004 13:00:00 42768 bytes
+dpwsockx.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 57856 bytes
+dplaysvr.exe: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:46 29696 bytes
+  dpnsvr.exe: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:46 18432 bytes
+   dpnet.dll: 5.03.2600.6311 English Final Retail 11/2/2012 03:02:35 375296 bytes
+dpnlobby.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:37:12 3072 bytes
+ dpnaddr.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:37:12 3072 bytes
+ dpvoice.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 213504 bytes
+dpvsetup.exe: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:46 83456 bytes
+  dpvvox.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 116736 bytes
+  dpvacm.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 21504 bytes
+dpnhpast.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 35328 bytes
+dpnhupnp.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 60928 bytes
+dpserial.dll: 5.00.2134.0001 Portuguese Final Retail 9/21/2004 13:00:00 54032 bytes
+  dinput.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 166912 bytes
+ dinput8.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 189952 bytes
+   dimap.dll: 5.01.2600.0000 English Final Retail 9/21/2004 13:00:00 44032 bytes
+diactfrm.dll: 5.01.2600.0000 Portuguese Final Retail 9/21/2004 13:00:00 394752 bytes
+     joy.cpl: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:40:12 69632 bytes
+   gcdef.dll: 5.01.2600.0000 Portuguese Final Retail 9/21/2004 13:00:00 77312 bytes
+     pid.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:51:36 35328 bytes
+  dsound.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 367616 bytes
+dsound3d.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 1293824 bytes
+  dswave.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 19456 bytes
+   dsdmo.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 181248 bytes
+dsdmoprp.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 72192 bytes
+  dmusic.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 104448 bytes
+  dmband.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 28672 bytes
+dmcompos.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 61440 bytes
+   dmime.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 181248 bytes
+dmloader.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 35840 bytes
+ dmstyle.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 105984 bytes
+ dmsynth.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 103424 bytes
+dm.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 82432 bytes
+  system.dll: 1.01.4322.2503 English Final Retail 4/26/2016 09:54:07 1232896 bytes
+   dx7vb.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 619008 bytes
+   dx8vb.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 1227264 bytes
+ dxdiagn.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 2113536 bytes
+   mfc40.dll: 4.01.0000.6151 English Beta Retail 9/18/2010 07:52:55 954368 bytes
+   mfc42.dll: 6.02.8081.0000 English Final Retail 2/8/2011 14:34:10 978944 bytes
+ wsock32.dll: 5.01.2600.5512 Portuguese Final Retail 4/14/2008 21:39:36 25600 bytes
+amstream.dll: 6.05.2600.5512 English Final Retail 4/14/2008 21:39:08 70656 bytes
+ devenum.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:10 59904 bytes
+  dxmasf.dll: 6.04.0009.1133 Portuguese Final Retail 4/14/2008 21:39:10 499766 bytes
+mciqtz32.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:14 35328 bytes
+ mpg2splt.ax: 6.05.2600.6333 English Final Retail 1/2/2013 07:48:56 148992 bytes
+   msdmo.dll: 6.05.2600.5512 English Final Retail 4/14/2008 21:39:16 14336 bytes
+  encapi.dll: 5.03.2600.5512 English Final Retail 4/14/2008 21:39:10 20480 bytes
+    qasf.dll: 11.00.5721.5145 English Final Retail 5/8/2008 01:50:07 211456 bytes
+    qcap.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:24 192512 bytes
+     qdv.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:24 279040 bytes
+    qdvd.dll: 6.05.2600.6169 Portuguese Final Retail 11/3/2011 16:28:27 387072 bytes
+   qedit.dll: 6.05.2600.6512 Portuguese Final Retail 2/5/2014 09:55:00 563712 bytes
+qedwipes.dll: 6.05.2600.5512 English Final Retail 4/13/2008 22:51:34 733696 bytes
+  quartz.dll: 6.05.2600.6333 Portuguese Final Retail 1/2/2013 07:48:57 1298944 bytes
+ strmdll.dll: 4.01.0000.3938 Portuguese Final Retail 8/26/2009 09:01:17 247326 bytes
+ iac25_32.ax: 2.00.0005.0053 English Final Retail 4/14/2008 21:40:12 199680 bytes
+  ir41_32.ax: 4.51.0016.0003 English Final Retail 4/14/2008 21:40:12 848384 bytes
+ ir41_qc.dll: 4.30.0062.0002 English Final Retail 4/14/2008 21:39:12 120320 bytes
+ir41_qcx.dll: 4.30.0064.0001 English Final Retail 4/14/2008 21:39:12 338432 bytes
+ ir50_32.dll: 5.2562.0015.0055 English Final Retail 4/14/2008 21:39:12 755200 bytes
+ ir50_qc.dll: 5.00.0063.0048 English Final Retail 4/14/2008 21:39:12 200192 bytes
+ir50_qcx.dll: 5.00.0064.0048 English Final Retail 4/14/2008 21:39:12 183808 bytes
+   ivfsrc.ax: 5.10.0002.0051 English Final Retail 4/14/2008 21:40:12 154624 bytes
+mswebdvd.dll: 6.05.2600.5857 Portuguese Final Retail 8/5/2009 10:00:10 205824 bytes
+      ks.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:46:38 141056 bytes
+  ksproxy.ax: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:40:12 129536 bytes
+  ksuser.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:14 4096 bytes
+  stream.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:15:16 49408 bytes
+mspclock.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:09:52 5376 bytes
+   mspqm.sys: 5.01.2600.5512 Portuguese Final Retail 4/14/2008 00:09:52 4992 bytes
+ mskssrv.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 00:09:54 7552 bytes
+  swenum.sys: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:51:36 4352 bytes
+mpeg2data.ax: 6.05.2600.5512 English Final Retail 4/14/2008 21:40:12 118272 bytes
+msvidctl.dll: 6.05.2600.5512 Portuguese Final Retail 4/14/2008 21:39:18 1435136 bytes
+  vbisurf.ax: 5.03.2600.5512 English Final Retail 4/14/2008 21:40:12 30208 bytes
+   msyuv.dll: 5.03.2600.5908 English Final Retail 11/27/2009 18:12:52 17920 bytes
+wstdecod.dll: 5.03.2600.5512 Portuguese Final Retail 4/14/2008 21:39:36 51200 bytes
+
+------------------
+DirectShow Filters
+------------------
+
+DirectShow Filters:
+WMAudio Decoder DMO,0x00800800,1,1,,
+WMAPro over S/PDIF DMO,0x00600800,1,1,,
+WMA Voice Decoder DMO,0x00600800,1,1,,
+Mpeg4s Decoder DMO,0x00800001,1,1,,
+WMV Screen decoder DMO,0x00600800,1,1,,
+WMVideo Decoder DMO,0x00800001,1,1,,
+Mpeg43 Decoder DMO,0x00800001,1,1,,
+Mpeg4 Decoder DMO,0x00800001,1,1,,
+WMT MuxDeMux Filter,0x00200000,0,0,wmm2filt.dll,2.01.4026.0000
+Full Screen Renderer,0x00200000,1,0,quartz.dll,6.05.2600.6333
+DV Muxer,0x00400000,0,0,qdv.dll,6.05.2600.5512
+Color Space Converter,0x00400001,1,1,quartz.dll,6.05.2600.6333
+WM ASF Reader,0x00400000,0,0,qasf.dll,11.00.5721.5145
+Screen Capture filter,0x00200000,0,1,wmpsrcwp.dll,11.00.5721.5145
+AVI Splitter,0x00600000,1,1,quartz.dll,6.05.2600.6333
+WMT AudioAnalyzer,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,6.05.2600.6333
+Indeo® video 5.10 Compression Filter,0x00200000,1,1,ir50_32.dll,5.2562.0015.0055
+Windows Media Audio Decoder,0x00800001,1,1,msadds32.ax,8.00.0000.4487
+AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,6.05.2600.6333
+WMT Format Conversion,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+StreamBufferSink,0x00200000,0,0,sbe.dll,6.05.2600.6076
+WMT Black Frame Generator,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+MJPEG Decompressor,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Indeo® video 5.10 Decompression Filter,0x00640000,1,1,ir50_32.dll,5.2562.0015.0055
+WMT Screen Capture filter,0x00200000,0,1,wmm2filt.dll,2.01.4026.0000
+Microsoft Screen Video Decompressor,0x00800000,1,1,msscds32.ax,8.00.0000.4487
+MPEG-I Stream Splitter,0x00600000,1,2,quartz.dll,6.05.2600.6333
+SAMI (CC) Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+MPEG Layer-3 Decoder,0x00810000,1,1,l3codecx.ax,1.06.0000.0052
+MPEG-2 Splitter,0x005fffff,1,0,mpg2splt.ax,6.05.2600.6333
+ACELP.net Sipro Lab Audio Decoder,0x00800001,1,1,acelpdec.ax,1.04.0000.0000
+Internal  Command Renderer,0x00800001,1,0,quartz.dll,6.05.2600.6333
+MPEG Audio Decoder,0x03680001,1,1,quartz.dll,6.05.2600.6333
+File Source (Netshow URL),0x00400000,0,1,wmpasf.dll,11.00.5721.5145
+WMT Import Filter,0x00200000,0,1,wmm2filt.dll,2.01.4026.0000
+DV Splitter,0x00600000,1,2,qdv.dll,6.05.2600.5512
+Bitmap Generate,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Windows Media Video Decoder,0x00800000,1,1,wmvds32.ax,8.00.0000.4487
+Video Mixing Renderer 9,0x00200000,1,0,quartz.dll,6.05.2600.6333
+Windows Media Video Decoder,0x00800000,1,1,wmv8ds32.ax,8.00.0000.4000
+WMT VIH2 Fix,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Record Queue,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Windows Media Multiplexer,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASX file Parser,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASX v.2 file Parser,0x00600000,1,0,wmpasf.dll,11.00.5721.5145
+NSC file Parser,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ACM Wrapper,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Windows Media source filter,0x00600000,0,2,wmpasf.dll,11.00.5721.5145
+Video Renderer,0x00800001,1,0,quartz.dll,6.05.2600.6333
+Frame Eater,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+MPEG-2 Video Stream Analyzer,0x00200000,0,0,sbe.dll,6.05.2600.6076
+Line 21 Decoder,0x00600000,1,1,qdvd.dll,6.05.2600.6169
+Video Port Manager,0x00600000,2,1,quartz.dll,6.05.2600.6333
+WST Decoder,0x00600000,1,1,wstdecod.dll,5.03.2600.5512
+Video Renderer,0x00400000,1,0,quartz.dll,6.05.2600.6333
+WM ASF Writer,0x00400000,0,0,qasf.dll,11.00.5721.5145
+WMT Sample Information Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+VBI Surface Allocator,0x00600000,1,1,vbisurf.ax,5.03.2600.5512
+Microsoft MPEG-4 Video Decompressor,0x00800000,1,1,mpg4ds32.ax,8.00.0000.4504
+File writer,0x00200000,1,0,qcap.dll,6.05.2600.5512
+WMT Log Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WMT Virtual Renderer,0x00200000,1,0,wmm2filt.dll,2.01.4026.0000
+DVD Navigator,0x00200000,0,2,qdvd.dll,6.05.2600.6169
+Overlay Mixer2,0x00400000,1,1,qdvd.dll,6.05.2600.6169
+AVI Draw,0x00600064,9,1,quartz.dll,6.05.2600.6333
+.RAM file Parser,0x00600000,1,0,wmpasf.dll,11.00.5721.5145
+WMT DirectX Transform Wrapper,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+G.711 Codec,0x00200000,1,1,g711codc.ax,5.01.2600.0000
+MPEG-2 Demultiplexer,0x00600000,1,1,mpg2splt.ax,6.05.2600.6333
+DV Video Decoder,0x00800000,1,1,qdv.dll,6.05.2600.5512
+Indeo® audio software,0x00500000,1,1,iac25_32.ax,2.00.0005.0053
+Windows Media Update Filter,0x00400000,1,0,wmpasf.dll,11.00.5721.5145
+ASF DIB Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF ACM Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF ICM Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF URL Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF JPEG Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF DJPEG Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+ASF embedded stuff Handler,0x00600000,1,1,wmpasf.dll,11.00.5721.5145
+9x8Resize,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WIA Stream Snapshot Filter,0x00200000,1,1,wiasf.ax,1.00.0000.0000
+Allocator Fix,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+SampleGrabber,0x00200000,1,1,qedit.dll,6.05.2600.6512
+Null Renderer,0x00200000,1,0,qedit.dll,6.05.2600.6512
+WMT Virtual Source,0x00200000,0,1,wmm2filt.dll,2.01.4026.0000
+WMT Interlacer,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+StreamBufferSource,0x00200000,0,0,sbe.dll,6.05.2600.6076
+Smart Tee,0x00200000,1,2,qcap.dll,6.05.2600.5512
+Overlay Mixer,0x00200000,0,0,qdvd.dll,6.05.2600.6169
+AVI Decompressor,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Uncompressed Domain Shot Detection Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+AVI/WAV File Source,0x00400000,0,2,quartz.dll,6.05.2600.6333
+QuickTime Movie Parser,0x00600000,1,1,quartz.dll,6.05.2600.6333
+Wave Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+MIDI Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+Multi-file Parser,0x00400000,1,1,quartz.dll,6.05.2600.6333
+File stream renderer,0x00400000,1,1,quartz.dll,6.05.2600.6333
+XML Playlist,0x00400000,1,0,wmpasf.dll,11.00.5721.5145
+AVI Mux,0x00200000,1,0,qcap.dll,6.05.2600.5512
+Line 21 Decoder 2,0x00600002,1,1,quartz.dll,6.05.2600.6333
+File Source (Async.),0x00400000,0,1,quartz.dll,6.05.2600.6333
+File Source (URL),0x00400000,0,1,quartz.dll,6.05.2600.6333
+WMT DV Extract,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WMT Switch Filter,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+WMT Volume,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Stretch Video,0x00200000,1,1,wmm2filt.dll,2.01.4026.0000
+Infinite Pin Tee Filter,0x00200000,1,1,qcap.dll,6.05.2600.5512
+QT Decompressor,0x00600000,1,1,quartz.dll,6.05.2600.6333
+MPEG Video Decoder,0x40000001,1,1,quartz.dll,6.05.2600.6333
+Indeo® video 4.4 Decompression Filter,0x00640000,1,1,ir41_32.ax,4.51.0016.0003
+Indeo® video 4.4 Compression Filter,0x00200000,1,1,ir41_32.ax,4.51.0016.0003
+
+Transformação de dados de fluxo WDM:
+Microsoft Kernel Acoustic Echo Canceller,0x00000000,0,0,,
+Microsoft - sintetizador Kernel GS Wavetable,0x00200000,1,1,,5.03.2600.5512
+Sintetizador Microsoft Kernel DLS,0x00200000,1,1,,5.03.2600.5512
+Microsoft Kernel DRM Descrambler Filter,0x00200000,1,1,,5.03.2600.5512
+
+Video Compressors:
+WMVideo8 Encoder DMO,0x00600800,1,1,,
+MSScreen encoder DMO,0x00600800,1,1,,
+WMVideo9 Encoder DMO,0x00600800,1,1,,
+MSScreen 9 encoder DMO,0x00600800,1,1,,
+DV Video Encoder,0x00200000,0,0,qdv.dll,6.05.2600.5512
+Indeo® video 5.10 Compression Filter,0x00100000,1,1,ir50_32.dll,5.2562.0015.0055
+MJPEG Compressor,0x00200000,0,0,quartz.dll,6.05.2600.6333
+Cinepak Codec by Radius,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Intel 4:2:0 Video V2.50,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Intel Indeo(R) Video R3.2,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Intel Indeo® Video 4.5,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Indeo® video 5.10,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Codec Intel IYUV,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft H.261 Video Codec,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft H.263 Video Codec,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft RLE,0x00200000,1,1,qcap.dll,6.05.2600.5512
+Microsoft Video 1,0x00200000,1,1,qcap.dll,6.05.2600.5512
+
+Audio Compressors:
+WMA Voice Encoder DMO,0x00600800,1,1,,
+WMAudio Encoder DMO,0x00600800,1,1,,
+IAC2,0x00200000,1,1,quartz.dll,6.05.2600.6333
+IMA ADPCM,0x00200000,1,1,quartz.dll,6.05.2600.6333
+PCM,0x00200000,1,1,quartz.dll,6.05.2600.6333
+Microsoft ADPCM,0x00200000,1,1,quartz.dll,6.05.2600.6333
+ACELP.net,0x00200000,1,1,quartz.dll,6.05.2600.6333
+DSP Group TrueSpeech(TM),0x00200000,1,1,quartz.dll,6.05.2600.6333
+Windows Media Audio V1,0x00200000,1,1,quartz.dll,6.05.2600.6333
+Windows Media Audio V2,0x00200000,1,1,quartz.dll,6.05.2600.6333
+GSM 6.10,0x00200000,1,1,quartz.dll,6.05.2600.6333
+Microsoft G.723.1
+,0x00200000,1,1,quartz.dll,6.05.2600.6333
+CCITT A-Law,0x00200000,1,1,quartz.dll,6.05.2600.6333
+CCITT u-Law,0x00200000,1,1,quartz.dll,6.05.2600.6333
+MPEG Layer-3,0x00200000,1,1,quartz.dll,6.05.2600.6333
+
+Audio Capture Sources:
+Realtek HD Audio Input,0x00200000,0,0,qcap.dll,6.05.2600.5512
+
+Midi Renderers:
+Default MidiOut Device,0x00800000,1,0,quartz.dll,6.05.2600.6333
+Sintetizador por software GS Wa,0x00200000,1,0,quartz.dll,6.05.2600.6333
+
+Dispositivos de captura de sequência WDM:
+,0x00000000,0,0,,
+
+Dispositivos de composição de sequência WDM:
+Realtek HD Audio output,0x00200000,1,1,,5.03.2600.5512
+
+Dispositivos de mistura de sequenciador WDM:
+Microsoft - misturador de áudio Kernel Wave,0x00000000,0,0,,
+
+BDA CP/CA Filters:
+Decrypt/Tag,0x00600000,1,0,encdec.dll,6.05.2600.6161
+Encrypt/Tag,0x00200000,0,0,encdec.dll,6.05.2600.6161
+XDS Codec,0x00200000,0,0,encdec.dll,6.05.2600.6161
+
+Audio Renderers:
+Realtek HD Audio output,0x00200000,1,0,quartz.dll,6.05.2600.6333
+Default DirectSound Device,0x00800000,1,0,quartz.dll,6.05.2600.6333
+Default WaveOut Device,0x00200000,1,0,quartz.dll,6.05.2600.6333
+DirectSound: Realtek HD Audio output,0x00200000,1,0,quartz.dll,6.05.2600.6333
+
+Dispositivos de sistema de fluxo WDM:
+Realtek HD Audio Input,0x00200000,4,1,,5.03.2600.5512
+Realtek HD Audio output,0x00200000,11,1,,5.03.2600.5512
+
