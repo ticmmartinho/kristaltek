@@ -1,0 +1,1165 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+*************************************************************************  AUDITORIA ***************************************************************************** 
+****************************************************************************************************************************************************************** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+DATA #########################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+ktl0030\eac
+ 
+_______________________________________ 
+ 
+07-06-2018 12:41:31 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DO SISTEMA ######################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Nome do AnfitriÆo:                            KTL0030
+Nome do SO:                                   Microsoft Windows 7 Professional 
+VersÆo do SO:                                 6.1.7601 Service Pack 1 Compila‡Æo 7601
+Fabricante de SO:                             Microsoft Corporation
+Configura‡Æo do SO:                           Esta‡Æo de trabalho aut¢noma
+Tipo de compila‡Æo do SO:                     Multiprocessor Free
+Propriet rio registado:                       eac
+Organiza‡Æo registada:                        
+ID do produto:                                00371-OEM-9046862-74049
+Data de instala‡Æo original:                  19-10-2016, 17:41:54
+Tempo de arranque do sistema:                 28-05-2018, 00:45:56
+Fabricante do sistema:                        ASUS
+Modelo do sistema:                            All Series
+Tipo de sistema:                              x64-based PC
+Processador(es):                              1 Processadores instalados.
+                                              [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3201 Mhz
+VersÆo do BIOS:                               American Megatrends Inc. 0601, 29-04-2016
+Direct¢rio do Windows:                        C:\Windows
+Direct¢rio do sistema:                        C:\Windows\system32
+Dispositivo de arranque:                      \Device\HarddiskVolume1
+RegiÆo do sistema:                            pt;Portuguˆs (Portugal)
+Idioma de teclado:                            pt;Portuguˆs (Portugal)
+Fuso hor rio:                                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+Mem¢ria f¡sica total:                         4.033 MB
+Mem¢ria f¡sica dispon¡vel:                    1.692 MB
+Mem¢ria Virtual: Tamanho M ximo:              8.064 MB
+Mem¢ria Virtual: Dispon¡vel:                  5.101 MB
+Mem¢ria Virtual: Em Utiliza‡Æo:               2.963 MB
+Localiza‡Æo(äes) de ficheiro(s) de pagina‡Æo: C:\pagefile.sys
+Dom¡nio:                                      WORKGROUP
+Servidor de in¡cio de sessÆo:                 \\KTL0030
+Correc‡äes urgentes:                          245 Correc‡äes urgentes instaladas.
+                                              [01]: KB2849697
+                                              [02]: KB2849697
+                                              [03]: KB2849696
+                                              [04]: KB2849696
+                                              [05]: KB2841134
+                                              [06]: KB2841134
+                                              [07]: KB2670838
+                                              [08]: KB971033
+                                              [09]: KB2479943
+                                              [10]: KB2491683
+                                              [11]: KB2506014
+                                              [12]: KB2506212
+                                              [13]: KB2506928
+                                              [14]: KB2509553
+                                              [15]: KB2511455
+                                              [16]: KB2532531
+                                              [17]: KB2533552
+                                              [18]: KB2533623
+                                              [19]: KB2534111
+                                              [20]: KB2544893
+                                              [21]: KB2545698
+                                              [22]: KB2547666
+                                              [23]: KB2552343
+                                              [24]: KB2560656
+                                              [25]: KB2563227
+                                              [26]: KB2564958
+                                              [27]: KB2570947
+                                              [28]: KB2579686
+                                              [29]: KB2585542
+                                              [30]: KB2603229
+                                              [31]: KB2604115
+                                              [32]: KB2620704
+                                              [33]: KB2621440
+                                              [34]: KB2631813
+                                              [35]: KB2639308
+                                              [36]: KB2640148
+                                              [37]: KB2653956
+                                              [38]: KB2654428
+                                              [39]: KB2656356
+                                              [40]: KB2660075
+                                              [41]: KB2667402
+                                              [42]: KB2676562
+                                              [43]: KB2685811
+                                              [44]: KB2685813
+                                              [45]: KB2685939
+                                              [46]: KB2690533
+                                              [47]: KB2698365
+                                              [48]: KB2705219
+                                              [49]: KB2719857
+                                              [50]: KB2726535
+                                              [51]: KB2727528
+                                              [52]: KB2729094
+                                              [53]: KB2729452
+                                              [54]: KB2731771
+                                              [55]: KB2732059
+                                              [56]: KB2732487
+                                              [57]: KB2736422
+                                              [58]: KB2742599
+                                              [59]: KB2750841
+                                              [60]: KB2758857
+                                              [61]: KB2761217
+                                              [62]: KB2763523
+                                              [63]: KB2770660
+                                              [64]: KB2773072
+                                              [65]: KB2786081
+                                              [66]: KB2789645
+                                              [67]: KB2791765
+                                              [68]: KB2798162
+                                              [69]: KB2799926
+                                              [70]: KB2800095
+                                              [71]: KB2807986
+                                              [72]: KB2808679
+                                              [73]: KB2813430
+                                              [74]: KB2834140
+                                              [75]: KB2840149
+                                              [76]: KB2840631
+                                              [77]: KB2843630
+                                              [78]: KB2847927
+                                              [79]: KB2852386
+                                              [80]: KB2853952
+                                              [81]: KB2861698
+                                              [82]: KB2862152
+                                              [83]: KB2862330
+                                              [84]: KB2862335
+                                              [85]: KB2864202
+                                              [86]: KB2868038
+                                              [87]: KB2868116
+                                              [88]: KB2871997
+                                              [89]: KB2882822
+                                              [90]: KB2884256
+                                              [91]: KB2888049
+                                              [92]: KB2891804
+                                              [93]: KB2892074
+                                              [94]: KB2893294
+                                              [95]: KB2893519
+                                              [96]: KB2894844
+                                              [97]: KB2900986
+                                              [98]: KB2908783
+                                              [99]: KB2911501
+                                              [100]: KB2912390
+                                              [101]: KB2918077
+                                              [102]: KB2919469
+                                              [103]: KB2929733
+                                              [104]: KB2931356
+                                              [105]: KB2937610
+                                              [106]: KB2943357
+                                              [107]: KB2952664
+                                              [108]: KB2957189
+                                              [109]: KB2966583
+                                              [110]: KB2968294
+                                              [111]: KB2970228
+                                              [112]: KB2972100
+                                              [113]: KB2972211
+                                              [114]: KB2973112
+                                              [115]: KB2973201
+                                              [116]: KB2973351
+                                              [117]: KB2977292
+                                              [118]: KB2978120
+                                              [119]: KB2978742
+                                              [120]: KB2984972
+                                              [121]: KB2985461
+                                              [122]: KB2991963
+                                              [123]: KB2992611
+                                              [124]: KB2993651
+                                              [125]: KB3003743
+                                              [126]: KB3004361
+                                              [127]: KB3004375
+                                              [128]: KB3005607
+                                              [129]: KB3006121
+                                              [130]: KB3006137
+                                              [131]: KB3010788
+                                              [132]: KB3011780
+                                              [133]: KB3013531
+                                              [134]: KB3018238
+                                              [135]: KB3019978
+                                              [136]: KB3020370
+                                              [137]: KB3021674
+                                              [138]: KB3021917
+                                              [139]: KB3022777
+                                              [140]: KB3023215
+                                              [141]: KB3030377
+                                              [142]: KB3031432
+                                              [143]: KB3033889
+                                              [144]: KB3033929
+                                              [145]: KB3035126
+                                              [146]: KB3035132
+                                              [147]: KB3037574
+                                              [148]: KB3042553
+                                              [149]: KB3045685
+                                              [150]: KB3046017
+                                              [151]: KB3046269
+                                              [152]: KB3054476
+                                              [153]: KB3055642
+                                              [154]: KB3059317
+                                              [155]: KB3060716
+                                              [156]: KB3067903
+                                              [157]: KB3068708
+                                              [158]: KB3071756
+                                              [159]: KB3072305
+                                              [160]: KB3074543
+                                              [161]: KB3075220
+                                              [162]: KB3076895
+                                              [163]: KB3076949
+                                              [164]: KB3078601
+                                              [165]: KB3078667
+                                              [166]: KB3080149
+                                              [167]: KB3080446
+                                              [168]: KB3084135
+                                              [169]: KB3086255
+                                              [170]: KB3087039
+                                              [171]: KB3092601
+                                              [172]: KB3092627
+                                              [173]: KB3093513
+                                              [174]: KB3097989
+                                              [175]: KB3101722
+                                              [176]: KB3107998
+                                              [177]: KB3108371
+                                              [178]: KB3108381
+                                              [179]: KB3108664
+                                              [180]: KB3108670
+                                              [181]: KB3109094
+                                              [182]: KB3109103
+                                              [183]: KB3109560
+                                              [184]: KB3110329
+                                              [185]: KB3115858
+                                              [186]: KB3118401
+                                              [187]: KB3121255
+                                              [188]: KB3122648
+                                              [189]: KB3123479
+                                              [190]: KB3124280
+                                              [191]: KB3126587
+                                              [192]: KB3127220
+                                              [193]: KB3133977
+                                              [194]: KB3135983
+                                              [195]: KB3137061
+                                              [196]: KB3138378
+                                              [197]: KB3138612
+                                              [198]: KB3138901
+                                              [199]: KB3138910
+                                              [200]: KB3138962
+                                              [201]: KB3139398
+                                              [202]: KB3139914
+                                              [203]: KB3140245
+                                              [204]: KB3142024
+                                              [205]: KB3142042
+                                              [206]: KB3145739
+                                              [207]: KB3146706
+                                              [208]: KB3146963
+                                              [209]: KB3147071
+                                              [210]: KB3149090
+                                              [211]: KB3150220
+                                              [212]: KB3150513
+                                              [213]: KB3155178
+                                              [214]: KB3156016
+                                              [215]: KB3156017
+                                              [216]: KB3156019
+                                              [217]: KB3159398
+                                              [218]: KB3161102
+                                              [219]: KB3161561
+                                              [220]: KB3161949
+                                              [221]: KB3161958
+                                              [222]: KB3163245
+                                              [223]: KB3164033
+                                              [224]: KB3164035
+                                              [225]: KB3168965
+                                              [226]: KB3170455
+                                              [227]: KB3170735
+                                              [228]: KB3172605
+                                              [229]: KB3175024
+                                              [230]: KB3177186
+                                              [231]: KB3177467
+                                              [232]: KB3177723
+                                              [233]: KB3178034
+                                              [234]: KB3179573
+                                              [235]: KB3181988
+                                              [236]: KB3182203
+                                              [237]: KB3184122
+                                              [238]: KB3184143
+                                              [239]: KB3185319
+                                              [240]: KB3185911
+                                              [241]: KB3188740
+                                              [242]: KB3210131
+                                              [243]: KB976902
+                                              [244]: KB982018
+                                              [245]: KB3212
+Placas de rede:                               1 NIC(s) Instalados.
+                                              [01]: Realtek PCIe GBE Family Controller
+                                                    Nome da liga‡Æo: Liga‡Æo de µrea Local
+                                                    DHCP Activado:   NÆo
+                                                    Endere‡os de IP
+                                                    [01]: 192.168.1.194
+                                                    [02]: fe80::25b7:fcea:2866:6498
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+VERSAO BIOS #################################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+SMBIOSBIOSVersion=0601
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO IP ###############################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Configura‡Æo IP do Windows
+
+   Nome do AnfitriÆo. . . . . . . . .: KTL0030
+   Sufixo DNS principal. . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . : H¡brido
+   Rota IP activada. . . . . . . . . : NÆo
+   WINS Proxy activado . . . . . . . : NÆo
+
+Adaptador ethernet Liga‡Æo de µrea Local:
+
+   Sufixo DNS espec¡fico da liga‡Æo. : 
+   Descri‡Æo . . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Endere‡o f¡sico . . . . . . . . . : 70-8B-CD-A3-7C-90
+   DHCP activado . . . . . . . . . . : NÆo
+   Autoconfigura‡Æo activada . . . . : Sim
+   Endere‡o IPv6 de local de liga‡Æo : fe80::25b7:fcea:2866:6498%11(Preferido) 
+   Endere‡o IPv4 . . . . . . . . . . . . . . : 192.168.1.194(Preferido) 
+   M scara de sub-rede . . . . . . . : 255.255.255.0
+   Gateway predefinido . . . . . . . : 192.168.1.250
+   IAID DHCPv6 . . . . . . . . . . . : 242256845
+   DUID Cliente DHCPv6 . . . . . . . : 00-01-00-01-1F-92-7E-97-70-8B-CD-A3-7C-90
+   Servidores DNS. . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS por Tcpip . . . . . . . . . . . . : Activado
+
+Adaptador Tunnel isatap.{843CD28D-AC0A-48B2-BDB2-8042F14C8A51}:
+
+   Estado do suporte . . . . . . . . : Suporte desligado
+   Sufixo DNS espec¡fico da liga‡Æo. : 
+   Descri‡Æo . . . . . . . . . . . . : Placa Microsoft ISATAP
+   Endere‡o f¡sico . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP activado . . . . . . . . . . : NÆo
+   Autoconfigura‡Æo activada . . . . : Sim
+
+Adaptador Tunnel Teredo Tunneling Pseudo-Interface:
+
+   Estado do suporte . . . . . . . . : Suporte desligado
+   Sufixo DNS espec¡fico da liga‡Æo. : 
+   Descri‡Æo . . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Endere‡o f¡sico . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP activado . . . . . . . . . . : NÆo
+   Autoconfigura‡Æo activada . . . . : Sim
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DISCOS ##########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=450102530048
+Size=500000878592
+
+
+Caption=D:
+DriveType=5
+FreeSpace=
+Size=
+
+
+ 
+
+
+Caption=TOSHIBA DT01ACA050 SCSI Disk Device
+DeviceID=\\.\PHYSICALDRIVE0
+Model=TOSHIBA DT01ACA050 SCSI Disk Device
+Partitions=2
+Size=500105249280
+
+
+ 
+
+
+Caption=TOSHIBA DT01ACA050 SCSI Disk Device
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO FABRICO #########################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Manufacturer=ASUSTeK COMPUTER INC.
+Product=H81M-R
+SerialNumber=160778404702741
+Version=Rev X.0x
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO PROCESSADOR ###################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+Name=Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+
+
+ 
+
+
+MaxClockSpeed=3201
+Name=Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+NumberOfCores=4
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADOR ATUAL ################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Informa‡äes do utilizador
+----------------
+
+Nome de utilizador SID                                          
+================== =============================================
+ktl0030\eac        S-1-5-21-3755324728-1573215856-996399667-1001
+
+
+Informa‡äes sobre grupos
+-----------------
+
+Nome do grupo                                              Tipo                SID          Atributos                                                   
+========================================================== =================== ============ ============================================================
+Todos                                                      Grupo bem conhecido S-1-1-0      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Conta local e membro do grupo Administradores Grupo bem conhecido S-1-5-114    Grupo utilizado apenas para nega‡Æo                         
+BUILTIN\Administradores                                    Alias               S-1-5-32-544 Grupo utilizado apenas para nega‡Æo                         
+BUILTIN\Utilizadores                                       Alias               S-1-5-32-545 Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\INTERACTIVE                                   Grupo bem conhecido S-1-5-4      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+INÖCIO DE SESSÇO NA CONSOLA                                Grupo bem conhecido S-1-2-1      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Utilizadores Autenticados                     Grupo bem conhecido S-1-5-11     Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Esta organiza‡Æo                              Grupo bem conhecido S-1-5-15     Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Conta local                                   Grupo bem conhecido S-1-5-113    Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+LOCAL                                                      Grupo bem conhecido S-1-2-0      Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+NT AUTHORITY\Autentica‡Æo NTLM                             Grupo bem conhecido S-1-5-64-10  Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+Etiqueta Obrigat¢ria\N¡vel Obrigat¢rio M‚dio               Etiqueta            S-1-16-8192  Grupo obrigat¢rio, Activado por predefini‡Æo, Grupo activado
+
+
+Informa‡äes sobre os privil‚gios
+----------------------
+
+Nome do privil‚gio            Descri‡Æo                                     Estado     
+============================= ============================================= ===========
+SeShutdownPrivilege           Encerrar o sistema                            Desactivado
+SeChangeNotifyPrivilege       Ignorar verifica‡Æo transversal               Activada   
+SeUndockPrivilege             Remover computador da esta‡Æo de ancoragem    Desactivado
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Desactivado
+SeTimeZonePrivilege           Alterar o fuso hor rio                        Desactivado
+ 
+
+C:\Users\eac\Desktop\AUDITORIA>net user eac  
+Nome do utilizador                            eac
+Nome completo                                 
+Coment rio                                    
+Coment rio do utilizador                      
+C¢digo de pa¡s                                000 (Predefini‡Æo do sistema)
+Conta activa                                  Sim
+Conta expira                                  Nunca
+
+éltima defini‡Æo da palavra-passe             02-12-2016 10:10:35
+A palavra-passe expira                        Nunca
+Palavra-passe alter vel                       02-12-2016 10:10:35
+Palavra-passe necess ria                      NÆo
+O utilizador pode alterar a palavra-passe     Sim
+
+Esta‡äes de trabalho permitidas               Todos
+ de in¡cio de sessÆo                    
+Perfil de utilizador                          
+Direct¢rio de raiz                            
+éltimo in¡cio de sessÆo                       28-05-2018 00:47:22
+
+Horas em sessÆo permitidas                    Todos
+
+Associa‡äes a Grupos Locais                   *Administradores      
+Associa‡äes a Grupos globais                  *None                 
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+
+Aliases para \\KTL0030
+
+-------------------------------------------------------------------------------
+*Administradores
+*Convidados
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores Criptogr ficos
+*Operadores de configura‡Æo de rede
+*Operadores de c¢pia de seguran‡a
+*Replicador
+*Utilizadores
+*Utilizadores avan‡ados
+*Utilizadores COM Distribu¡dos
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+O comando foi conclu¡do com ˆxito.
+
+ 
+Nome de alias     Administradores
+Coment rio        Os administradores tˆm acesso completo e sem restri‡äes ao computador/dom¡nio
+
+Membros
+
+-------------------------------------------------------------------------------
+Administrador
+eac
+User
+O comando foi conclu¡do com ˆxito.
+
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO UTILIZADORES DO SISTEMA ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+AccountType=512
+Caption=KTL0030\Administrador
+Deion=Conta incorporada para a administra‡Æo do computador/dom¡nio
+Disabled=TRUE
+Domain=KTL0030
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-3755324728-1573215856-996399667-500
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0030\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/dom¡nio
+Disabled=TRUE
+Domain=KTL0030
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-3755324728-1573215856-996399667-501
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0030\eac
+Deion=
+Disabled=FALSE
+Domain=KTL0030
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=eac
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-3755324728-1573215856-996399667-1001
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0030\User
+Deion=
+Disabled=FALSE
+Domain=KTL0030
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=User
+PasswordChangeable=TRUE
+PasswordExpires=TRUE
+PasswordRequired=FALSE
+SID=S-1-5-21-3755324728-1573215856-996399667-1000
+SIDType=1
+Status=OK
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO SOFTWARE INSTALADO MSI ########################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+
+InstallDate=20161014
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=13.1.0.1058
+
+
+InstallDate=20161215
+Name=Microsoft .NET Framework 4.6.1
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.6.01055
+
+
+InstallDate=20161014
+Name=Google Toolbar for Internet Explorer
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.0.0
+
+
+InstallDate=20170201
+Name=testo USB Driver 2.8
+RegCompany=
+RegOwner=
+Vendor=Testo AG
+Version=2.8.0
+
+
+InstallDate=20161014
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.1.1.13
+
+
+InstallDate=20161014
+Name=Intel(R) ME UninstallLegacy
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.1.0
+
+
+InstallDate=20161014
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.42.17.0
+
+
+InstallDate=20161014
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20171204
+Name=Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20180605
+Name=Xerox PowerENGAGE
+RegCompany=
+RegOwner=eac
+Vendor=Xerox Inc.
+Version=2.52.0016
+
+
+InstallDate=20161020
+Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180301
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=eac
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20171128
+Name=Extended Asian Language font pack for Adobe Acrobat Reader DC
+RegCompany=
+RegOwner=eac
+Vendor=Adobe Systems Incorporated
+Version=15.007.20033
+
+
+InstallDate=20180225
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=eac
+Vendor=Adobe Systems Incorporated
+Version=18.011.20038
+
+
+InstallDate=20170201
+Name=testo Comfort Software Basic 5.0
+RegCompany=
+RegOwner=
+Vendor=testo AG
+Version=5.0.2643.31923
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20161020
+Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20161014
+Name=ASUS Product Register Program
+RegCompany=
+RegOwner=
+Vendor=ASUSTek Computer Inc.
+Version=1.0.030
+
+
+InstallDate=20161014
+Name=GPUTweakStreaming
+RegCompany=
+RegOwner=
+Vendor=ASUS
+Version=1.0.3.5
+
+
+InstallDate=20161014
+Name=NVIDIA PhysX
+RegCompany=
+RegOwner=
+Vendor=NVIDIA Corporation
+Version=9.13.1220
+
+
+InstallDate=20171115
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.7
+
+
+InstallDate=20161014
+Name=ASUS GPU Tweak
+RegCompany=
+RegOwner=
+Vendor=ASUSTek COMPUTER INC.
+Version=2.6.8.3
+
+
+InstallDate=20180116
+Name=LibreOffice 5.4.4.2
+RegCompany=
+RegOwner=eac
+Vendor=The Document Foundation
+Version=5.4.4.2
+
+
+InstallDate=20171204
+Name=Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20161025
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20180605
+Name=Xerox Scanner Management Utility
+RegCompany=
+RegOwner=
+Vendor=Xerox Corporation
+Version=7.0.52.0
+
+
+InstallDate=20161014
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=11.0.0.1173
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE RECURSOS ####################################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Partilha     Recurso                         Coment rio
+
+-------------------------------------------------------------------------------
+print$       C:\Windows\system32\spool\drivers
+                                             Controladores de impressora       
+C$           C:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+ADMIN$       C:\Windows                      Admin remoto                      
+Users        C:\Users                        
+Brother HL-2045 QUALIDADE
+             USB001                 Spooled  Brother HL-2045                   
+O comando foi conclu¡do com ˆxito.
+
+
+
+InstallDate=20161014
+Name=Intel(R) Rapid Storage Technology
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=13.1.0.1058
+
+
+InstallDate=20161215
+Name=Microsoft .NET Framework 4.6.1
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.6.01055
+
+
+InstallDate=20161014
+Name=Google Toolbar for Internet Explorer
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.0.0
+
+
+InstallDate=20170201
+Name=testo USB Driver 2.8
+RegCompany=
+RegOwner=
+Vendor=Testo AG
+Version=2.8.0
+
+
+InstallDate=20161014
+Name=Intel(R) Chipset Device Software
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=10.1.1.13
+
+
+InstallDate=20161014
+Name=Intel(R) ME UninstallLegacy
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.1.0
+
+
+InstallDate=20161014
+Name=Intel© Trusted Connect Service Client
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.42.17.0
+
+
+InstallDate=20161014
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=1.0.0.0
+
+
+InstallDate=20171204
+Name=Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20180605
+Name=Xerox PowerENGAGE
+RegCompany=
+RegOwner=eac
+Vendor=Xerox Inc.
+Version=2.52.0016
+
+
+InstallDate=20161020
+Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180301
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=eac
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20171128
+Name=Extended Asian Language font pack for Adobe Acrobat Reader DC
+RegCompany=
+RegOwner=eac
+Vendor=Adobe Systems Incorporated
+Version=15.007.20033
+
+
+InstallDate=20180225
+Name=Adobe Acrobat Reader DC - Portuguˆs
+RegCompany=
+RegOwner=eac
+Vendor=Adobe Systems Incorporated
+Version=18.011.20038
+
+
+InstallDate=20170201
+Name=testo Comfort Software Basic 5.0
+RegCompany=
+RegOwner=
+Vendor=testo AG
+Version=5.0.2643.31923
+
+
+InstallDate=20170112
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20161020
+Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20161014
+Name=ASUS Product Register Program
+RegCompany=
+RegOwner=
+Vendor=ASUSTek Computer Inc.
+Version=1.0.030
+
+
+InstallDate=20161014
+Name=GPUTweakStreaming
+RegCompany=
+RegOwner=
+Vendor=ASUS
+Version=1.0.3.5
+
+
+InstallDate=20161014
+Name=NVIDIA PhysX
+RegCompany=
+RegOwner=
+Vendor=NVIDIA Corporation
+Version=9.13.1220
+
+
+InstallDate=20171115
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.7
+
+
+InstallDate=20161014
+Name=ASUS GPU Tweak
+RegCompany=
+RegOwner=
+Vendor=ASUSTek COMPUTER INC.
+Version=2.6.8.3
+
+
+InstallDate=20180116
+Name=LibreOffice 5.4.4.2
+RegCompany=
+RegOwner=eac
+Vendor=The Document Foundation
+Version=5.4.4.2
+
+
+InstallDate=20171204
+Name=Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20161025
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20180605
+Name=Xerox Scanner Management Utility
+RegCompany=
+RegOwner=
+Vendor=Xerox Corporation
+Version=7.0.52.0
+
+
+InstallDate=20161014
+Name=Intel(R) Management Engine Components
+RegCompany=
+RegOwner=
+Vendor=Intel Corporation
+Version=11.0.0.1173
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+INFORMACAO DE CREDENCIAIS DO WINDOWS  ####################################################################   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
+
+Credenciais armazenadas actualmente:
+
+    Destino: Domain:target=192.168.1.253
+    Tipo: Palavra-passe de dom¡nio
+    Utilizador: nas-kristaltek\produto_acabado
+    
+    Destino: Domain:target=nas-kristaltek
+    Tipo: Palavra-passe de dom¡nio
+    Utilizador: produto_acabado
+
+
+PS C:\Users\eac\Desktop\AUDITORIA> Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* |  Selec
+t-Object DisplayName, DisplayVersion, Publisher, InstallDate
+
+DisplayName                   DisplayVersion                Publisher                     InstallDate
+-----------                   --------------                ---------                     -----------
+Pacote de controladores do... 11/15/2009 5.1.2600.0         Bluegiga
+Windows Driver Package - l... 01/17/2012 1.2.6.0            libusb-win32
+Pacote de controladores do... 01/26/2012 1.0.0.0            Mitutoyo Corporation
+Pacote de controladores do... 01/26/2012 1.0.0.0            Mitutoyo Corporation
+
+Pacote de controladores do... 01/26/2012 1.0.0.0            Mitutoyo Corporation
+Pacote de controladores do... 01/26/2012 1.0.0.0            Mitutoyo Corporation
+Pacote de controladores do... 01/28/2010                    libusb 1.0
+
+Intel(R) Chipset Device So... 10.1.1.13                     Intel Corporation             20161014
+testo Comfort Software Bas... 5.0.2643.31923                testo AG                      20170201
+Intel(R) Management Engine... 11.0.0.1173                   Intel Corporation
+LibreOffice 5.4.4.2           5.4.4.2                       The Document Foundation       20180116
+Intel(R) ME UninstallLegacy   1.0.1.0                       Intel Corporation             20161014
+Intel(R) Rapid Storage Tec... 13.1.0.1058                   Intel Corporation
+Microsoft Visual C++ 2008 ... 9.0.30729.6161                Microsoft Corporation         20170112
+Intel(R) Management Engine... 11.0.0.1173                   Intel Corporation             20161014
+Intel® Trusted Connect Ser... 1.42.17.0                     Intel Corporation             20161014
+Xerox Scanner Management U... 7.0.52.0                      Xerox Corporation             20180605
+testo USB Driver 2.8          2.8.0                         Testo AG                      20170201
+Microsoft Visual C++ 2013 ... 12.0.21005                    Microsoft Corporation         20161020
+Microsoft .NET Framework 4... 4.6.01055                     Microsoft Corporation
+Microsoft Visual C++ 2013 ... 12.0.21005                    Microsoft Corporation         20161020
+NVIDIA O controlador de 3D... 341.98                        NVIDIA Corporation            20161020
+Painel de controlo da NVID... 341.98                        NVIDIA Corporation            20161020
+NVIDIA Controlador gráfico... 341.98                        NVIDIA Corporation            20161020
+NVIDIA GeForce Experience ... 2.11.4.0                      NVIDIA Corporation            20161020
+NVIDIA Controlador 3D Visi... 340.50                        NVIDIA Corporation            20161020
+NVIDIA O software do siste... 9.13.1220                     NVIDIA Corporation            20161014
+Actualizações da NVIDIA 2.... 2.11.4.0                      NVIDIA Corporation            20161020
+NVIDIA LED Visualizer 1.0     1.0                           NVIDIA Corporation            20161020
+SHIELD Streaming              7.1.0280                      NVIDIA Corporation            20161020
+NVIDIA GeForce Experience ... 2.11.4.0                      NVIDIA Corporation            20161020
+NVIDIA O controlador de HD... 1.3.30.1                      NVIDIA Corporation            20161020
+NVIDIA Install Application    2.1002.197.1706               NVIDIA Corporation            20161020
+NVIDIA Network Service        2.4                           NVIDIA Corporation            20161020
+NVIDIA ShadowPlay 2.11.4.0    2.11.4.0                      NVIDIA Corporation            20161020
+SHIELD Wireless Controller... 2.11.4.0                      NVIDIA Corporation            20161020
+NVIDIA Update Core            2.11.4.0                      NVIDIA Corporation            20161020
+NVIDIA Virtual Audio 1.2.40   1.2.40                        NVIDIA Corporation            20161020
+Microsoft .NET Framework 4... 4.6.01055                     Microsoft Corporation         20161215
+Intel(R) Management Engine... 1.0.0.0                       Intel Corporation             20161014
+Intel(R) Rapid Storage Tec... 13.1.0.1058                   Intel Corporation             20161014
+
+
+PS C:\Users\eac\Desktop\AUDITORIA>
+
+
+
+    
+ 
