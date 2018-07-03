@@ -1,3 +1,1613 @@
+******************************** ORGANIZACAO ************************************** 
+ 
+********************************************************************************** 
+ 
+######################### DATA############################################################# 
+ 
+ktl0014\desenho
+ 
+_______________________________________ 
+ 
+24/05/2018 10:41:02 
+ 
+################ INFORMACAO DO SISTEMA ################################################### 
+ 
+
+Host Name:                 KTL0014
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.17134 N/A Build 17134
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00330-80000-00000-AA729
+Original Install Date:     14/05/2018, 14:08:40
+System Boot Time:          18/05/2018, 16:03:22
+System Manufacturer:       Gigabyte Technology Co., Ltd.
+System Model:              G41M-Combo
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 23 Stepping 10 GenuineIntel ~2500 Mhz
+BIOS Version:              Award Software International, Inc. FB, 25/10/2012
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             pt;Portuguös (Portugal)
+Input Locale:              pt;Portuguös (Portugal)
+Time Zone:                 (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+Total Physical Memory:     4Ø060 MB
+Available Physical Memory: 1Ø563 MB
+Virtual Memory: Max Size:  4Ø764 MB
+Virtual Memory: Available: 1Ø875 MB
+Virtual Memory: In Use:    2Ø889 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\KTL0014
+Hotfix(s):                 2 Hotfix(s) Installed.
+                           [01]: KB4103729
+                           [02]: KB4103721
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Comutador Prede)
+                                 Status:          Media disconnected
+                           [02]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Comutador Prede) 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     255.255.255.255
+                                 IP address(es)
+                                 [01]: 172.26.57.225
+                                 [02]: fe80::11cf:c1a:d46f:56b6
+                           [03]: Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.1.40
+                           [04]: Microsoft KM-TEST Loopback Adapter
+                                 Connection Name: Npcap Loopback Adapter
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     255.255.255.255
+                                 IP address(es)
+                                 [01]: fe80::f95c:b0be:a844:548a
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: No
+                           Data Execution Prevention Available: Yes
+ 
+#################### VERSAO DA BIOS ####################################################### 
+ 
+
+
+SMBIOSBIOSVersion=FB
+
+
+ 
+ #################### INFORMACAO IP ######################################################  
+ 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : KTL0014
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter vEthernet (Comutador Prede):
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : C6-15-D9-99-D5-33
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Npcap Loopback Adapter:
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Npcap Loopback Adapter
+   Physical Address. . . . . . . . . : 02-00-4C-4F-4F-50
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f95c:b0be:a844:548a%47(Preferred) 
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 788660300
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-00-65-DA-FC-AA-14-80-23-7C
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+   Physical Address. . . . . . . . . : FC-AA-14-80-23-7C
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.1.40(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.250
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter vEthernet (Comutador Prede) 2:
+
+   Connection-specific DNS Suffix  . : 
+   Deion . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter #2
+   Physical Address. . . . . . . . . : C6-15-D9-E5-9B-A7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::11cf:c1a:d46f:56b6%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.26.57.225(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 167777629
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-00-65-DA-FC-AA-14-80-23-7C
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+ 
+################## INFORMACAO DISCO #####################################################  
+ 
+
+
+Caption=C:
+DriveType=3
+FreeSpace=17567723520
+Size=159559155712
+
+
+Caption=D:
+DriveType=5
+FreeSpace=
+Size=
+
+
+Caption=E:
+DriveType=2
+FreeSpace=
+Size=
+
+
+Caption=F:
+DriveType=2
+FreeSpace=
+Size=
+
+
+Caption=G:
+DriveType=2
+FreeSpace=
+Size=
+
+
+Caption=H:
+DriveType=5
+FreeSpace=0
+Size=3113877504
+
+
+Caption=Z:
+DriveType=4
+FreeSpace=6733060317184
+Size=7929882996736
+
+
+ 
+
+
+Caption=Generic 2.0 Reader    -2 USB Device
+DeviceID=\\.\PHYSICALDRIVE3
+Model=Generic 2.0 Reader    -2 USB Device
+Partitions=0
+Size=
+
+
+Caption=Generic 2.0 Reader    -0 USB Device
+DeviceID=\\.\PHYSICALDRIVE1
+Model=Generic 2.0 Reader    -0 USB Device
+Partitions=0
+Size=
+
+
+Caption=WDC WD1600JS-00MHB0 ATA Device
+DeviceID=\\.\PHYSICALDRIVE0
+Model=WDC WD1600JS-00MHB0 ATA Device
+Partitions=2
+Size=160039272960
+
+
+Caption=Generic 2.0 Reader    -1 USB Device
+DeviceID=\\.\PHYSICALDRIVE2
+Model=Generic 2.0 Reader    -1 USB Device
+Partitions=0
+Size=
+
+
+ 
+
+
+Caption=Generic 2.0 Reader    -2 USB Device
+
+
+Caption=Generic 2.0 Reader    -0 USB Device
+
+
+Caption=WDC WD1600JS-00MHB0 ATA Device
+
+
+Caption=Generic 2.0 Reader    -1 USB Device
+
+
+ 
+################## INFORMACAO FABRICO ####################################################  
+ 
+
+
+Manufacturer=Gigabyte Technology Co., Ltd.
+Product=G41M-Combo
+SerialNumber= 
+Version=x.x
+
+
+ 
+################# INFORMACAO PROCESSADOR ###############################################  
+ 
+
+
+Name=Intel(R) Core(TM)2 Quad CPU    Q8300  @ 2.50GHz
+
+
+ 
+
+
+MaxClockSpeed=2500
+Name=Intel(R) Core(TM)2 Quad CPU    Q8300  @ 2.50GHz
+NumberOfCores=4
+Status=OK
+
+
+ 
+################# UTILIZADOR ATUAL ###############################################  
+ 
+
+USER INFORMATION
+----------------
+
+User Name       SID                                         
+=============== ============================================
+ktl0014\desenho S-1-5-21-2290660106-313683209-632521300-1005
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                                 Type             SID          Attributes                                        
+========================================================== ================ ============ ==================================================
+Todos                                                      Well-known group S-1-1-0      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local e membro do grupo Administradores Well-known group S-1-5-114    Group used for deny only                          
+BUILTIN\Administradores                                    Alias            S-1-5-32-544 Group used for deny only                          
+BUILTIN\Utilizadores                                       Alias            S-1-5-32-545 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                                   Well-known group S-1-5-4      Mandatory group, Enabled by default, Enabled group
+IN…CIO DE SESS‚O NA CONSOLA                                Well-known group S-1-2-1      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Utilizadores Autenticados                     Well-known group S-1-5-11     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Esta organizaà®o                              Well-known group S-1-5-15     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Conta local                                   Well-known group S-1-5-113    Mandatory group, Enabled by default, Enabled group
+LOCAL                                                      Well-known group S-1-2-0      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Autenticaà®o NTLM                             Well-known group S-1-5-64-10  Mandatory group, Enabled by default, Enabled group
+Etiqueta Obrigat¢ria\NÁvel Obrigat¢rio Mâdio               Label            S-1-16-8192                                                    
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Deion                                   State   
+============================= ============================================= ========
+SeShutdownPrivilege           Encerrar o sistema                            Disabled
+SeChangeNotifyPrivilege       Ignorar verificaà®o transversal               Enabled 
+SeUndockPrivilege             Remover computador da estaà®o de ancoragem    Disabled
+SeIncreaseWorkingSetPrivilege Aumentar um conjunto de trabalho de processos Disabled
+SeTimeZonePrivilege           Alterar o fuso horÊrio                        Disabled
+
+ 
+
+C:\Users\Desenho\Desktop\AUDITORIA>net user desenho  
+Nome do utilizador                            Desenho
+Nome completo                                 Informatica
+ComentÊrio                                    
+ComentÊrio do utilizador                      
+C¢digo de paÁs/regi®o                         000 (Predefinià®o do sistema)
+Conta ativa                                   Sim
+Conta expira                                  Nunca
+
+Žltima definià®o da palavra-passe             07/07/2017 08:48:44
+A palavra-passe expira                        Nunca
+Palavra-passe alterÊvel                       07/07/2017 08:48:44
+Palavra-passe necessÊria                      N®o
+O utilizador pode alterar a palavra-passe     Sim
+
+EstaàŠes de trabalho permitidas               Todos
+ de inÁcio de sess®o                    
+Perfil de utilizador                          
+Diret¢rio de raiz                             
+Žltimo inÁcio de sess®o                       18/05/2018 16:07:03
+
+HorÊrio de inÁcio de sess®o permitido         Todos
+
+AssociaàŠes a Grupos Locais                   *Administradores      
+                                              *Utilizadores         
+AssociaàŠes a Grupos globais                  *Nenhum               
+O comando foi concluÁdo com öxito.
+
+ 
+ 
+
+Aliases para \\KTL0014
+
+-------------------------------------------------------------------------------
+*Administradores
+*Administradores de Hyper-V
+*Convidados
+*Grupo de Contas Geridas pelo Sistema
+*IIS_IUSRS
+*Leitores de Registos de Eventos
+*Operadores CriptogrÊficos
+*Operadores de Assistöncia de Controlo de Acesso
+*Operadores de configuraà®o de rede
+*Operadores de c¢pia de seguranàa
+*Replicador
+*SQLServer2005SQLBrowserUser$KTL0014
+*Utilizadores
+*Utilizadores avanàados
+*Utilizadores COM DistribuÁdos
+*Utilizadores de Gest®o Remota
+*Utilizadores do ambiente de trabalho remoto
+*Utilizadores do monitor de desempenho
+*Utilizadores do registo de desempenho
+O comando foi concluÁdo com öxito.
+
+ 
+Nome de alias     Administradores
+ComentÊrio        Os administradores töm acesso completo e sem restriàŠes ao computador/domÁnio
+
+Membros
+
+-------------------------------------------------------------------------------
+admin
+Administrador
+Desenho
+O comando foi concluÁdo com öxito.
+
+ 
+ 
+################# INFORMACAO UTILIZADORES ###############################################  
+ 
+
+
+AccountType=512
+Caption=KTL0014\admin
+Deion=
+Disabled=FALSE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=admin
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2290660106-313683209-632521300-1001
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0014\Administrador
+Deion=Conta incorporada para a administraà®o do computador/domÁnio
+Disabled=TRUE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Administrador
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=TRUE
+SID=S-1-5-21-2290660106-313683209-632521300-500
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0014\antonio
+Deion=
+Disabled=FALSE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=antonio
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2290660106-313683209-632521300-1007
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0014\Convidado
+Deion=Conta incorporada para acesso como convidado ao computador/domÁnio
+Disabled=TRUE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Convidado
+PasswordChangeable=FALSE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2290660106-313683209-632521300-501
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0014\DefaultAccount
+Deion=Conta de utilizador gerida pelo sistema.
+Disabled=TRUE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=DefaultAccount
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2290660106-313683209-632521300-503
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0014\defaultuser0
+Deion=
+Disabled=TRUE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=defaultuser0
+PasswordChangeable=TRUE
+PasswordExpires=TRUE
+PasswordRequired=TRUE
+SID=S-1-5-21-2290660106-313683209-632521300-1000
+SIDType=1
+Status=Degraded
+
+
+AccountType=512
+Caption=KTL0014\Desenho
+Deion=
+Disabled=FALSE
+Domain=KTL0014
+FullName=Informatica
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=Desenho
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2290660106-313683209-632521300-1005
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0014\User
+Deion=
+Disabled=FALSE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=User
+PasswordChangeable=TRUE
+PasswordExpires=FALSE
+PasswordRequired=FALSE
+SID=S-1-5-21-2290660106-313683209-632521300-1002
+SIDType=1
+Status=OK
+
+
+AccountType=512
+Caption=KTL0014\WDAGUtilityAccount
+Deion=Uma conta de utilizador gerida e utilizada pelo sistema para cenÊrios do Windows Defender Application Guard.
+Disabled=TRUE
+Domain=KTL0014
+FullName=
+InstallDate=
+LocalAccount=TRUE
+Lockout=FALSE
+Name=WDAGUtilityAccount
+PasswordChangeable=TRUE
+PasswordExpires=TRUE
+PasswordRequired=TRUE
+SID=S-1-5-21-2290660106-313683209-632521300-504
+SIDType=1
+Status=Degraded
+
+
+ 
+################# INFORMACAO SOFTWARE INSTALADO ###############################################  
+ 
+
+
+InstallDate=20180201
+Name=Microsoft Chart Controls for Microsoft .NET Framework 3.5 (KB2500170)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=3.5.30730.0
+
+
+InstallDate=20170717
+Name=232Analyzer
+RegCompany=
+RegOwner=
+Vendor=CommFront
+Version=5.6.1.0
+
+
+InstallDate=20170809
+Name=Microsoft SQL Server 2014 Setup (English)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4237.0
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20171009
+Name=paint.net
+RegCompany=
+RegOwner=
+Vendor=dotPDN LLC
+Version=4.0.19
+
+
+InstallDate=20170828
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180227
+Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20180227
+Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170724
+Name=Microsoft SQL Server 2012 Native Client 
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.2100.60
+
+
+InstallDate=20180227
+Name=CX-Server RT
+RegCompany=
+RegOwner=
+Vendor=OMRON Corporation
+Version=5.0.22.3
+
+
+InstallDate=20171009
+Name=LibreOffice 5.4.2.2
+RegCompany=
+RegOwner=
+Vendor=The Document Foundation
+Version=5.4.2.2
+
+
+InstallDate=20180227
+Name=Palette
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.10.0000
+
+
+InstallDate=20180227
+Name=Smart Active Parts
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=3.24.0000
+
+
+InstallDate=20180227
+Name=Communications Middleware
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.33.0001
+
+
+InstallDate=20170809
+Name=Microsoft ODBC Driver 11 for SQL Server
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4237.0
+
+
+InstallDate=20170116
+Name=Advanced IP Scanner 2.4
+RegCompany=
+RegOwner=
+Vendor=Famatech
+Version=2.4.3021
+
+
+InstallDate=20170721
+Name=Fronius Datalogger Finder
+RegCompany=
+RegOwner=
+Vendor=Fronius International
+Version=1.00.0001
+
+
+InstallDate=20170724
+Name=Microsoft SQL Server 2008 Setup Support Files 
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.3.5500.0
+
+
+InstallDate=20170126
+Name=Java 8 Update 121
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=8.0.1210.13
+
+
+InstallDate=20170926
+Name=WD Security
+RegCompany=
+RegOwner=
+Vendor=Western Digital Technologies, Inc.
+Version=1.4.0.92
+
+
+InstallDate=20170724
+Name=Microsoft SQL Server 2014 Transact-SQL Dom 
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4100.1
+
+
+InstallDate=20170724
+Name=Microsoft VSS Writer for SQL Server 2014
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4100.1
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20180227
+Name=OMRON IOLink IODD Files Setup
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.110.0002
+
+
+InstallDate=20170724
+Name=SQL Server Browser for SQL Server 2014
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4100.1
+
+
+InstallDate=20180201
+Name=MSXML 4.0 SP2 Parser and SDK
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.20.9818.0
+
+
+InstallDate=20171114
+Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170105
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180201
+Name=Microsoft Visual Basic PowerPacks 2.0
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=2.0.0
+
+
+InstallDate=20180226
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20171204
+Name=Extended Asian Language font pack for Adobe Acrobat Reader DC
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=15.007.20033
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguös
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20180227
+Name=OMRON Automation Software Upgrade Utility
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.3.0.10
+
+
+InstallDate=20170105
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20171114
+Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20180227
+Name=CX-Server Driver Mgt Tool
+RegCompany=
+RegOwner=
+Vendor=Omron
+Version=5.0.22.3
+
+
+InstallDate=20180227
+Name=CX-Server Generic FINS Ethernet Driver
+RegCompany=
+RegOwner=
+Vendor=Omron Electronics Corporation
+Version=1.1.1.0
+
+
+InstallDate=20180227
+Name=Sysmac Studio
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.20.0006
+
+
+InstallDate=20170421
+Name=Sentinel Runtime
+RegCompany=
+RegOwner=
+Vendor=Gemalto
+Version=7.54.1.67019
+
+
+InstallDate=20180227
+Name=Sysmac Studio
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.20.0006
+
+
+InstallDate=20180516
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20180227
+Name=IOLinkInterpreterDTMSetup
+RegCompany=
+RegOwner=
+Vendor=IO-Link
+Version=3.5.0
+
+
+InstallDate=20180201
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20180227
+Name=TJ1 Device Driver
+RegCompany=
+RegOwner=
+Vendor=Omron
+Version=1.6.2.0
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20170725
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61001
+
+
+InstallDate=20180201
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20170926
+Name=WD Drive Utilities
+RegCompany=
+RegOwner=
+Vendor=Western Digital Technologies, Inc.
+Version=1.4.0.92
+
+
+InstallDate=20180227
+Name=Microsoft SQL Server Compact 3.5 SP2 ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=3.5.8080.0
+
+
+InstallDate=20180227
+Name=CX-Server Common Driver
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=5.0.22.3
+
+
+InstallDate=20170926
+Name=WD Backup
+RegCompany=
+RegOwner=
+Vendor=Western Digital Technologies, Inc
+Version=1.6.6060.18987
+
+
+InstallDate=20180227
+Name=CX Common Tools
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.20.0003
+
+
+InstallDate=20180201
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20170126
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.121.13
+
+
+ 
+################# INFORMACAO DE RECURSOS  ###############################################  
+ 
+
+Partilha     Recurso                         ComentÊrio
+
+-------------------------------------------------------------------------------
+C$           C:\                             Partilha predefinida              
+IPC$                                         IPC remoto                        
+print$       C:\WINDOWS\system32\spool\drivers
+                                             Controladores de impressora       
+ADMIN$       C:\WINDOWS                      Admin remoto                      
+Users        C:\Users                        
+O comando foi concluÁdo com öxito.
+
+
+
+InstallDate=20180201
+Name=Microsoft Chart Controls for Microsoft .NET Framework 3.5 (KB2500170)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=3.5.30730.0
+
+
+InstallDate=20170717
+Name=232Analyzer
+RegCompany=
+RegOwner=
+Vendor=CommFront
+Version=5.6.1.0
+
+
+InstallDate=20170809
+Name=Microsoft SQL Server 2014 Setup (English)
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4237.0
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20171009
+Name=paint.net
+RegCompany=
+RegOwner=
+Vendor=dotPDN LLC
+Version=4.0.19
+
+
+InstallDate=20170828
+Name=Kaspersky Endpoint Security 10 for Windows
+RegCompany=
+RegOwner=
+Vendor=Kaspersky Lab
+Version=10.2.6.3733
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.0.40219
+
+
+InstallDate=20180227
+Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20180227
+Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170724
+Name=Microsoft SQL Server 2012 Native Client 
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=11.0.2100.60
+
+
+InstallDate=20180227
+Name=CX-Server RT
+RegCompany=
+RegOwner=
+Vendor=OMRON Corporation
+Version=5.0.22.3
+
+
+InstallDate=20171009
+Name=LibreOffice 5.4.2.2
+RegCompany=
+RegOwner=
+Vendor=The Document Foundation
+Version=5.4.2.2
+
+
+InstallDate=20180227
+Name=Palette
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.10.0000
+
+
+InstallDate=20180227
+Name=Smart Active Parts
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=3.24.0000
+
+
+InstallDate=20180227
+Name=Communications Middleware
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.33.0001
+
+
+InstallDate=20170809
+Name=Microsoft ODBC Driver 11 for SQL Server
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4237.0
+
+
+InstallDate=20170116
+Name=Advanced IP Scanner 2.4
+RegCompany=
+RegOwner=
+Vendor=Famatech
+Version=2.4.3021
+
+
+InstallDate=20170721
+Name=Fronius Datalogger Finder
+RegCompany=
+RegOwner=
+Vendor=Fronius International
+Version=1.00.0001
+
+
+InstallDate=20170724
+Name=Microsoft SQL Server 2008 Setup Support Files 
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=10.3.5500.0
+
+
+InstallDate=20170126
+Name=Java 8 Update 121
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=8.0.1210.13
+
+
+InstallDate=20170926
+Name=WD Security
+RegCompany=
+RegOwner=
+Vendor=Western Digital Technologies, Inc.
+Version=1.4.0.92
+
+
+InstallDate=20170724
+Name=Microsoft SQL Server 2014 Transact-SQL Dom 
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4100.1
+
+
+InstallDate=20170724
+Name=Microsoft VSS Writer for SQL Server 2014
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4100.1
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20180227
+Name=OMRON IOLink IODD Files Setup
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.110.0002
+
+
+InstallDate=20170724
+Name=SQL Server Browser for SQL Server 2014
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.1.4100.1
+
+
+InstallDate=20180201
+Name=MSXML 4.0 SP2 Parser and SDK
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=4.20.9818.0
+
+
+InstallDate=20171114
+Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20170105
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20180201
+Name=Microsoft Visual Basic PowerPacks 2.0
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=2.0.0
+
+
+InstallDate=20180226
+Name=Adobe Refresh Manager
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=1.8.0
+
+
+InstallDate=20171204
+Name=Extended Asian Language font pack for Adobe Acrobat Reader DC
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=15.007.20033
+
+
+InstallDate=20180517
+Name=Adobe Acrobat Reader DC - Portuguös
+RegCompany=
+RegOwner=
+Vendor=Adobe Systems Incorporated
+Version=18.011.20040
+
+
+InstallDate=20180227
+Name=OMRON Automation Software Upgrade Utility
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.3.0.10
+
+
+InstallDate=20170105
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729.6161
+
+
+InstallDate=20171114
+Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=12.0.21005
+
+
+InstallDate=20180227
+Name=CX-Server Driver Mgt Tool
+RegCompany=
+RegOwner=
+Vendor=Omron
+Version=5.0.22.3
+
+
+InstallDate=20180227
+Name=CX-Server Generic FINS Ethernet Driver
+RegCompany=
+RegOwner=
+Vendor=Omron Electronics Corporation
+Version=1.1.1.0
+
+
+InstallDate=20180227
+Name=Sysmac Studio
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.20.0006
+
+
+InstallDate=20170421
+Name=Sentinel Runtime
+RegCompany=
+RegOwner=
+Vendor=Gemalto
+Version=7.54.1.67019
+
+
+InstallDate=20180227
+Name=Sysmac Studio
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.20.0006
+
+
+InstallDate=20180516
+Name=Google Update Helper
+RegCompany=
+RegOwner=
+Vendor=Google Inc.
+Version=1.3.33.17
+
+
+InstallDate=20180227
+Name=IOLinkInterpreterDTMSetup
+RegCompany=
+RegOwner=
+Vendor=IO-Link
+Version=3.5.0
+
+
+InstallDate=20180201
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20180227
+Name=TJ1 Device Driver
+RegCompany=
+RegOwner=
+Vendor=Omron
+Version=1.6.2.0
+
+
+InstallDate=20170406
+Name=Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=14.0.23026
+
+
+InstallDate=20170725
+Name=Microsoft Visual C++ 2005 Redistributable
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=8.0.61001
+
+
+InstallDate=20180201
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20170926
+Name=WD Drive Utilities
+RegCompany=
+RegOwner=
+Vendor=Western Digital Technologies, Inc.
+Version=1.4.0.92
+
+
+InstallDate=20180227
+Name=Microsoft SQL Server Compact 3.5 SP2 ENU
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=3.5.8080.0
+
+
+InstallDate=20180227
+Name=CX-Server Common Driver
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=5.0.22.3
+
+
+InstallDate=20170926
+Name=WD Backup
+RegCompany=
+RegOwner=
+Vendor=Western Digital Technologies, Inc
+Version=1.6.6060.18987
+
+
+InstallDate=20180227
+Name=CX Common Tools
+RegCompany=
+RegOwner=
+Vendor=OMRON
+Version=1.20.0003
+
+
+InstallDate=20180201
+Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+RegCompany=
+RegOwner=
+Vendor=Microsoft Corporation
+Version=9.0.30729
+
+
+InstallDate=20170126
+Name=Java Auto Updater
+RegCompany=
+RegOwner=
+Vendor=Oracle Corporation
+Version=2.8.121.13
+
+
+ 
+############### GESTAO DE CREDENCIAIS ######################################  
+ 
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Domain Extended Credentials
+    User: 02begezaledx
+    Saved for this logon only
+    
+    Target: Domain:target=TERMSRV/192.168.1.126
+    Type: Domain Password
+    User: KTL0014\admin
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02begezaledx
+    Local machine persistence
+    
+    Target: Domain:target=KTL0018
+    Type: Domain Password
+    User: admin
+    
+    Target: Domain:target=nas-kristaltek
+    Type: Domain Password
+    User: informatica
+    
+ 
+############### APLICATICOES E BROWSERS ######################################  
+# # # # # # # # # # # # # # #   A P L I C A T I C O E S   E   B R O W S E R S   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+ 
+  
+############### APLICATICOES E BROWSERS ######################################  
+
+DisplayName                                                           DisplayVersion  Publisher                        
+-----------                                                           --------------  ---------                        
+Aladdin Monitor 1.4.2                                                                                                  
+                                                                                                                       
+                                                                                                                       
+FreeFileSync 9.6                                                      9.6             FreeFileSync.org                 
+Google Chrome                                                         66.0.3359.181   Google Inc.                      
+TJ1 Device Driver                                                     1.6.2.0         Omron                            
+                                                                                                                       
+OMRON Automation Software Upgrade Utility                             1.3.0.10        OMRON                            
+CX Common Tools                                                       1.20.0003       OMRON                            
+Palette                                                               1.10.0000       OMRON                            
+Sysmac Studio                                                         1.20.0006       OMRON                            
+Smart Active Parts                                                    3.24.0000       OMRON                            
+Communications Middleware                                             1.33.0001       OMRON                            
+CX-Server Generic FINS Ethernet Driver                                1.1.1.0         Omron Electronics Corporation    
+CX-Server                                                             5.0.22.3        OMRON Corporation                
+CX-Server Driver Management Tool                                      5.0.22.3        Omron                            
+Service Pack 1 for SQL Server 2014 (KB3058865)                        12.1.4100.1     Microsoft Corporation            
+Configurador electr¢nico                                                                                               
+Mozilla Thunderbird 52.7.0 (x86 pt-PT)                                52.7.0          Mozilla                          
+Mozilla Maintenance Service                                           52.7.0          Mozilla                          
+Nmap 7.70                                                             7.70            Nmap Project                     
+Npcap 0.99-r2                                                         0.99-r2         Nmap Project                     
+QElectroTech (remove only)                                                                                             
+Ubiquiti UniFi (remove only)                                                                                           
+Visual Subst                                                          1.0.6           NTWind Software                  
+VLC media player                                                      2.2.6           VideoLAN                         
+                                                                                                                       
+WinPcap 4.1.3                                                         4.1.0.2980      Riverbed Technology, Inc.        
+WinRAR 5.31 (32-bit)                                                  5.31.0          win.rar GmbH                     
+TJ1 Device Driver                                                     1.6.2.0         Omron                            
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501          12.0.30501.0    Microsoft Corporation            
+WD Drive Utilities                                                    1.4.0.92        Western Digital Technologies, ...
+IOLinkInterpreterDTMSetup                                             3.5.0           IO-Link                          
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005            12.0.21005      Microsoft Corporation            
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501          12.0.30501.0    Microsoft Corporation            
+                                                                                                                       
+CX-Server Common Driver                                               5.0.22.3        OMRON                            
+Leuze electronic BPS Configuration Tool                               V1.19.0         Leuze electronic GmbH + Co. KG   
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+FANUC Robotics Robot Neighborhood                                     8.1314.04.05                                     
+V-SFTV6_Driver                                                        6.0.0.0         Hakko Electronics Co., Ltd.      
+Java 8 Update 121                                                     8.0.1210.13     Oracle Corporation               
+FANUC Robotics Virtual Robot Controller V7.20                         7.2033.45.02                                     
+V-SFTV6_Parts                                                         6.0.19.0        Hakko Electronics Co., Ltd.      
+Sentinel Runtime                                                      7.54.1.67019    Gemalto                          
+OMRON Automation Software Upgrade Utility                             1.3.0.10        OMRON                            
+SQL Server Browser for SQL Server 2014                                12.1.4100.1     Microsoft Corporation            
+FANUC Robotics Vision Controls V8                                     8.1314.04.02    FANUC CORPORATION / FANUC Robo...
+OMRON IOLink IODD Files Setup                                         1.110.0002      OMRON                            
+Microsoft SQL Server Compact 3.5 SP2 ENU                              3.5.8080.0      Microsoft Corporation            
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729             9.0.30729       Microsoft Corporation            
+Microsoft Chart Controls for Microsoft .NET Framework 3.5 (KB2500170) 3.5.30730.0     Microsoft Corporation            
+FANUC Robotics Virtual Robot Controller V7.50                         7.50122.23.08                                    
+WD Backup                                                             1.6.6060.18987  Western Digital Technologies, ...
+CX Common Tools                                                       1.20.0003       OMRON                            
+Java Auto Updater                                                     2.8.121.13      Oracle Corporation               
+FANUC Robotics Virtual Robot Controller V7.70                         7.7077.36.07                                     
+Advanced IP Scanner 2.4                                               2.4.3021        Famatech                         
+FANUC Robotics Vision PC Controls V7.70                               7.7077.36.04    FANUC CORPORATION / FANUC Robo...
+Palette                                                               1.10.0000       OMRON                            
+LadderComOp                                                           2.1.0.0         Hakko Electronics Co., Ltd.      
+Google Update Helper                                                  1.3.33.17       Google Inc.                      
+Sysmac Studio                                                         1.20.0006       OMRON                            
+Fronius Datalogger Finder                                             1.00.0001       Fronius International            
+Microsoft Visual C++ 2005 Redistributable                             8.0.61001       Microsoft Corporation            
+MSXML 4.0 SP2 Parser and SDK                                          4.20.9818.0     Microsoft Corporation            
+DuckDns version 1.0.5                                                 1.0.5           ETX Software Inc.                
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026          14.0.23026.0    Microsoft Corporation            
+Smart Active Parts                                                    3.24.0000       OMRON                            
+Kaspersky Endpoint Security 10 for Windows                            10.2.6.3733     Kaspersky Lab                    
+WD Drive Utilities                                                    1.4.0.92        Western Digital Technologies, ...
+Communications Middleware                                             1.33.0001       OMRON                            
+FANUC Robotics Robot Server                                           8.1314.04.05                                     
+Sysmac Studio                                                         1.20.0006       OMRON                            
+232Analyzer                                                           5.6.1.0         CommFront                        
+V-SFTV6_Model                                                         6.0.21.0        Hakko Electronics Co., Ltd.      
+Microsoft SQL Server 2008 Setup Support Files                         10.3.5500.0     Microsoft Corporation            
+WD Backup                                                             1.6.6060.18987  Western Digital Technologies, Inc
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17          9.0.30729       Microsoft Corporation            
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161        9.0.30729.6161  Microsoft Corporation            
+FANUC ROBOGUIDE                                                       V8.1079 (Rev.E) FANUC Robotics America, Inc.     
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026            14.0.23026      Microsoft Corporation            
+WD Security                                                           1.4.0.92        Western Digital Technologies, ...
+CX-Server Generic FINS Ethernet Driver                                1.1.1.0         Omron Electronics Corporation    
+V-SFTV6_System                                                        6.0.21.0        Hakko Electronics Co., Ltd.      
+Adobe Refresh Manager                                                 1.8.0           Adobe Systems Incorporated       
+Adobe Acrobat Reader DC - Portuguös                                   18.011.20040    Adobe Systems Incorporated       
+Extended Asian Language font pack for Adobe Acrobat Reader DC         15.007.20033    Adobe Systems Incorporated       
+FANUC Robotics Virtual Robot Controller V7.30                         7.3059.36.02                                     
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026         14.0.23026      Microsoft Corporation            
+CX-Server RT                                                          5.0.22.3        OMRON Corporation                
+UC232A_Win 10_64bit                                                   1.0.082         Aten International Co., Ltd.     
+CX-Server Driver Mgt Tool                                             5.0.22.3        Omron                            
+Microsoft SQL Server 2014 Setup (English)                             12.1.4237.0     Microsoft Corporation            
+FANUC Robotics Virtual Robot Controller V8.10                         8.1079.11.05    FANUC Robotics America, Inc.     
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219           10.0.40219      Microsoft Corporation            
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+Microsoft Visual Basic PowerPacks 2.0                                 2.0.0           Microsoft Corporation            
+WD Security                                                           1.4.0.92        Western Digital Technologies, ...
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005         12.0.21005      Microsoft Corporation            
+FANUC Robotics Virtual Robot Controller V8.13                         8.1314.04.07                                     
+FANUC Robotics Virtual Robot Controller V7.40                         7.40112.22.04                                    
+V-SFT Version 6.0                                                     6.0.21.0        Hakko Electronics Co., Ltd.      
+
+
+
+
 PS C:\Users\Desenho>  Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-
 Object DisplayName, DisplayVersion, Publisher, InstallDate | Format-Table –AutoSize
 
